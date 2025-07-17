@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "decks": [
+    {
+      "id": "to_be",
+      "title": "to Be Fluency",
+      "description": "Automatism with the verb to be. Start here!",
+      "url": "https://raw.githubusercontent.com/verbocycle/data/main/decks/to_be/deck.json"
+    },
+    {
+      "id": "modal_verbs",
+      "title": "you MUST do it",
+      "description": "Work on the modal verbs: can, must, could, may, might, will, shall, would, should",
+      "url": "https://raw.githubusercontent.com/verbocycle/data/main/decks/modal_verbs/deck.json"
+    }
+  ]
+}

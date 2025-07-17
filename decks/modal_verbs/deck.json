@@ -1,0 +1,18 @@
+{
+  "id": "modal_verbs",
+  "title": "you MUST do it",
+  "levels": [
+    {
+      "level": 1,
+      "title": "Beginner",
+      "description": "Basics of can and must",
+      "url": "https://raw.githubusercontent.com/verbocycle/data/main/decks/modal_verbs/level_1/data.json"
+    },
+    {
+      "level": 2,
+      "title": "Questions",
+      "description": "Could, should, might",
+      "url": "https://raw.githubusercontent.com/verbocycle/data/main/decks/modal_verbs/level_2/data.json"
+    }
+  ]
+}
