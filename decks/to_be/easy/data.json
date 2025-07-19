@@ -29,7 +29,7 @@
         },
         {
             "en": {
-                "sound": ["100002_1_en.mp3", "friShe_2_en.mp3", "friShe_3_en.mp3"],
+                "sound": ["100002_1_en.mp3", "100002_2_en.mp3", "100002_3_en.mp3"],
                 "text": ["She is my friend"]
             }
         }
