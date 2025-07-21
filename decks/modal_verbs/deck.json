@@ -3,6 +3,12 @@
   "title": "you MUST do it",
   "aspects": [
     {
+      "id": "can",
+      "title": "can (present)",
+      "description": "use of the modal verb can in the present tense",
+      "url": "https://raw.githubusercontent.com/verbocycle/data/main/decks/modal_verbs/can/can.json"
+    },
+    {
       "id": "base",
       "title": "Beginner",
       "description": "Basics of can and must",

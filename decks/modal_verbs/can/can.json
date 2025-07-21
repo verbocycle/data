@@ -1,0 +1,315 @@
+[
+  { 
+    "id" : "300001",
+    "description": "Ability & Skill",
+    "picture": ["300001.jpg"],
+    "lang": [
+        {"ru": {"sound": ["300001-ru.mp3"],"text": ["Она может свободно говорить на трех языках."]}},
+        {"en": {"sound": ["300001-1-en.mp3", "300001-2-en.mp3"],"text": ["She can speak three languages fluently."]}}
+    ]
+  },{ 
+    "id" : "300002",
+    "description": "Ability & Skill",
+    "picture": ["300002.jpg"],
+    "lang": [
+        {"ru": {"sound": ["300002-ru.mp3"], "text": ["Я могу видеть горы из своего окна."]}},
+        {"en": {"sound": ["300002-1-en.mp3", "300002-2-en.mp3"], "text": ["I can see the mountains from my window."]}}
+    ]
+  },{ 
+    "id" : "300003",
+    "description": "Ability & Skill",
+    "picture": ["300003.jpg"],
+    "lang": [
+        {"ru": {"sound": ["300003-ru.mp3"], "text": ["Они могут играть на пианино."]}},
+        {"en": {"sound": ["300003-1-en.mp3", "300003-2-en.mp3"], "text": ["They can play the piano."]}}
+    ]
+  },{ 
+    "id" : "300004",
+    "description": "Ability & Skill",
+    "picture": ["300004.jpg"],
+    "lang": [
+        {"ru": {"sound": ["300004-ru.mp3"], "text": ["Большинство птиц умеют летать."]}},
+        {"en": {"sound": ["300004-1-en.mp3", "300004-2-en.mp3"], "text": ["Most birds can fly."]}}
+    ]
+  },{ 
+    "id" : "300005",
+    "description": "Permission",
+    "picture": ["300005.jpg"],
+    "lang": [
+        {"ru": {"sound": ["300005-ru.mp3"], "text": ["Можете начинать презентацию, когда будете готовы."]}},
+        {"en": {"sound": ["300005-1-en.mp3", "300005-2-en.mp3"], "text": ["You can start the presentation when you are ready."]}}
+    ]
+  },{ 
+    "id" : "300006",
+    "description": "Permission",
+    "picture": ["300006-1.jpg", "300006-2.jpg"],
+    "lang": [
+        {"ru": {"sound": ["300006-ru.mp3"], "text": ["Mожешь взять последний кусочек торта."]}},
+        {"en": {"sound": ["300006-1-en.mp3", "300006-2-en.mp3"], "text": ["You can have the last piece of cake."]}}
+    ]
+  },{ 
+    "id" : "300007",
+    "description": "Permission",
+    "picture": ["300007.jpg"],
+    "lang": [
+        {"ru": {"sound": ["300007-ru.mp3"], "text": ["Все могут сделать небольшой перерыв сейчас."]}},
+        {"en": {"sound": ["300007-1-en.mp3", "300007-2-en.mp3"], "text": ["Everybody can take a short break now."]}}
+    ]
+  },{ 
+    "id" : "300008",
+    "picture": ["300008.jpg"],
+    "description": "Permission",
+    "lang": [
+        {"ru": {"sound": ["300008-ru.mp3"], "text": ["Можете положить свои вещи здесь."]}},
+        {"en": {"sound": ["300008-1-en.mp3", "300008-2-en.mp3"], "text": ["You can put your things here."]}}
+    ]
+  },{ 
+    "id" : "300009",
+    "description": "General Possibility",
+    "picture": ["300009.jpg"],
+    "lang": [
+        {"ru": {"sound": ["300009-ru.mp3"], "text": ["Ночью в горах бывает очень холодно."]}},
+        {"en": {"sound": ["300009-1-en.mp3", "300009-2-en.mp3"], "text": ["It can be very cold in the mountains at night."]}}
+    ]
+  },{ 
+    "id" : "300010",
+    "description": "General Possibility",
+    "picture": ["300010.jpg"],
+    "lang": [
+        {"ru": {"sound": ["300010-ru.mp3"], "text": ["Любой может сделать ошибку."]}},
+        {"en": {"sound": ["300010-1-en.mp3", "300010-2-en.mp3"], "text": ["Anyone can make a mistake."]}}
+    ]
+  },{ 
+    "id" : "300011",
+    "description": "Offer of Help",
+    "picture": ["300011-1.jpg"],
+    "lang": [
+        {"ru": {"sound": ["300011-ru.mp3"], "text": ["Я могу помочь тебе."]}},
+        {"en": {"sound": ["300011-1-en.mp3", "300011-2-en.mp3"], "text": ["I can help you."]}}
+    ]
+  },{ 
+    "id" : "300012",
+    "description": "Offer of Help",
+    "picture": ["300012.jpg"],
+    "lang": [
+        {"ru": {"sound": ["300012-ru.mp3"], "text": ["Я могу объяснить это еще раз."]}},
+        {"en": {"sound": ["300012-1-en.mp3", "300012-2-en.mp3"], "text": ["I can explain it again."]}}
+    ]
+  },{ 
+    "id" : "300013",
+    "description": "Lack of Ability & Skill",
+    "picture": ["300013.jpg"],
+    "lang": [
+        {"ru": {"sound": ["300013-ru.mp3"], "text": ["Я не умею играть на гитаре совсем."]}},
+        {"en": {"sound": ["300013-1-en.mp3", "300013-2-en.mp3"], "text": ["I cannot play the guitar at all."]}}
+    ]
+  },{ 
+    "id" : "300014",
+    "description": "Lack of Ability & Skill",
+    "picture": ["300014.jpg"],
+    "lang": [
+        {"ru": {"sound": ["300014-ru.mp3"], "text": ["Он не умеет водить машину."]}},
+        {"en": {"sound": ["300014-1-en.mp3", "300014-2-en.mp3"], "text": ["He can't drive a car."]}}
+    ]
+  },{ 
+    "id" : "300015",
+    "description": "Lack of Ability & Skill",
+    "picture": ["300015.jpg"],
+    "lang": [
+        {"ru": {"sound": ["300015-ru.mp3"], "text": ["Извините, я не умею говорить по-испански."]}},
+        {"en": {"sound": ["300015-1-en.mp3", "300015-2-en.mp3"], "text": ["Sorry, I can't speak Spanish."]}}
+    ]
+  },{ 
+    "id" : "300016",
+    "description": "Prohibition",
+    "picture": ["300016.jpg"],
+    "lang": [
+        {"ru": {"sound": ["300016-ru.mp3"], "text": ["Вы не можете парковать машину здесь."]}},
+        {"en": {"sound": ["300016-1-en.mp3", "300016-2-en.mp3"], "text": ["You can't park your car here"]}}
+    ]
+  },{ 
+    "id" : "300017",
+    "description": "Prohibition",
+    "picture": ["300017.jpg"],
+    "lang": [
+        {"ru": {"sound": ["300017-ru.mp3"], "text": ["Студентам нельзя пользоваться их телефонами."]}},
+        {"en": {"sound": ["300017-1-en.mp3", "300017-2-en.mp3"], "text": ["Students cannot use their phones."]}}
+    ]
+  },{ 
+    "id" : "300018",
+    "description": "Prohibition",
+    "picture": ["300018.jpg"],
+    "lang": [
+        {"ru": {"sound": ["300018-ru.mp3"], "text": ["Ты не можешь входить в мою комнату без разрешения."]}},
+        {"en": {"sound": ["300018-1-en.mp3", "300018-2-en.mp3"], "text": ["You can't enter my room without permission."]}}
+    ]
+  },{ 
+    "id" : "300019",
+    "description": "Prohibition",
+    "picture": ["300019.jpg"],
+    "lang": [
+        {"ru": {"sound": ["300019-ru.mp3"], "text": ["Вы не можете здесь фотографировать."]}},
+        {"en": {"sound": ["300019-1-en.mp3", "300019-2-en.mp3"], "text": ["You can't take photos here."]}}
+    ]
+  },{ 
+    "id" : "300020",
+    "description": "Impossibility or Strong Doubt",
+    "picture": ["300020.jpg"],
+    "lang": [
+        {"ru": {"sound": ["300020-ru.mp3"], "text": ["Эта история не может быть правдой. Звучит как фантастика."]}},
+        {"en": {"sound": ["300020-1-en.mp3", "300020-2-en.mp3"], "text": ["This story can't be true. It sounds like a fantasy."]}}
+    ]
+  },{ 
+    "id" : "300021",
+    "description": "Impossibility or Strong Doubt",
+    "picture": ["300021.jpg"],
+    "lang": [
+        {"ru": {"sound": ["300021-ru.mp3"], "text": ["Она не может знать о сюрпризе."]}},
+        {"en": {"sound": ["300021-1-en.mp3", "300021-2-en.mp3"], "text": ["She can't know about the surprise."]}}
+    ]
+  },{ 
+    "id" : "300022",
+    "description": "Impossibility or Strong Doubt",
+    "picture": ["300022.jpg"],
+    "lang": [
+        {"ru": {"sound": ["300022-ru.mp3"], "text": ["Это не может быть Джон."]}},
+        {"en": {"sound": ["300022-1-en.mp3", "300022-2-en.mp3"], "text": ["It can't be John."]}}
+    ]
+  },{ 
+    "id" : "300023",
+    "description": "Impossibility or Strong Doubt",
+    "picture": ["300023.jpg"],
+    "lang": [
+        {"ru": {"sound": ["300023-ru.mp3"], "text": ["Мы не можем себе этого позволить."]}},
+        {"en": {"sound": ["300023-1-en.mp3", "300023-2-en.mp3"], "text": ["We can't afford it."]}}
+    ]
+  },{ 
+    "id" : "300024",
+    "description": "Inability to Help",
+    "picture": ["300024.jpg"],
+    "lang": [
+        {"ru": {"sound": ["300024-ru.mp3"], "text": ["Я не могу помочь тебе прямо сейчас."]}},
+        {"en": {"sound": ["300024-1-en.mp3", "300024-2-en.mp3"], "text": ["I can't help you right now."]}}
+    ]
+  },{ 
+    "id" : "300025",
+    "description": "Inability to Help",
+    "picture": ["300025.jpg"],
+    "lang": [
+        {"ru": {"sound": ["300025-ru.mp3"], "text": ["Мы не можем больше ждать."]}},
+        {"en": {"sound": ["300025-1-en.mp3", "300025-2-en.mp3"], "text": ["We can't wait any longer."]}}
+    ]
+  },{ 
+    "id" : "300026",
+    "description": "Inquiring about Ability & Skill",
+    "picture": ["300026.jpg"],
+    "lang": [
+        {"ru": {"sound": ["300026-ru.mp3"], "text": ["Ты умеешь водить машину?"]}},
+        {"en": {"sound": ["300026-1-en.mp3", "300026-2-en.mp3"], "text": ["Can you drive a car?"]}}
+    ]
+  },{ 
+    "id" : "300027",
+    "description": "Inability to Help",
+    "picture": ["300027.jpg"],
+    "lang": [
+        {"ru": {"sound": ["300027-ru.mp3"], "text": ["Он умеет пользоваться этой программой?"]}},
+        {"en": {"sound": ["300027-1-en.mp3", "300027-2-en.mp3"], "text": ["Can he use this program?"]}}
+    ]
+  },{ 
+    "id" : "300028",
+    "description": "Inability to Help",
+    "picture": ["300028.jpg"],
+    "lang": [
+        {"ru": {"sound": ["300028-ru.mp3"], "text": ["Можете исправить эту ошибку до дедлайна?"]}},
+        {"en": {"sound": ["300028-1-en.mp3", "300028-2-en.mp3"], "text": ["Can you fix this bug before the deadline?"]}}
+    ]
+  },{ 
+    "id" : "300029",
+    "description": "Requesting Permission",
+    "picture": ["300029.jpg"],
+    "lang": [
+        {"ru": {"sound": ["300029-ru.mp3"], "text": ["Могу я спросить у тебя личный вопрос?"]}},
+        {"en": {"sound": ["300029-1-en.mp3", "300029-2-en.mp3"], "text": ["Can I ask you a personal question?"]}}
+    ]
+  },{ 
+    "id" : "300030",
+    "description": "Requesting Permission",
+    "picture": ["300030.jpg"],
+    "lang": [
+        {"ru": {"sound": ["300030-ru.mp3"], "text": ["Мы можем здесь сесть?"]}},
+        {"en": {"sound": ["300030-1-en.mp3", "300030-2-en.mp3"], "text": ["Can we sit here?"]}}
+    ]
+  },{ 
+    "id" : "300031",
+    "description": "Requesting Permission",
+    "picture": ["300031.jpg"],
+    "lang": [
+        {"ru": {"sound": ["300031-ru.mp3"], "text": ["Могу я заплатить картой?"]}},
+        {"en": {"sound": ["300031-1-en.mp3", "300031-2-en.mp3"], "text": ["Can I pay by card?"]}}
+    ]
+  },{ 
+    "id" : "300032",
+    "description": "Requesting Permission",
+    "picture": ["300032.jpg"],
+    "lang": [
+        {"ru": {"sound": ["300032-ru.mp3"], "text": ["Могу я взглянуть на твои записи?"]}},
+        {"en": {"sound": ["300032-1-en.mp3", "300032-2-en.mp3"], "text": ["Can I have a look at your notes?"]}}
+    ]
+  },{ 
+    "id" : "300033",
+    "description": "Making a Request",
+    "picture": ["300033.jpg"],
+    "lang": [
+        {"ru": {"sound": ["300033-ru.mp3"], "text": ["Не могли бы вы помочь мне с этой сумкой, пожалуйста?"]}},
+        {"en": {"sound": ["300033-1-en.mp3", "300033-2-en.mp3"], "text": ["Can you help me with this bag, please?"]}}
+    ]
+  },{ 
+    "id" : "300034",
+    "description": "Making a Request",
+    "picture": ["300034.jpg"],
+    "lang": [
+        {"ru": {"sound": ["300034-ru.mp3"], "text": ["Не могли бы вы говорить немного медленнее?"]}},
+        {"en": {"sound": ["300034-1-en.mp3", "300034-2-en.mp3"], "text": ["Can you speak a little slower, please?"]}}
+    ]
+  },{ 
+    "id" : "300035",
+    "description": "Making a Request",
+    "picture": ["300035.jpg"],
+    "lang": [
+        {"ru": {"sound": ["300035-ru.mp3"], "text": ["Можете рассказать, как добраться до центра города?"]}},
+        {"en": {"sound": ["300035-1-en.mp3", "300035-2-en.mp3"], "text": ["Can you tell me how to get to the city center?"]}}
+    ]
+  },{ 
+    "id" : "300036",
+    "description": "Making a Request",
+    "picture": ["300036.jpg"],
+    "lang": [
+        {"ru": {"sound": ["300036-ru.mp3"], "text": ["Можешь подождать меня пять минут?"]}},
+        {"en": {"sound": ["300036-1-en.mp3", "300036-2-en.mp3"], "text": ["Can you wait for me for five minutes?"]}}
+    ]
+  },{ 
+    "id" : "300037",
+    "description": "Inquiring about Possibility",
+    "picture": ["300037.jpg"],
+    "lang": [
+        {"ru": {"sound": ["300037-ru.mp3"], "text": ["Мы можем закончить всю эту работу за один день?"]}},
+        {"en": {"sound": ["300037-1-en.mp3", "300037-2-en.mp3"], "text": ["Can we finish all this work in one day?"]}}
+    ]
+  },{ 
+    "id" : "300038",
+    "description": "Inquiring about Possibility",
+    "picture": ["300038.jpg"],
+    "lang": [
+        {"ru": {"sound": ["300038-ru.mp3"], "text": ["Я могу подключить свой ноутбук к этому монитору?"]}},
+        {"en": {"sound": ["300038-1-en.mp3", "300038-2-en.mp3"], "text": ["Can I connect my laptop to this monitor?"]}}
+    ]
+  },{ 
+    "id" : "300039",
+    "description": "Inquiring about Possibility",
+    "picture": ["300039.jpg"],
+    "lang": [
+        {"ru": {"sound": ["300039-ru.mp3"], "text": ["Мы можем изменить время встречи?"]}},
+        {"en": {"sound": ["300039-1-en.mp3", "300039-2-en.mp3"], "text": ["Can we change the meeting time?"]}}
+    ]
+  }
+]
