@@ -311,5 +311,13 @@
         {"ru": {"sound": ["300039-ru.mp3"], "text": ["Мы можем изменить время встречи?"]}},
         {"en": {"sound": ["300039-1-en.mp3", "300039-2-en.mp3"], "text": ["Can we change the meeting time?"]}}
     ]
+  },{ 
+    "id" : "300040",
+    "description": "Ability & Skill",
+    "picture": ["300040_1.jpg", "300040_2.jpg", "300040_3.jpg"],
+    "lang": [
+        {"ru": {"sound": ["300040_ru.mp3"],"text": ["Я могу это сделать"]}},
+        {"en": {"sound": ["300040_1_en.mp3", "300040_2_en.mp3"],"text": ["I can do it"]}}
+    ]
   }
 ]
