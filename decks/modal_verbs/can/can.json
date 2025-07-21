@@ -44,7 +44,7 @@
     "description": "Permission",
     "picture": ["300006-1.jpg", "300006-2.jpg"],
     "lang": [
-        {"ru": {"sound": ["300006-ru.mp3"], "text": ["Mожешь взять последний кусочек торта."]}},
+        {"ru": {"sound": ["300006-ru.mp3"], "text": ["Mожешь присвоить последний кусочек торта."]}},
         {"en": {"sound": ["300006-1-en.mp3", "300006-2-en.mp3"], "text": ["You can have the last piece of cake."]}}
     ]
   },{ 
@@ -52,7 +52,7 @@
     "description": "Permission",
     "picture": ["300007.jpg"],
     "lang": [
-        {"ru": {"sound": ["300007-ru.mp3"], "text": ["Все могут сделать небольшой перерыв сейчас."]}},
+        {"ru": {"sound": ["300007-ru.mp3"], "text": ["Все (каждый) могут сделать небольшой перерыв сейчас."]}},
         {"en": {"sound": ["300007-1-en.mp3", "300007-2-en.mp3"], "text": ["Everybody can take a short break now."]}}
     ]
   },{ 
@@ -68,8 +68,8 @@
     "description": "General Possibility",
     "picture": ["300009.jpg"],
     "lang": [
-        {"ru": {"sound": ["300009-ru.mp3"], "text": ["Ночью в горах бывает очень холодно."]}},
-        {"en": {"sound": ["300009-1-en.mp3", "300009-2-en.mp3"], "text": ["It can be very cold in the mountains at night."]}}
+        {"ru": {"sound": ["300009-ru.mp3"], "text": ["Может быть очень холодно в горах."]}},
+        {"en": {"sound": ["300009-1-en.mp3", "300009-2-en.mp3"], "text": ["It can be very cold in the mountains."]}}
     ]
   },{ 
     "id" : "300010",
@@ -124,7 +124,7 @@
     "description": "Prohibition",
     "picture": ["300016.jpg"],
     "lang": [
-        {"ru": {"sound": ["300016-ru.mp3"], "text": ["Вы не можете парковать машину здесь."]}},
+        {"ru": {"sound": ["300016-ru.mp3"], "text": ["Вы не можете парковать вашу машину здесь."]}},
         {"en": {"sound": ["300016-1-en.mp3", "300016-2-en.mp3"], "text": ["You can't park your car here"]}}
     ]
   },{ 
