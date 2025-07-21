@@ -4,18 +4,21 @@
   "aspects": [
     {
       "id": "can",
+      "version": 1,
       "title": "can (present)",
       "description": "use of the modal verb can in the present tense",
       "url": "https://raw.githubusercontent.com/verbocycle/data/main/decks/modal_verbs/can/can.json"
     },
     {
       "id": "base",
+      "version": 1,
       "title": "Beginner",
       "description": "Basics of can and must",
       "url": "https://raw.githubusercontent.com/verbocycle/data/main/decks/modal_verbs/base/data.json"
     },
     {
       "id": "questions",
+      "version": 1,
       "title": "Questions",
       "description": "Could, should, might",
       "url": "https://raw.githubusercontent.com/verbocycle/data/main/decks/modal_verbs/questions/data.json"
