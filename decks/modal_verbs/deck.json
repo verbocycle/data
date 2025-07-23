@@ -10,6 +10,13 @@
       "url": "https://raw.githubusercontent.com/verbocycle/data/main/decks/modal_verbs/can/can.json"
     },
     {
+      "id": "had_to",
+      "version": 1,
+      "title": "had to (past)",
+      "description": "use of the semi-modal verb have in the past tense",
+      "url": "https://raw.githubusercontent.com/verbocycle/data/main/decks/modal_verbs/had_to/had_to.json"
+    },
+    {
       "id": "base",
       "version": 1,
       "title": "Beginner",
