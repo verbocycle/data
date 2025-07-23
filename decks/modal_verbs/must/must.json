@@ -1,0 +1,171 @@
+[
+  { 
+    "id" : "400001",
+    "description": "Strong Obligation / Necessity",
+    "picture": ["400001.jpg"],
+    "lang": [
+        {"ru": {"sound": ["400001-ru.mp3"],"text": ["Я должен закончить этот отчет к 5 вечера."]}},
+        {"en": {"sound": ["400001-1-en.mp3", "400001-2-en.mp3"],"text": ["I must finish this report by 5 PM."]}}
+    ]
+  },{ 
+    "id" : "400002",
+    "description": "Strong Obligation / Necessity",
+    "picture": ["400002.jpg"],
+    "lang": [
+        {"ru": {"sound": ["400002-ru.mp3"], "text": ["Вы должны пристегивать ремень безопасности в машине."]}},
+        {"en": {"sound": ["400002-1-en.mp3", "400002-2-en.mp3"], "text": ["You must fasten your seatbelt in a car."]}}
+    ]
+  },{ 
+    "id" : "400003",
+    "description": "Strong Obligation / Necessity",
+    "picture": ["400003.jpg"],
+    "lang": [
+        {"ru": {"sound": ["400003-ru.mp3"], "text": ["Вы должны иметь билет, чтобы войти в кинотеатр."]}},
+        {"en": {"sound": ["400003-1-en.mp3", "400003-2-en.mp3"], "text": ["You must have a ticket to enter the cinema."]}}
+    ]
+  },{ 
+    "id" : "400004",
+    "description": "Strong Obligation / Necessity",
+    "picture": ["400004.jpg"],
+    "lang": [
+        {"ru": {"sound": ["400004-ru.mp3"], "text": ["Мы должны платить налоги вовремя."]}},
+        {"en": {"sound": ["400004-1-en.mp3", "400004-2-en.mp3"], "text": ["We must pay our taxes on time."]}}
+    ]
+  },{ 
+    "id" : "400005",
+    "description": "Logical Deduction / Certainty",
+    "picture": ["400005.jpg"],
+    "lang": [
+        {"ru": {"sound": ["400005-ru.mp3"], "text": ["Ты обязательно должен посмотреть этот фильм! Он потрясающий."]}},
+        {"en": {"sound": ["400005-1-en.mp3", "400005-2-en.mp3"], "text": ["You must see this movie! It's fantastic."]}}
+    ]
+  },{ 
+    "id" : "400006",
+    "description": "Logical Deduction / Certainty",
+    "picture": ["400006.jpg"],
+    "lang": [
+        {"ru": {"sound": ["400006-ru.mp3"], "text": ["Ты должен прочитать эту книгу."]}},
+        {"en": {"sound": ["400006-1-en.mp3", "400006-2-en.mp3"], "text": ["You must read this book."]}}
+    ]
+  },{ 
+    "id" : "400007",
+    "description": "Logical Deduction / Certainty",
+    "picture": ["400007.jpg"],
+    "lang": [
+        {"ru": {"sound": ["400007-ru.mp3"], "text": ["Мы должны поговорить о наших планах на будущее."]}},
+        {"en": {"sound": ["400007-1-en.mp3", "400007-2-en.mp3"], "text": ["We must talk about our plans for the future."]}}
+    ]
+  },{ 
+    "id" : "400008",
+    "description": "Logical Deduction / Certainty:",
+    "picture": ["400008.jpg"],
+    "lang": [
+        {"ru": {"sound": ["400008-ru.mp3"], "text": ["Свет горит, так что кто-то, должно быть, дома."]}},
+        {"en": {"sound": ["400008-1-en.mp3", "400008-2-en.mp3"], "text": ["The lights are on, so somebody must be home."]}}
+    ]
+  },{ 
+    "id" : "400009",
+    "description": "Logical Deduction / Certainty:",
+    "picture": ["400009.jpg"],
+    "lang": [
+        {"ru": {"sound": ["400009-ru.mp3"], "text": ["Он весь день играет на улице. Наверное, он голоден."]}},
+        {"en": {"sound": ["400009-1-en.mp3", "400009-2-en.mp3"], "text": ["He's playing outside all day. He must be hungry."]}}
+    ]
+  },{ 
+    "id" : "400010",
+    "description": "Logical Deduction / Certainty:",
+    "picture": ["400010.jpg"],
+    "lang": [
+        {"ru": {"sound": ["400010-ru.mp3"], "text": ["Она водит очень дорогую машину. Должно быть, у нее хорошая работа."]}},
+        {"en": {"sound": ["400010-1-en.mp3", "400010-2-en.mp3"], "text": ["She drives a very expensive car. She must have a good job."]}}
+    ]
+  },{ 
+    "id" : "400011",
+    "description": "Irritation, impatience:",
+    "picture": ["400011.jpg"],
+    "lang": [
+        {"ru": {"sound": ["400011-ru.mp3"], "text": ["Неужели ты должен так шуметь? Я пытаюсь работать."]}},
+        {"en": {"sound": ["400011-1-en.mp3", "400011-2-en.mp3"], "text": ["Must you make so much noise? I'm trying to work."]}}
+    ]
+  },{ 
+    "id" : "400012",
+    "description": "Irritation, impatience:",
+    "picture": ["400012.jpg"],
+    "lang": [
+        {"ru": {"sound": ["400012-ru.mp3"], "text": ["Неужели я все должен делать сам?"]}},
+        {"en": {"sound": ["400012-1-en.mp3", "400012-2-en.mp3"], "text": ["Must I do everything myself?"]}}
+    ]
+  },{ 
+    "id" : "400013",
+    "description": "Irritation, impatience:",
+    "picture": ["400013.jpg"],
+    "lang": [
+        {"ru": {"sound": ["400013-ru.mp3"], "text": ["Неужели мы всегда должны его ждать? Он постоянно опаздывает."]}},
+        {"en": {"sound": ["400013-1-en.mp3", "400013-2-en.mp3"], "text": ["Must we always wait for him? He's always late."]}}
+    ]
+  },{ 
+    "id" : "400014",
+    "description": "Irritation, impatience:",
+    "picture": ["400014.jpg"],
+    "lang": [
+        {"ru": {"sound": ["400014-ru.mp3"], "text": ["Неужели ты должен так громко жевать?"]}},
+        {"en": {"sound": ["400014-1-en.mp3", "400014-2-en.mp3"], "text": ["Must you chew so loudly?"]}}
+    ]
+  },{ 
+    "id" : "400015",
+    "description": "Irritation, impatience:",
+    "picture": ["400015.jpg"],
+    "lang": [
+        {"ru": {"sound": ["400015-ru.mp3"], "text": ["Неужели ты всегда должен быть прав?"]}},
+        {"en": {"sound": ["400015-1-en.mp3", "400015-2-en.mp3"], "text": ["Must you always be right?"]}}
+    ]
+  },{ 
+    "id" : "400016",
+    "description": "Irritation, impatience:",
+    "picture": ["400016.jpg"],
+    "lang": [
+        {"ru": {"sound": ["400016-ru.mp3"], "text": ["Неужели ты должен перебивать меня каждый раз, когда я говорю?"]}},
+        {"en": {"sound": ["400016-1-en.mp3", "400016-2-en.mp3"], "text": ["Must you interrupt me every time I speak?"]}}
+    ]
+  },{ 
+    "id" : "400017",
+    "description": "Prohibition:",
+    "picture": ["400017.jpg"],
+    "lang": [
+        {"ru": {"sound": ["400017-ru.mp3"], "text": ["Тебе нельзя забыть запереть дверь."]}},
+        {"en": {"sound": ["400017-1-en.mp3", "400017-2-en.mp3"], "text": ["You mustn't forget to lock the door."]}}
+    ]
+  },{ 
+    "id" : "400018",
+    "description": "Prohibition:",
+    "picture": ["400018.jpg"],
+    "lang": [
+        {"ru": {"sound": ["400018-ru.mp3"], "text": ["Нельзя пользоваться телефоном за рулем."]}},
+        {"en": {"sound": ["400018-1-en.mp3", "400018-2-en.mp3"], "text": ["You must not use your phone while driving."]}}
+    ]
+  },{ 
+    "id" : "400019",
+    "description": "Prohibition:",
+    "picture": ["400019.jpg"],
+    "lang": [
+        {"ru": {"sound": ["400019-ru.mp3"], "text": ["Ты не должен никому рассказывать этот секрет."]}},
+        {"en": {"sound": ["400019-1-en.mp3", "400019-2-en.mp3"], "text": ["You must not tell anyone this secret."]}}
+    ]
+  },{ 
+    "id" : "400020",
+    "description": "Prohibition:",
+    "picture": ["400020.jpg"],
+    "lang": [
+        {"ru": {"sound": ["400020-ru.mp3"], "text": ["Нам нельзя об этом говорить."]}},
+        {"en": {"sound": ["400020-1-en.mp3", "400020-2-en.mp3"], "text": ["We mustn't talk about this."]}}
+    ]
+  },{ 
+    "id" : "400021",
+    "description": "Prohibition:",
+    "picture": ["400021.jpg"],
+    "lang": [
+        {"ru": {"sound": ["400021-ru.mp3"], "text": ["Нельзя нарушать обещание."]}},
+        {"en": {"sound": ["400021-1-en.mp3", "400021-2-en.mp3"], "text": ["No one must break a promise"]}}
+    ]
+  }
+]

@@ -1,0 +1,195 @@
+[
+  { 
+    "id" : "500001",
+    "description": "Past Obligation",
+    "picture": ["500001.jpg"],
+    "lang": [
+        {"ru": {"sound": ["500001-ru.mp3"],"text": ["Мне пришлось вчера работать допоздна."]}},
+        {"en": {"sound": ["500001-1-en.mp3", "500001-2-en.mp3"],"text": ["I had to work late yesterday."]}}
+    ]
+  },{
+    "id" : "500002",
+    "description": "Past Obligation",
+    "picture": ["500002.jpg"],
+    "lang": [
+        {"ru": {"sound": ["500002-ru.mp3"], "text": ["Нам пришлось заплатить штраф."]}},
+        {"en": {"sound": ["500002-1-en.mp3", "500002-2-en.mp3"], "text": ["We had to pay the fine."]}}
+    ]
+  },{
+    "id" : "500003",
+    "description": "Past Obligation",
+    "picture": ["500003.jpg"],
+    "lang": [
+        {"ru": {"sound": ["500003-ru.mp3"], "text": ["Им пришлось съехать."]}},
+        {"en": {"sound": ["500003-1-en.mp3", "500003-2-en.mp3"], "text": ["They had to move out."]}}
+    ]
+  },{
+    "id" : "500004",
+    "description": "Past Obligation",
+    "picture": ["500004.jpg"],
+    "lang": [
+        {"ru": {"sound": ["500004-ru.mp3"], "text": ["Ему пришлось принять трудное решение."]}},
+        {"en": {"sound": ["500004-1-en.mp3", "500004-2-en.mp3"], "text": ["He had to make a difficult decision."]}}
+    ]
+  },{
+    "id" : "500005",
+    "description": "Past Obligation",
+    "picture": ["500005.jpg"],
+    "lang": [
+        {"ru": {"sound": ["500005-ru.mp3"], "text": ["Нам пришлось ждать час, потому что автобус опоздал."]}},
+        {"en": {"sound": ["500005-1-en.mp3", "500005-2-en.mp3"], "text": ["We had to wait for an hour because the bus was late."]}}
+    ]
+  },{
+    "id" : "500006",
+    "description": "Past Obligation",
+    "picture": ["500006.jpg"],
+    "lang": [
+        {"ru": {"sound": ["500006-ru.mp3"], "text": ["Ей пришлось выучить новый язык программирования."]}},
+        {"en": {"sound": ["500006-1-en.mp3", "500006-2-en.mp3"], "text": ["She had to learn a new programming language."]}}
+    ]
+  },{
+    "id" : "500007",
+    "description": "Past Obligation",
+    "picture": ["500007.jpg"],
+    "lang": [
+        {"ru": {"sound": ["500007-ru.mp3"], "text": ["Ей пришлось купить новый телефон, потому что ее старый украли."]}},
+        {"en": {"sound": ["500007-1-en.mp3", "500007-2-en.mp3"], "text": ["She had to buy a new phone because her old phone was stolen."]}}
+    ]
+  },{
+    "id" : "500008",
+    "description": "Past Obligation",
+    "picture": ["500008.jpg"],
+    "lang": [
+        {"ru": {"sound": ["500008-ru.mp3"], "text": ["Им пришлось переехать в другой город из-за новой работы."]}},
+        {"en": {"sound": ["500008-1-en.mp3", "500008-2-en.mp3"], "text": ["They had to move to another city because of a new job."]}}
+    ]
+  },{
+    "id" : "500009",
+    "description": "Lack of Past Obligation",
+    "picture": ["500009.jpg"],
+    "lang": [
+        {"ru": {"sound": ["500009-ru.mp3"], "text": ["Встречу отменили, поэтому мне не пришлось идти в офис."]}},
+        {"en": {"sound": ["500009-1-en.mp3", "500009-2-en.mp3"], "text": ["The meeting was cancelled, so I didn't have to go to the office."]}}
+    ]
+  },{
+    "id" : "500010",
+    "description": "Lack of Past Obligation",
+    "picture": ["500010.jpg"],
+    "lang": [
+        {"ru": {"sound": ["500010-ru.mp3"], "text": ["Был праздник, поэтому мне не пришлось идти на работу."]}},
+        {"en": {"sound": ["500010-1-en.mp3", "500010-2-en.mp3"], "text": ["It was a holiday, so I didn't have to go to work."]}}
+    ]
+  },{
+    "id" : "500011",
+    "description": "Lack of Past Obligation",
+    "picture": ["500011.jpg"],
+    "lang": [
+        {"ru": {"sound": ["500011-ru.mp3"], "text": ["Мы убежали от полицейского, поэтому нам не пришлось платить штраф."]}},
+        {"en": {"sound": ["500011-1-en.mp3", "500011-2-en.mp3"], "text": ["We ran away from the policeman, so we didn't have to pay the fine."]}}
+    ]
+  },{
+    "id" : "500012",
+    "description": "Lack of Past Obligation",
+    "picture": ["500012.jpg"],
+    "lang": [
+        {"ru": {"sound": ["500012-ru.mp3"], "text": ["Она уже запомнила маршрут, поэтому ей не пришлось пользоваться навигатором."]}},
+        {"en": {"sound": ["500012-1-en.mp3", "500012-2-en.mp3"], "text": ["She already remembered the route, so she didn't have to use the navigator."]}}
+    ]
+  },{
+    "id" : "500013",
+    "description": "Lack of Past Obligation",
+    "picture": ["500013.jpg"],
+    "lang": [
+        {"ru": {"sound": ["500013-ru.mp3"], "text": ["Ему не нужно было всё объяснять."]}},
+        {"en": {"sound": ["500013-1-en.mp3", "500013-2-en.mp3"], "text": ["He didn't have to explain everything."]}}
+    ]
+  },{
+    "id" : "500014",
+    "description": "Lack of Past Obligation",
+    "picture": ["500014.jpg"],
+    "lang": [
+        {"ru": {"sound": ["500014-ru.mp3"], "text": ["Он работал шеф-поваром, поэтому мне не приходилось готовить дома."]}},
+        {"en": {"sound": ["500014-1-en.mp3", "500014-2-en.mp3"], "text": ["He worked as a chef, so I didn't have to cook at home."]}}
+    ]
+  },{
+    "id" : "500015",
+    "description": "Lack of Past Obligation",
+    "picture": ["500015.jpg"],
+    "lang": [
+        {"ru": {"sound": ["500015-ru.mp3"], "text": ["Нам не пришлось стоять в очереди, потому что вход был бесплатным."]}},
+        {"en": {"sound": ["500015-1-en.mp3", "500015-2-en.mp3"], "text": ["We didn't have to wait in line because admission was free."]}}
+    ]
+  },{
+    "id" : "500016",
+    "description": "Lack of Past Obligation",
+    "picture": ["500016.jpg"],
+    "lang": [
+        {"ru": {"sound": ["500016-ru.mp3"], "text": ["Мой друг подвез меня, поэтому мне не пришлось брать такси."]}},
+        {"en": {"sound": ["500016-1-en.mp3", "500016-2-en.mp3"], "text": ["My friend gave me a ride, so I didn't have to take a taxi."]}}
+    ]
+  },{
+    "id" : "500017",
+    "description": "Past Obligation Inquiry",
+    "picture": ["500017.jpg"],
+    "lang": [
+        {"ru": {"sound": ["500017-ru.mp3"], "text": ["Тебе пришлось вчера работать допоздна?"]}},
+        {"en": {"sound": ["500017-1-en.mp3", "500017-2-en.mp3"], "text": ["Did you have to work late yesterday?"]}}
+    ]
+  },{
+    "id" : "500018",
+    "description": "Past Obligation Inquiry",
+    "picture": ["500018.jpg"],
+    "lang": [
+        {"ru": {"sound": ["500018-ru.mp3"], "text": ["Ей пришлось заплатить штраф?"]}},
+        {"en": {"sound": ["500018-1-en.mp3", "500018-2-en.mp3"], "text": ["Did she have to pay a fine?"]}}
+    ]
+  },{
+    "id" : "500019",
+    "description": "Past Obligation Inquiry",
+    "picture": ["500019.jpg"],
+    "lang": [
+        {"ru": {"sound": ["500019-ru.mp3"], "text": ["Им пришлось уйти?"]}},
+        {"en": {"sound": ["500019-1-en.mp3", "500019-2-en.mp3"], "text": ["Did they have to leave?"]}}
+    ]
+  },{
+    "id" : "500020",
+    "description": "Past Obligation Inquiry",
+    "picture": ["500020.jpg"],
+    "lang": [
+        {"ru": {"sound": ["500020-ru.mp3"], "text": ["Тебе пришлось долго ждать?"]}},
+        {"en": {"sound": ["500020-1-en.mp3", "500020-2-en.mp3"], "text": ["Did you have to wait for a long time?"]}}
+    ]
+  },{
+    "id" : "500021",
+    "description": "Past Obligation Inquiry",
+    "picture": ["500021.jpg"],
+    "lang": [
+        {"ru": {"sound": ["500021-ru.mp3"], "text": ["Ему пришлось все объяснять своему начальнику?"]}},
+        {"en": {"sound": ["500021-1-en.mp3", "500021-2-en.mp3"], "text": ["Did he have to explain everything to his boss?"]}}
+    ]
+  },{
+    "id" : "500022",
+    "description": "Past Obligation Inquiry",
+    "picture": ["500022.jpg"],
+    "lang": [
+        {"ru": {"sound": ["500022-ru.mp3"], "text": ["Почему тебе пришлось купить новый телефон?"]}},
+        {"en": {"sound": ["500022-1-en.mp3", "500022-2-en.mp3"], "text": ["Why did you have to buy a new phone?"]}}
+    ]
+  },{
+    "id" : "500023",
+    "description": "Past Obligation Inquiry",
+    "picture": ["500023.jpg"],
+    "lang": [
+        {"ru": {"sound": ["500023-ru.mp3"], "text": ["Что тебе пришлось делать?"]}},
+        {"en": {"sound": ["500023-1-en.mp3", "500023-2-en.mp3"], "text": ["What did you have to do?"]}}
+    ]
+  },{
+    "id" : "500024",
+    "description": "Past Obligation Inquiry",
+    "picture": ["500024.jpg"],
+    "lang": [
+        {"ru": {"sound": ["500024-ru.mp3"], "text": ["Сколько тебе пришлось заплатить за это?"]}},
+        {"en": {"sound": ["500024-1-en.mp3", "500024-2-en.mp3"], "text": ["How much did you have to pay for it?"]}}
+    ]
+  }
+]
