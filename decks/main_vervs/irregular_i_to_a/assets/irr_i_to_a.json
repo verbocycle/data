@@ -1,0 +1,243 @@
+[
+  { 
+    "id" : "600001",
+    "description": "ring → rang",
+    "picture": ["600001.jpg"],
+    "lang": [
+        {"ru": {"sound": ["600001-ru.mp3"],"text": ["Прозвенел будильник. День начался."]}},
+        {"en": {"sound": ["600001-1-en.mp3", "600001-2-en.mp3"],"text": ["The alarm clock rang. The day began."]}}
+    ]
+  },{ 
+    "id" : "600002",
+    "description": "ring → rang",
+    "picture": ["600002.jpg"],
+    "lang": [
+        {"ru": {"sound": ["600002-ru.mp3"], "text": ["Прозвенел финальный гонг."]}},
+        {"en": {"sound": ["600002-1-en.mp3", "600002-2-en.mp3"], "text": ["The final bell rang."]}}
+    ]
+  },{ 
+    "id" : "600003",
+    "description": "ring → rang",
+    "picture": ["600003.jpg"],
+    "lang": [
+        {"ru": {"sound": ["600003-ru.mp3"], "text": ["У меня звенело в ушах после концерта."]}},
+        {"en": {"sound": ["600003-1-en.mp3", "600003-2-en.mp3"], "text": ["My ears rang after the concert."]}}
+    ]
+  },{ 
+    "id" : "600004",
+    "description": "sing → sang",
+    "picture": ["600004.jpg"],
+    "lang": [
+        {"ru": {"sound": ["600004-ru.mp3"], "text": ["Она убаюкала своего ребенка песней."]}},
+        {"en": {"sound": ["600004-1-en.mp3", "600004-2-en.mp3"], "text": ["She sang her baby to sleep."]}}
+    ]
+  },{ 
+    "id" : "600005",
+    "description": "sing → sang",
+    "picture": ["600005.jpg"],
+    "lang": [
+        {"ru": {"sound": ["600005-ru.mp3"], "text": ["Мы спели хит."]}},
+        {"en": {"sound": ["600005-1-en.mp3", "600005-2-en.mp3"], "text": ["We sang a hit song."]}}
+    ]
+  },{ 
+    "id" : " ",
+    "description": "sing → sang",
+    "picture": ["600006-1.jpg","600006-2.jpg"],
+    "lang": [
+        {"ru": {"sound": ["600006-ru.mp3"], "text": ["Девушки пели от всей души."]}},
+        {"en": {"sound": ["600006-1-en.mp3", "600006-2-en.mp3"], "text": ["The girls sang their hearts out."]}}
+    ]
+  },{ 
+    "id" : "600007",
+    "description": "sink → sank",
+    "picture": ["600007.jpg"],
+    "lang": [
+        {"ru": {"sound": ["600007-ru.mp3"], "text": ["Титаник утонул."]}},
+        {"en": {"sound": ["600007-1-en.mp3", "600007-2-en.mp3"], "text": ["The Titanic sank."]}}
+    ]
+  },{ 
+    "id" : "600008",
+    "description": "sink → sank",
+    "picture": ["600008.jpg"],
+    "lang": [
+        {"ru": {"sound": ["600008-ru.mp3"], "text": ["Солнце опустилось за горизонт."]}},
+        {"en": {"sound": ["600008-1-en.mp3", "600008-2-en.mp3"], "text": ["The sun sank below the horizon."]}}
+    ]
+  },{ 
+    "id" : "600009",
+    "description": "sink → sank",
+    "picture": ["600009.jpg"],
+    "lang": [
+        {"ru": {"sound": ["600009-ru.mp3"], "text": ["Он пал духом."]}},
+        {"en": {"sound": ["600009-1-en.mp3", "600009-2-en.mp3"], "text": ["His spirit sank."]}}
+    ]
+  },{ 
+    "id" : "600010",
+    "description": "drink → drank",
+    "picture": ["600010.jpg"],
+    "lang": [
+        {"ru": {"sound": ["600010-ru.mp3"], "text": ["Он вбежал и выпил стакан воды."]}},
+        {"en": {"sound": ["600010-1-en.mp3", "600010-2-en.mp3"], "text": ["He ran in and drank a glass of water."]}}
+    ]
+  },{ 
+    "id" : "600011",
+    "description": "drink → drank",
+    "picture": ["600011.jpg"],
+    "lang": [
+        {"ru": {"sound": ["600011-ru.mp3"], "text": ["Они пили всю ночь."]}},
+        {"en": {"sound": ["600011-1-en.mp3", "600011-2-en.mp3"], "text": ["They drank all night."]}}
+    ]
+  },{ 
+    "id" : "600012",
+    "description": "drink → drank",
+    "picture": ["600012.jpg"],
+    "lang": [
+        {"ru": {"sound": ["600012-ru.mp3"], "text": ["Дети выпили весь сок."]}},
+        {"en": {"sound": ["600012-1-en.mp3", "600012-2-en.mp3"], "text": ["The children drank all the juice."]}}
+    ]
+  },{ 
+    "id" : "600013",
+    "description": "shrink → shrank",
+    "picture": ["600013.jpg"],
+    "lang": [
+        {"ru": {"sound": ["600013-ru.mp3"], "text": ["Мой любимый свитер сел."]}},
+        {"en": {"sound": ["600013-1-en.mp3", "600013-2-en.mp3"], "text": ["My favorite sweater shrank."]}}
+    ]
+  },{ 
+    "id" : "600014",
+    "description": "shrink → shrank",
+    "picture": ["600014.jpg"],
+    "lang": [
+        {"ru": {"sound": ["600014-ru.mp3"], "text": ["Его смелость испарилась в один миг."]}},
+        {"en": {"sound": ["600014-1-en.mp3", "600014-2-en.mp3"], "text": ["His courage shrank in a moment."]}}
+    ]
+  },{ 
+    "id" : "600015",
+    "description": "shrink → shrank",
+    "picture": ["600015.jpg"],
+    "lang": [
+        {"ru": {"sound": ["600015-ru.mp3"], "text": ["Ее терпение иссякло. Она начала кричать."]}},
+        {"en": {"sound": ["600015-1-en.mp3", "600015-2-en.mp3"], "text": ["Her patience shrank. She began to shout."]}}
+    ]
+  },{ 
+    "id" : "600016",
+    "description": "swim → swam",
+    "picture": ["600016.jpg"],
+    "lang": [
+        {"ru": {"sound": ["600016-ru.mp3"], "text": ["Он плыл против течения."]}},
+        {"en": {"sound": ["600016-1-en.mp3", "600016-2-en.mp3"], "text": ["He swam against the current."]}}
+    ]
+  },{ 
+    "id" : "600017",
+    "description": "swim → swam",
+    "picture": ["600017.jpg"],
+    "lang": [
+        {"ru": {"sound": ["600017-ru.mp3"], "text": ["Я плавал в бассейне вчера."]}},
+        {"en": {"sound": ["600017-1-en.mp3", "600017-2-en.mp3"], "text": ["I swam in the pool yesterday."]}}
+    ]
+  },{ 
+    "id" : "600018",
+    "description": "swim → swam",
+    "picture": ["600018.jpg"],
+    "lang": [
+        {"ru": {"sound": ["600018-ru.mp3"], "text": ["Она переплыла озеро."]}},
+        {"en": {"sound": ["600018-1-en.mp3", "600018-2-en.mp3"], "text": ["She swam across the lake."]}}
+    ]
+  },{ 
+    "id" : "600019",
+    "description": "begin → began",
+    "picture": ["600019.jpg"],
+    "lang": [
+        {"ru": {"sound": ["600019-ru.mp3"], "text": ["Дождь начался внезапно."]}},
+        {"en": {"sound": ["600019-1-en.mp3", "600019-2-en.mp3"], "text": ["The rain began suddenly."]}}
+    ]
+  },{ 
+    "id" : "600020",
+    "description": "begin → began",
+    "picture": ["600020.jpg"],
+    "lang": [
+        {"ru": {"sound": ["600020-ru.mp3"], "text": ["Дети начали смеяться."]}},
+        {"en": {"sound": ["600020-1-en.mp3", "600020-2-en.mp3"], "text": ["The children began to laugh."]}}
+    ]
+  },{ 
+    "id" : "600021",
+    "description": "begin → began",
+    "picture": ["600021.jpg"],
+    "lang": [
+        {"ru": {"sound": ["600021-ru.mp3"], "text": ["Шоу началось."]}},
+        {"en": {"sound": ["600021-1-en.mp3", "600021-2-en.mp3"], "text": ["The show began."]}}
+    ]
+  },{ 
+    "id" : "600022",
+    "description": "run → ran",
+    "picture": ["600022.jpg"],
+    "lang": [
+        {"ru": {"sound": ["600022-ru.mp3"], "text": ["Он пробежал марафон в прошлом году."]}},
+        {"en": {"sound": ["600022-1-en.mp3", "600022-2-en.mp3"], "text": ["He ran a marathon last year."]}}
+    ]
+  },{ 
+    "id" : "600023",
+    "description": "run → ran",
+    "picture": ["600023.jpg"],
+    "lang": [
+        {"ru": {"sound": ["600023-ru.mp3"], "text": ["Она бежала, спасая свою жизнь."]}},
+        {"en": {"sound": ["600023-1-en.mp3", "600023-2-en.mp3"], "text": ["She ran for her life."]}}
+    ]
+  },{ 
+    "id" : "600024",
+    "description": "run → ran",
+    "picture": ["600024.jpg"],
+    "lang": [
+        {"ru": {"sound": ["600024-ru.mp3"], "text": ["Я управлял успешным бизнесом."]}},
+        {"en": {"sound": ["600024-1-en.mp3", "600024-2-en.mp3"], "text": ["I ran a successful business."]}}
+    ]
+  },{ 
+    "id" : "600025",
+    "description": "stink → stank",
+    "picture": ["600025.jpg"],
+    "lang": [
+        {"ru": {"sound": ["600025-ru.mp3"], "text": ["Последняя сделка дурно пахла."]}},
+        {"en": {"sound": ["600025-1-en.mp3", "600025-2-en.mp3"], "text": ["The last deal stank."]}}
+    ]
+  },{ 
+    "id" : "600026",
+    "description": "stink → stank",
+    "picture": ["600026.jpg"],
+    "lang": [
+        {"ru": {"sound": ["600026-ru.mp3"], "text": ["Мусор вонял."]}},
+        {"en": {"sound": ["600026-1-en.mp3", "600026-2-en.mp3"], "text": ["The garbage stank."]}}
+    ]
+  },{ 
+    "id" : "600027",
+    "description": "stink → stank",
+    "picture": ["600027.jpg"],
+    "lang": [
+        {"ru": {"sound": ["600027-ru.mp3"], "text": ["Весь дом провоняло дымом."]}},
+        {"en": {"sound": ["600027-1-en.mp3", "600027-2-en.mp3"], "text": ["The whole house stank of smoke."]}}
+    ]
+  },{ 
+    "id" : "600028",
+    "description": "spring → sprang",
+    "picture": ["600028.jpg"],
+    "lang": [
+        {"ru": {"sound": ["600028-ru.mp3"], "text": ["Он вскочил на ноги."]}},
+        {"en": {"sound": ["600028-1-en.mp3", "600028-2-en.mp3"], "text": ["He sprang to his feet."]}}
+    ]
+  },{ 
+    "id" : "600029",
+    "description": "spring → sprang",
+    "picture": ["600029.jpg"],
+    "lang": [
+        {"ru": {"sound": ["600029-ru.mp3"], "text": ["Новая идея внезапно возникла в голове."]}},
+        {"en": {"sound": ["600029-1-en.mp3", "600029-2-en.mp3"], "text": ["A new idea sprang to mind."]}}
+    ]
+  },{ 
+    "id" : "600030",
+    "description": "spring → sprang",
+    "picture": ["600030.jpg"],
+    "lang": [
+        {"ru": {"sound": ["600030-ru.mp3"], "text": ["Кошка запрыгнула на стол."]}},
+        {"en": {"sound": ["600030-1-en.mp3", "600030-2-en.mp3"], "text": ["The cat sprang onto the table."]}}
+    ]
+  }
+]
