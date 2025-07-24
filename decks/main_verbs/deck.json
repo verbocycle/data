@@ -3,9 +3,9 @@
   "title": "language core",
   "aspects": [
     {
-      "id": "irregular_verbs_i_to_a",
+      "id": "irregular_i_to_a",
       "version": 1,
-      "title": "irregular verbs (i->a group)",
+      "title": "irregular verbs (i -> a group)",
       "description": "learn irregular verbs",
       "url": "https://raw.githubusercontent.com/verbocycle/data/main/decks/main_verbs/irregular_i_to_a/i_to_a.json"
     }
