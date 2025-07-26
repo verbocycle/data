@@ -8,6 +8,12 @@
       "title": "irregular verbs (i -> a group)",
       "description": "learn irregular verbs",
       "url": "https://raw.githubusercontent.com/verbocycle/data/main/decks/main_verbs/irregular_i_to_a/i_to_a.json"
+    }, {
+      "id": "speech",
+      "version": 1,
+      "title": "Say / Tell / Talk / Speak",
+      "description": "learn verbs of speech",
+      "url": "https://raw.githubusercontent.com/verbocycle/data/main/decks/main_verbs/speech/speak_talk_tell_say.json"
     }
   ]
 }

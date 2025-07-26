@@ -1,0 +1,403 @@
+[
+  { 
+    "id" : "700001",
+    "description": "speak → spoke",
+    "picture": ["700001.jpg"],
+    "lang": [
+        {"ru": {"sound": ["700001-ru.mp3"],"text": ["Я говорю по-английски."]}},
+        {"en": {"sound": ["700001-1-en.mp3", "700001-2-en.mp3"],"text": ["I speak English."]}}
+    ]
+  },{ 
+    "id" : "700002",
+    "description": "talk → talked",
+    "picture": ["700002.jpg"],
+    "lang": [
+        {"ru": {"sound": ["700002-ru.mp3"], "text": ["Я часто разговариваю с моими соседями."]}},
+        {"en": {"sound": ["700002-1-en.mp3", "700002-2-en.mp3"], "text": ["I often talk to my neighbors."]}}
+    ]
+  },{ 
+    "id" : "700003",
+    "description": "tell → told",
+    "picture": ["700003.jpg"],
+    "lang": [
+        {"ru": {"sound": ["700003-ru.mp3"], "text": ["Я рассказываю всем одну историю."]}},
+        {"en": {"sound": ["700003-1-en.mp3", "700003-2-en.mp3"], "text": ["I tell everyone one story."]}}
+    ]
+  },{ 
+    "id" : "700004",
+    "description": "say → said",
+    "picture": ["700004.jpg"],
+    "lang": [
+        {"ru": {"sound": ["700004-ru.mp3"], "text": ["Я говорю это каждый раз."]}},
+        {"en": {"sound": ["700004-1-en.mp3", "700004-2-en.mp3"], "text": ["I say this every time."]}}
+    ]
+  },{ 
+    "id" : "700005",
+    "description": "talk → talked",
+    "picture": ["700005.jpg"],
+    "lang": [
+        {"ru": {"sound": ["700005-ru.mp3"], "text": ["Они разговаривают каждый день."]}},
+        {"en": {"sound": ["700005-1-en.mp3", "700005-2-en.mp3"], "text": ["They talk every day."]}}
+    ]
+  },{ 
+    "id" : "700006",
+    "description": "tell → told",
+    "picture": ["700006.jpg"],
+    "lang": [
+        {"ru": {"sound": ["700006-ru.mp3"], "text": ["Он всегда говорит Мэри правду."]}},
+        {"en": {"sound": ["700006-1-en.mp3", "700006-2-en.mp3"], "text": ["He always tells Mary the truth."]}}
+    ]
+  },{ 
+    "id" : "700007",
+    "description": "say → said",
+    "picture": ["700007.jpg"],
+    "lang": [
+        {"ru": {"sound": ["700007-ru.mp3"], "text": ["Она всегда говорит \"да\"."]}},
+        {"en": {"sound": ["700007-1-en.mp3", "700007-2-en.mp3"], "text": ["She always says \"yes\"."]}}
+    ]
+  },{ 
+    "id" : "700008",
+    "description": "speak → spoke",
+    "picture": ["700008.jpg"],
+    "lang": [
+        {"ru": {"sound": ["700008-ru.mp3"], "text": ["Мы говорим громко на работе."]}},
+        {"en": {"sound": ["700008-1-en.mp3", "700008-2-en.mp3"], "text": ["We speak loudly at work."]}}
+    ]
+  },{ 
+    "id" : "700009",
+    "description": "tell → told",
+    "picture": ["700009.jpg"],
+    "lang": [
+        {"ru": {"sound": ["700009-ru.mp3"], "text": ["Ты рассказываешь Анне шутки."]}},
+        {"en": {"sound": ["700009-1-en.mp3", "700009-2-en.mp3"], "text": ["You tell Ann jokes."]}}
+    ]
+  },{ 
+    "id" : "700010",
+    "description": "tell → told",
+    "picture": ["700010.jpg"],
+    "lang": [
+        {"ru": {"sound": ["700010-ru.mp3"], "text": ["Прогноз погоды рассказывает дождь."]}},
+        {"en": {"sound": ["700010-1-en.mp3", "700010-2-en.mp3"], "text": ["The forecast tells of rain."]}}
+    ]
+  },{ 
+    "id" : "700011",
+    "description": "say → said",
+    "picture": ["700011.jpg"],
+    "lang": [
+        {"ru": {"sound": ["700011-ru.mp3"], "text": ["Уильям говорит \"да\" вызовам."]}},
+        {"en": {"sound": ["700011-1-en.mp3", "700011-2-en.mp3"], "text": ["William says \"yes\" to challenges."]}}
+    ]
+  },{ 
+    "id" : "700012",
+    "description": "talk → talked",
+    "picture": ["700012.jpg"],
+    "lang": [
+        {"ru": {"sound": ["700012-ru.mp3"], "text": ["Дженнифер болтает с друзьями."]}},
+        {"en": {"sound": ["700012-1-en.mp3", "700012-2-en.mp3"], "text": ["Jennifer talks with friends."]}}
+    ]
+  },{ 
+    "id" : "700013",
+    "description": "tell → told",
+    "picture": ["700013.jpg"],
+    "lang": [
+        {"ru": {"sound": ["700013-ru.mp3"], "text": ["Я рассказываю Бобу каждый секрет."]}},
+        {"en": {"sound": ["700013-1-en.mp3", "700013-2-en.mp3"], "text": ["I tell Bob every secret."]}}
+    ]
+  },{ 
+    "id" : "700014",
+    "description": "speak → spoke",
+    "picture": ["700014.jpg"],
+    "lang": [
+        {"ru": {"sound": ["700014-ru.mp3"], "text": ["Джеймс говорит с акцентом."]}},
+        {"en": {"sound": ["700014-1-en.mp3", "700014-2-en.mp3"], "text": ["James speaks with an accent."]}}
+    ]
+  },{ 
+    "id" : "700015",
+    "description": "speak → spoke",
+    "picture": ["700015.jpg"],
+    "lang": [
+        {"ru": {"sound": ["700015-ru.mp3"], "text": ["Знак говорит об опасности."]}},
+        {"en": {"sound": ["700015-1-en.mp3", "700015-2-en.mp3"], "text": ["A sign speaks of danger."]}}
+    ]
+  },{ 
+    "id" : "700016",
+    "description": "say → said",
+    "picture": ["700016.jpg"],
+    "lang": [
+        {"ru": {"sound": ["700016-ru.mp3"], "text": ["Мы говорим \"спасибо\" за помощь."]}},
+        {"en": {"sound": ["700016-1-en.mp3", "700016-2-en.mp3"], "text": ["We say \"thank you\" for help."]}}
+    ]
+  },{ 
+    "id" : "700017",
+    "description": "talk → talked",
+    "picture": ["700017.jpg"],
+    "lang": [
+        {"ru": {"sound": ["700017-ru.mp3"], "text": ["Майкл и Дженнифер обычно разговаривают в кафетерии."]}},
+        {"en": {"sound": ["700017-1-en.mp3", "700017-2-en.mp3"], "text": ["Michael and Jennifer usually talk in a cafeteria."]}}
+    ]
+  },{ 
+    "id" : "700018",
+    "description": "tell → told",
+    "picture": ["700018.jpg"],
+    "lang": [
+        {"ru": {"sound": ["700018-ru.mp3"], "text": ["Она рассказывает Майклу всё."]}},
+        {"en": {"sound": ["700018-1-en.mp3", "700018-2-en.mp3"], "text": ["She tells Michael everything."]}}
+    ]
+  },{ 
+    "id" : "700019",
+    "description": "speak → spoke",
+    "picture": ["700019.jpg"],
+    "lang": [
+        {"ru": {"sound": ["700019-ru.mp3"], "text": ["Мэри говорит по-испански."]}},
+        {"en": {"sound": ["700019-1-en.mp3", "700019-2-en.mp3"], "text": ["Mary speaks Spanish."]}}
+    ]
+  },{ 
+    "id" : "700020",
+    "description": "tell → told",
+    "picture": ["700020.jpg"],
+    "lang": [
+        {"ru": {"sound": ["700020-ru.mp3"], "text": ["Книга рассказывает историю."]}},
+        {"en": {"sound": ["700020-1-en.mp3", "700020-2-en.mp3"], "text": ["The book tells a story."]}}
+    ]
+  },{ 
+    "id" : "700021",
+    "description": "talk → talked",
+    "picture": ["700021.jpg"],
+    "lang": [
+        {"ru": {"sound": ["700021-ru.mp3"], "text": ["Я разговариваю с клиентами по телефону."]}},
+        {"en": {"sound": ["700021-1-en.mp3", "700021-2-en.mp3"], "text": ["I talk to customers on the phone."]}}
+    ]
+  },{ 
+    "id" : "700022",
+    "description": "say → said",
+    "picture": ["700022.jpg"],
+    "lang": [
+        {"ru": {"sound": ["700022-ru.mp3"], "text": ["Он говорит \"привет\" по утрам."]}},
+        {"en": {"sound": ["700022-1-en.mp3", "700022-2-en.mp3"], "text": ["He says \"hello\" in the mornings."]}}
+    ]
+  },{ 
+    "id" : "700023",
+    "description": "tell → told",
+    "picture": ["700023.jpg"],
+    "lang": [
+        {"ru": {"sound": ["700023-ru.mp3"], "text": ["Элизабет рассказывает Кейт новости."]}},
+        {"en": {"sound": ["700023-1-en.mp3", "700023-2-en.mp3"], "text": ["Elizabeth tells Kate the news."]}}
+    ]
+  },{ 
+    "id" : "700024",
+    "description": "speak → spoke",
+    "picture": ["700024.jpg"],
+    "lang": [
+        {"ru": {"sound": ["700024-ru.mp3"], "text": ["Ты часто говоришь на встречах."]}},
+        {"en": {"sound": ["700024-1-en.mp3", "700024-2-en.mp3"], "text": ["You often speak at meetings."]}}
+    ]
+  },{ 
+    "id" : "700025",
+    "description": "tell → told",
+    "picture": ["700025.jpg"],
+    "lang": [
+        {"ru": {"sound": ["700025-ru.mp3"], "text": ["Они рассказывают детям сказки."]}},
+        {"en": {"sound": ["700025-1-en.mp3", "700025-2-en.mp3"], "text": ["They tell children fairy tales."]}}
+    ]
+  },{ 
+    "id" : "700026",
+    "description": "talk → talked",
+    "picture": ["700026.jpg"],
+    "lang": [
+        {"ru": {"sound": ["700026-ru.mp3"], "text": ["Мы беседуем о фильмах время от времени."]}},
+        {"en": {"sound": ["700026-1-en.mp3", "700026-2-en.mp3"], "text": ["We talk about movies from time to time."]}}
+    ]
+  },{ 
+    "id" : "700027",
+    "description": "say → said",
+    "picture": ["700027.jpg"],
+    "lang": [
+        {"ru": {"sound": ["700027-ru.mp3"], "text": ["Календарь говорит дату."]}},
+        {"en": {"sound": ["700027-1-en.mp3", "700027-2-en.mp3"], "text": ["A calendar says the date."]}}
+    ]
+  },{ 
+    "id" : "700028",
+    "description": "say → said",
+    "picture": ["700028.jpg"],
+    "lang": [
+        {"ru": {"sound": ["700028-ru.mp3"], "text": ["Майкл часто говорит забавные вещи."]}},
+        {"en": {"sound": ["700028-1-en.mp3", "700028-2-en.mp3"], "text": ["Michael often says funny things."]}}
+    ]
+  },{ 
+    "id" : "700029",
+    "description": "speak → spoke",
+    "picture": ["700029.jpg"],
+    "lang": [
+        {"ru": {"sound": ["700029-ru.mp3"], "text": ["Она говорит очень быстро."]}},
+        {"en": {"sound": ["700029-1-en.mp3", "700029-2-en.mp3"], "text": ["She speaks very fast."]}}
+    ]
+  },{ 
+    "id" : "700030",
+    "description": "tell → told",
+    "picture": ["700030.jpg"],
+    "lang": [
+        {"ru": {"sound": ["700030-ru.mp3"], "text": ["Я предсказываю будущее."]}},
+        {"en": {"sound": ["700030-1-en.mp3", "700030-2-en.mp3"], "text": ["I tell the future."]}}
+    ]
+  },{ 
+    "id" : "700031",
+    "description": "talk → talked",
+    "picture": ["700031.jpg"],
+    "lang": [
+        {"ru": {"sound": ["700031-ru.mp3"], "text": ["Уильям иногда разговаривает с Томом."]}},
+        {"en": {"sound": ["700031-1-en.mp3", "700031-2-en.mp3"], "text": ["William sometimes talks to Tom."]}}
+    ]
+  },{ 
+    "id" : "700032",
+    "description": "say → said",
+    "picture": ["700032.jpg"],
+    "lang": [
+        {"ru": {"sound": ["700032-ru.mp3"], "text": ["Она всегда говорит \"пожалуйста\"."]}},
+        {"en": {"sound": ["700032-1-en.mp3", "700032-2-en.mp3"], "text": ["She always says \"please\"."]}}
+    ]
+  },{ 
+    "id" : "700033",
+    "description": "tell → told",
+    "picture": ["700033.jpg"],
+    "lang": [
+        {"ru": {"sound": ["700033-ru.mp3"], "text": ["Мы рассказываем Джеймсу новости каждый день."]}},
+        {"en": {"sound": ["700033-1-en.mp3", "700033-2-en.mp3"], "text": ["We tell James the news every day."]}}
+    ]
+  },{ 
+    "id" : "700034",
+    "description": "speak → spoke",
+    "picture": ["700034.jpg"],
+    "lang": [
+        {"ru": {"sound": ["700034-ru.mp3"], "text": ["Он говорит официально."]}},
+        {"en": {"sound": ["700034-1-en.mp3", "700034-2-en.mp3"], "text": ["He speaks formally."]}}
+    ]
+  },{ 
+    "id" : "700035",
+    "description": "tell → told",
+    "picture": ["700035.jpg"],
+    "lang": [
+        {"ru": {"sound": ["700035-ru.mp3"], "text": ["Мэри рассказывает правила снова."]}},
+        {"en": {"sound": ["700035-1-en.mp3", "700035-2-en.mp3"], "text": ["Mary tells the rules again."]}}
+    ]
+  },{ 
+    "id" : "700036",
+    "description": "say → said",
+    "picture": ["700036.jpg"],
+    "lang": [
+        {"ru": {"sound": ["700036-ru.mp3"], "text": ["Они говорят это часто."]}},
+        {"en": {"sound": ["700036-1-en.mp3", "700036-2-en.mp3"], "text": ["They say it often."]}}
+    ]
+  },{ 
+    "id" : "700037",
+    "description": "tell → told",
+    "picture": ["700037.jpg"],
+    "lang": [
+        {"ru": {"sound": ["700037-ru.mp3"], "text": ["Карта расскажет путь."]}},
+        {"en": {"sound": ["700037-1-en.mp3", "700037-2-en.mp3"], "text": ["The map tells the way."]}}
+    ]
+  },{ 
+    "id" : "700038",
+    "description": "talk → talked",
+    "picture": ["700038.jpg"],
+    "lang": [
+        {"ru": {"sound": ["700038-ru.mp3"], "text": ["Ты много разговариваешь."]}},
+        {"en": {"sound": ["700038-1-en.mp3", "700038-2-en.mp3"], "text": ["You talk a lot."]}}
+    ]
+  },{ 
+    "id" : "700039",
+    "description": "tell → told",
+    "picture": ["700039.jpg"],
+    "lang": [
+        {"ru": {"sound": ["700039-ru.mp3"], "text": ["Майкл рассказывает одну шутку все время."]}},
+        {"en": {"sound": ["700039-1-en.mp3", "700039-2-en.mp3"], "text": ["Michael tells the same joke all the time."]}}
+    ]
+  },{ 
+    "id" : "700040",
+    "description": "say → said",
+    "picture": ["700040.jpg"],
+    "lang": [
+        {"ru": {"sound": ["700040-ru.mp3"], "text": ["Я говорю \"Привет\" каждому."]}},
+        {"en": {"sound": ["700040-1-en.mp3", "700040-2-en.mp3"], "text": ["I say \"Hi\" to everyone."]}}
+    ]
+  },{ 
+    "id" : "700041",
+    "description": "talk → talked",
+    "picture": ["700041.jpg"],
+    "lang": [
+        {"ru": {"sound": ["700041-ru.mp3"], "text": ["Он разговаривает по телефону часами."]}},
+        {"en": {"sound": ["700041-1-en.mp3", "700041-2-en.mp3"], "text": ["He talks on the phone for hours."]}}
+    ]
+  },{ 
+    "id" : "700042",
+    "description": "say → said",
+    "picture": ["700042.jpg"],
+    "lang": [
+        {"ru": {"sound": ["700042-ru.mp3"], "text": ["Мы говорим \"да\" хорошим предложениям."]}},
+        {"en": {"sound": ["700042-1-en.mp3", "700042-2-en.mp3"], "text": ["We say \"yes\" to good proposals."]}}
+    ]
+  },{ 
+    "id" : "700043",
+    "description": "say → said",
+    "picture": ["700043.jpg"],
+    "lang": [
+        {"ru": {"sound": ["700043-ru.mp3"], "text": ["Джеймс говорит хорошие вещи."]}},
+        {"en": {"sound": ["700043-1-en.mp3", "700043-2-en.mp3"], "text": ["James says good things."]}}
+    ]
+  },{ 
+    "id" : "700044",
+    "description": "tell → told",
+    "picture": ["700044.jpg"],
+    "lang": [
+        {"ru": {"sound": ["700044-ru.mp3"], "text": ["Дженнифер всегда рассказывает всё."]}},
+        {"en": {"sound": ["700044-1-en.mp3", "700044-2-en.mp3"], "text": ["Jennifer always tells everything."]}}
+    ]
+  },{ 
+    "id" : "700045",
+    "description": "talk → talked",
+    "picture": ["700045.jpg"],
+    "lang": [
+        {"ru": {"sound": ["700045-ru.mp3"], "text": ["Она разговаривает со всеми."]}},
+        {"en": {"sound": ["700045-1-en.mp3", "700045-2-en.mp3"], "text": ["She talks to everyone."]}}
+    ]
+  },{ 
+    "id" : "700046",
+    "description": "speak → spoke",
+    "picture": ["700046.jpg"],
+    "lang": [
+        {"ru": {"sound": ["700046-ru.mp3"], "text": ["Она говорит на английском очень хорошо."]}},
+        {"en": {"sound": ["700046-1-en.mp3", "700046-2-en.mp3"], "text": ["She speaks English very well."]}}
+    ]
+  },{ 
+    "id" : "700047",
+    "description": "say → said",
+    "picture": ["700047.jpg"],
+    "lang": [
+        {"ru": {"sound": ["700047-ru.mp3"], "text": ["Мэри всегда говорит \"прости\"."]}},
+        {"en": {"sound": ["700047-1-en.mp3", "700047-2-en.mp3"], "text": ["Mary always says \"sorry\"."]}}
+    ]
+  },{ 
+    "id" : "700048",
+    "description": "talk → talked",
+    "picture": ["700048.jpg"],
+    "lang": [
+        {"ru": {"sound": ["700048-ru.mp3"], "text": ["Мы всегда разговариваем после ужина."]}},
+        {"en": {"sound": ["700048-1-en.mp3", "700048-2-en.mp3"], "text": ["We always talk after dinner."]}}
+    ]
+  },{ 
+    "id" : "700049",
+    "description": "speak → spoke",
+    "picture": ["700049.jpg"],
+    "lang": [
+        {"ru": {"sound": ["700049-ru.mp3"], "text": ["Я говорю медленно."]}},
+        {"en": {"sound": ["700049-1-en.mp3", "700049-2-en.mp3"], "text": ["I speak slowly."]}}
+    ]
+  },{ 
+    "id" : "700050",
+    "description": "say → said",
+    "picture": ["700050.jpg"],
+    "lang": [
+        {"ru": {"sound": ["700050-ru.mp3"], "text": ["Уильям часто говорит это слово."]}},
+        {"en": {"sound": ["700050-1-en.mp3", "700050-2-en.mp3"], "text": ["William often says this word."]}}
+    ]
+  }
+]
