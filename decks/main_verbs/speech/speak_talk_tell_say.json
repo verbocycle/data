@@ -2,7 +2,7 @@
   { 
     "id" : "700001",
     "description": "speak → spoke",
-    "picture": ["700001.jpg"],
+    "picture": ["700001-1.jpg", "700001-2.jpg"],
     "lang": [
         {"ru": {"sound": ["700001-ru.mp3"],"text": ["Я говорю по-английски."]}},
         {"en": {"sound": ["700001-1-en.mp3", "700001-2-en.mp3"],"text": ["I speak English."]}}
