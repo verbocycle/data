@@ -1,27 +1,13 @@
 {
-  "id": "modal_verbs",
-  "title": "you MUST do it",
+  "id": "to_be",
+  "title": "to Be Fluency",
   "aspects": [
     {
       "id": "easy",
       "version": 1,
-      "title": "Skeleton",
-      "description": "Basics of can and must",
+      "title": "first steps",
+      "description": "Am / is / are",
       "url": "https://raw.githubusercontent.com/verbocycle/data/main/decks/to_be/easy/data.json"
-    },
-    {
-      "id": "basic",
-       "version": 1,
-      "title": "Statements",
-      "description": "Basics of can and must",
-      "url": "https://raw.githubusercontent.com/verbocycle/data/main/decks/to_be/basic/data.json"
-    },
-    {
-      "id": "questions",
-      "version": 1,
-      "title": "Questions",
-      "description": "Could, should, might",
-      "url": "https://raw.githubusercontent.com/verbocycle/data/main/decks/to_be/questions/data.json"
     }
   ]
 }

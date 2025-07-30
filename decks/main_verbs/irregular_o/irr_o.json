@@ -1,0 +1,363 @@
+[
+  { 
+    "id" : "800001",
+    "description": "rise → rose (подниматься)",
+    "picture": ["800001.jpg"],
+    "lang": [
+        {"ru": {"sound": ["800001-ru.mp3"],"text": ["Луна взошла уже?"]}},
+        {"en": {"sound": ["800001-1-en.mp3", "800001-2-en.mp3"],"text": ["Did the moon rise yet?"]}}
+    ]
+  },{ 
+    "id" : "800002",
+    "description": "rise → rose (подниматься)",
+    "picture": ["800002.jpg"],
+    "lang": [
+        {"ru": {"sound": ["800002-ru.mp3"], "text": ["Солнце встало на востоке."]}},
+        {"en": {"sound": ["800002-1-en.mp3", "800002-2-en.mp3"], "text": ["The sun rose in the East."]}}
+    ]
+  },{ 
+    "id" : "800003",
+    "description": "rise → rose (подниматься)",
+    "picture": ["800003.jpg"],
+    "lang": [
+        {"ru": {"sound": ["800003-ru.mp3"], "text": ["Уровень воды поднялся после дождя."]}},
+        {"en": {"sound": ["800003-1-en.mp3", "800003-2-en.mp3"], "text": ["The water level rose after the rain."]}}
+    ]
+  },{ 
+    "id" : "800004",
+    "description": "arise → arose (возникать)",
+    "picture": ["800004.jpg"],
+    "lang": [
+        {"ru": {"sound": ["800004-ru.mp3"], "text": ["Какие-либо трудности возникли?"]}},
+        {"en": {"sound": ["800004-1-en.mp3", "800004-2-en.mp3"], "text": ["Did any difficulties arise?"]}}
+    ]
+  },{ 
+    "id" : "800005",
+    "description": "arise → arose (возникать)",
+    "picture": ["800005.jpg"],
+    "lang": [
+        {"ru": {"sound": ["800005-ru.mp3"], "text": ["Новая проблема возникла."]}},
+        {"en": {"sound": ["800005-1-en.mp3", "800005-2-en.mp3"], "text": ["A new problem arose."]}}
+    ]
+  },{ 
+    "id" : "800006",
+    "description": "arise → arose (возникать)",
+    "picture": ["800006.jpg"],
+    "lang": [
+        {"ru": {"sound": ["800006-ru.mp3"], "text": ["Недопонимание возникло между ними."]}},
+        {"en": {"sound": ["800006-1-en.mp3", "800006-2-en.mp3"], "text": ["A misunderstanding arose between them."]}}
+    ]
+  },{ 
+    "id" : "800007",
+    "description": "choose → chose (выбирать)",
+    "picture": ["800007.jpg"],
+    "lang": [
+        {"ru": {"sound": ["800007-ru.mp3"], "text": ["Ты выбрал ей подарок?"]}},
+        {"en": {"sound": ["800007-1-en.mp3", "800007-2-en.mp3"], "text": ["Did you choose a gift for her?"]}}
+    ]
+  },{ 
+    "id" : "800008",
+    "description": "choose → chose (выбирать)",
+    "picture": ["800008.jpg"],
+    "lang": [
+        {"ru": {"sound": ["800008-ru.mp3"], "text": ["Она выбрала синее платье."]}},
+        {"en": {"sound": ["800008-1-en.mp3", "800008-2-en.mp3"], "text": ["She chose the blue dress."]}}
+    ]
+  },{ 
+    "id" : "800009",
+    "description": "choose → chose (выбирать)",
+    "picture": ["800009.jpg"],
+    "lang": [
+        {"ru": {"sound": ["800009-ru.mp3"], "text": ["Я выбрал промолчать."]}},
+        {"en": {"sound": ["800009-1-en.mp3", "800009-2-en.mp3"], "text": ["I chose to stay silent."]}}
+    ]
+  },{ 
+    "id" : "800010",
+    "description": "ride → rode (ехать верхом, кататься)",
+    "picture": ["800010.jpg"],
+    "lang": [
+        {"ru": {"sound": ["800010-ru.mp3"], "text": ["Ты каталась на своем самокате вчера?"]}},
+        {"en": {"sound": ["800010-1-en.mp3", "800010-2-en.mp3"], "text": ["Did you ride your scooter yesterday?"]}}
+    ]
+  },{ 
+    "id" : "800011",
+    "description": "ride → rode (ехать верхом, кататься)",
+    "picture": ["800011.jpg"],
+    "lang": [
+        {"ru": {"sound": ["800011-ru.mp3"], "text": ["Парень укатил (ускакал)."]}},
+        {"en": {"sound": ["800011-1-en.mp3", "800011-2-en.mp3"], "text": ["The guy rode off."]}}
+    ]
+  },{ 
+    "id" : "800012",
+    "description": "ride → rode (ехать верхом, кататься)",
+    "picture": ["800012.jpg"],
+    "lang": [
+        {"ru": {"sound": ["800012-ru.mp3"], "text": ["Мы катались на автобусе целый день."]}},
+        {"en": {"sound": ["800012-1-en.mp3", "800012-2-en.mp3"], "text": ["We rode the bus all day."]}}
+    ]
+  },{ 
+    "id" : "800013",
+    "description": "ride → rode (ехать верхом, кататься)",
+    "picture": ["800013.jpg"],
+    "lang": [
+        {"ru": {"sound": ["800013-ru.mp3"], "text": ["Она поднялась на лифте на 10-й этаж."]}},
+        {"en": {"sound": ["800013-1-en.mp3", "800013-2-en.mp3"], "text": ["She rode the elevator to the 10th floor."]}}
+    ]
+  },{ 
+    "id" : "800014",
+    "description": "strive → strove (стремиться, прилагать усилия)",
+    "picture": ["800014.jpg"],
+    "lang": [
+        {"ru": {"sound": ["800014-ru.mp3"], "text": ["Вы стремились улучшить ваши результаты?"]}},
+        {"en": {"sound": ["800014-1-en.mp3", "800014-2-en.mp3"], "text": ["Did you strive to improve your results?"]}}
+    ]
+  },{ 
+    "id" : "800015",
+    "description": "strive → strove (стремиться, прилагать усилия)",
+    "picture": ["800015.jpg"],
+    "lang": [
+        {"ru": {"sound": ["800015-ru.mp3"], "text": ["Он стремился быть лучшим."]}},
+        {"en": {"sound": ["800015-1-en.mp3", "800015-2-en.mp3"], "text": ["He strove to be the best."]}}
+    ]
+  },{ 
+    "id" : "800016",
+    "description": "strive → strove (стремиться, прилагать усилия)",
+    "picture": ["800016.jpg"],
+    "lang": [
+        {"ru": {"sound": ["800016-ru.mp3"], "text": ["Мы пытались понять английский язык."]}},
+        {"en": {"sound": ["800016-1-en.mp3", "800016-2-en.mp3"], "text": ["We strove to understand English."]}}
+    ]
+  },{ 
+    "id" : "800017",
+    "description": "steal → stole (красть)",
+    "picture": ["800017.jpg"],
+    "lang": [
+        {"ru": {"sound": ["800017-ru.mp3"], "text": ["Это он украл деньги?"]}},
+        {"en": {"sound": ["800017-1-en.mp3", "800017-2-en.mp3"], "text": ["Did he steal the money?"]}}
+    ]
+  },{ 
+    "id" : "800018",
+    "description": "steal → stole (красть)",
+    "picture": ["800018.jpg"],
+    "lang": [
+        {"ru": {"sound": ["800018-ru.mp3"], "text": ["Кто украл мой телефон?"]}},
+        {"en": {"sound": ["800018-1-en.mp3", "800018-2-en.mp3"], "text": ["Who stole my phone?"]}}
+    ]
+  },{ 
+    "id" : "800019",
+    "description": "steal → stole (красть)",
+    "picture": ["800019.jpg"],
+    "lang": [
+        {"ru": {"sound": ["800019-ru.mp3"], "text": ["Кот украл рыбу."]}},
+        {"en": {"sound": ["800019-1-en.mp3", "800019-2-en.mp3"], "text": ["The cat stole a fish."]}}
+    ]
+  },{ 
+    "id" : "800020",
+    "description": "sell → sold (продавать)",
+    "picture": ["800020.jpg"],
+    "lang": [
+        {"ru": {"sound": ["800020-ru.mp3"], "text": ["Ты продала свою машину?"]}},
+        {"en": {"sound": ["800020-1-en.mp3", "800020-2-en.mp3"], "text": ["Did you sell your car?"]}}
+    ]
+  },{ 
+    "id" : "800021",
+    "description": "sell → sold (продавать)",
+    "picture": ["800021.jpg"],
+    "lang": [
+        {"ru": {"sound": ["800021-ru.mp3"], "text": ["Я продал свою машину на прошлой неделе."]}},
+        {"en": {"sound": ["800021-1-en.mp3", "800021-2-en.mp3"], "text": ["I sold my car last week."]}}
+    ]
+  },{ 
+    "id" : "800022",
+    "description": "sell → sold (продавать)",
+    "picture": ["800022.jpg"],
+    "lang": [
+        {"ru": {"sound": ["800022-ru.mp3"], "text": ["Магазин продал все торты."]}},
+        {"en": {"sound": ["800022-1-en.mp3", "800022-2-en.mp3"], "text": ["The shop sold all the cakes."]}}
+    ]
+  },{ 
+    "id" : "800023",
+    "description": "tell → told (рассказывать, говорить)",
+    "picture": ["800023.jpg"],
+    "lang": [
+        {"ru": {"sound": ["800023-ru.mp3"], "text": ["Ты кому-нибудь рассказывал об этом?"]}},
+        {"en": {"sound": ["800023-1-en.mp3", "800023-2-en.mp3"], "text": ["Did you tell anyone about this?"]}}
+    ]
+  },{ 
+    "id" : "800024",
+    "description": "tell → told (рассказывать, говорить)",
+    "picture": ["800024.jpg"],
+    "lang": [
+        {"ru": {"sound": ["800024-ru.mp3"], "text": ["Кому рассказал ты?"]}},
+        {"en": {"sound": ["800024-1-en.mp3", "800024-2-en.mp3"], "text": ["Who told you?"]}}
+    ]
+  },{ 
+    "id" : "800025",
+    "description": "tell → told (рассказывать, говорить)",
+    "picture": ["800025.jpg"],
+    "lang": [
+        {"ru": {"sound": ["800025-ru.mp3"], "text": ["Я рассказал ему."]}},
+        {"en": {"sound": ["800025-1-en.mp3", "800025-2-en.mp3"], "text": ["I told him."]}}
+    ]
+  },{ 
+    "id" : "800026",
+    "description": "speak → spoke (говорить, разговаривать)",
+    "picture": ["800026.jpg"],
+    "lang": [
+        {"ru": {"sound": ["800026-ru.mp3"], "text": ["Ты поговорил со своим учителем?"]}},
+        {"en": {"sound": ["800026-1-en.mp3", "800026-2-en.mp3"], "text": ["Did you speak to your teacher?"]}}
+    ]
+  },{ 
+    "id" : "800027",
+    "description": "speak → spoke (говорить, разговаривать)",
+    "picture": ["800027.jpg"],
+    "lang": [
+        {"ru": {"sound": ["800027-ru.mp3"], "text": ["Кто говорил по-китайски на встрече?"]}},
+        {"en": {"sound": ["800027-1-en.mp3", "800027-2-en.mp3"], "text": ["Who spoke Chinese at the meeting?"]}}
+    ]
+  },{ 
+    "id" : "800028",
+    "description": "speak → spoke (говорить, разговаривать)",
+    "picture": ["800028.jpg"],
+    "lang": [
+        {"ru": {"sound": ["800028-ru.mp3"], "text": ["Она поговорила с менеджером сегодня утром."]}},
+        {"en": {"sound": ["800028-1-en.mp3", "800028-2-en.mp3"], "text": ["She spoke with the manager this morning."]}}
+    ]
+  },{ 
+    "id" : "800029",
+    "description": "wake → woke (просыпаться, будить)",
+    "picture": ["800029.jpg"],
+    "lang": [
+        {"ru": {"sound": ["800029-ru.mp3"], "text": ["Она разбудила вас?"]}},
+        {"en": {"sound": ["800029-1-en.mp3", "800029-2-en.mp3"], "text": ["Did she wake you up?"]}}
+    ]
+  },{ 
+    "id" : "800030",
+    "description": "wake → woke (просыпаться, будить)",
+    "picture": ["800030.jpg"],
+    "lang": [
+        {"ru": {"sound": ["800030-ru.mp3"], "text": ["Что вас разбудило?"]}},
+        {"en": {"sound": ["800030-1-en.mp3", "800030-2-en.mp3"], "text": ["What woke you up?"]}}
+    ]
+  },{ 
+    "id" : "800031",
+    "description": "wake → woke (просыпаться, будить)",
+    "picture": ["800031.jpg"],
+    "lang": [
+        {"ru": {"sound": ["800031-ru.mp3"], "text": ["Громкая музыка разбудила меня."]}},
+        {"en": {"sound": ["800031-1-en.mp3", "800031-2-en.mp3"], "text": ["The loud music woke me up."]}}
+    ]
+  },{ 
+    "id" : "800032",
+    "description": "drive → drove (водить, ехать)",
+    "picture": ["800032.jpg"],
+    "lang": [
+        {"ru": {"sound": ["800032-ru.mp3"], "text": ["Она eздила прошлой ночью?"]}},
+        {"en": {"sound": ["800032-1-en.mp3", "800032-2-en.mp3"], "text": ["Did she drive last night?"]}}
+    ]
+  },{ 
+    "id" : "800033",
+    "description": "drive → drove (водить, ехать)",
+    "picture": ["800033.jpg"],
+    "lang": [
+        {"ru": {"sound": ["800033-ru.mp3"], "text": ["Мы поехали на пляж."]}},
+        {"en": {"sound": ["800033-1-en.mp3", "800033-2-en.mp3"], "text": ["We drove to the beach."]}}
+    ]
+  },{ 
+    "id" : "800034",
+    "description": "drive → drove (водить, ехать)",
+    "picture": ["800034.jpg"],
+    "lang": [
+        {"ru": {"sound": ["800034-ru.mp3"], "text": ["Кто вел машину?"]}},
+        {"en": {"sound": ["800034-1-en.mp3", "800034-2-en.mp3"], "text": ["Who drove the car?"]}}
+    ]
+  },{ 
+    "id" : "800035",
+    "description": "write → wrote (писать)",
+    "picture": ["800035.jpg"],
+    "lang": [
+        {"ru": {"sound": ["800035-ru.mp3"], "text": ["Кто написал это?"]}},
+        {"en": {"sound": ["800035-1-en.mp3", "800035-2-en.mp3"], "text": ["Who wrote this?"]}}
+    ]
+  },{ 
+    "id" : "800036",
+    "description": "write → wrote (писать)",
+    "picture": ["800036.jpg"],
+    "lang": [
+        {"ru": {"sound": ["800036-ru.mp3"], "text": ["Что ты написал?"]}},
+        {"en": {"sound": ["800036-1-en.mp3", "800036-2-en.mp3"], "text": ["What did you write?"]}}
+    ]
+  },{ 
+    "id" : "800037",
+    "description": "write → wrote (писать)",
+    "picture": ["800037.jpg"],
+    "lang": [
+        {"ru": {"sound": ["800037-ru.mp3"], "text": ["Кому ты написал?"]}},
+        {"en": {"sound": ["800037-1-en.mp3", "800037-2-en.mp3"], "text": ["Who did you write to?"]}}
+    ]
+  },{ 
+    "id" : "800038",
+    "description": "write → wrote (писать)",
+    "picture": ["800038.jpg"],
+    "lang": [
+        {"ru": {"sound": ["800038-ru.mp3"], "text": ["Она написала свой номер телефона."]}},
+        {"en": {"sound": ["800038-1-en.mp3", "800038-2-en.mp3"], "text": ["She wrote her phone number."]}}
+    ]
+  },{ 
+    "id" : "800039",
+    "description": "break → broke (ломать)",
+    "picture": ["800039.jpg"],
+    "lang": [
+        {"ru": {"sound": ["800039-ru.mp3"], "text": ["Почему окно разбито?"]}},
+        {"en": {"sound": ["800039-1-en.mp3", "800039-2-en.mp3"], "text": ["Why is the window broken?"]}}
+    ]
+  },{ 
+    "id" : "800040",
+    "description": "break → broke (ломать)",
+    "picture": ["800040.jpg"],
+    "lang": [
+        {"ru": {"sound": ["800040-ru.mp3"], "text": ["Кто разбил окно?"]}},
+        {"en": {"sound": ["800040-1-en.mp3", "800040-2-en.mp3"], "text": ["Who broke the window?"]}}
+    ]
+  },{ 
+    "id" : "800041",
+    "description": "break → broke (ломать)",
+    "picture": ["800041.jpg"],
+    "lang": [
+        {"ru": {"sound": ["800041-ru.mp3"], "text": ["Он разбил окно мячом."]}},
+        {"en": {"sound": ["800041-1-en.mp3", "800041-2-en.mp3"], "text": ["He broke the window with a ball."]}}
+    ]
+  },{ 
+    "id" : "800042",
+    "description": "freeze → froze (замерзать, замораживать)",
+    "picture": ["800042.jpg"],
+    "lang": [
+        {"ru": {"sound": ["800042-ru.mp3"], "text": ["Ты заморозил мясо?"]}},
+        {"en": {"sound": ["800042-1-en.mp3", "800042-2-en.mp3"], "text": ["Did you freeze the meat?"]}}
+    ]
+  },{ 
+    "id" : "800043",
+    "description": "freeze → froze (замерзать, замораживать)",
+    "picture": ["800043.jpg"],
+    "lang": [
+        {"ru": {"sound": ["800043-ru.mp3"], "text": ["Озеро замерзло в декабре."]}},
+        {"en": {"sound": ["800043-1-en.mp3", "800043-2-en.mp3"], "text": ["The lake froze in December."]}}
+    ]
+  },{ 
+    "id" : "800044",
+    "description": "freeze → froze (замерзать, замораживать)",
+    "picture": ["800044.jpg"],
+    "lang": [
+        {"ru": {"sound": ["800044-ru.mp3"], "text": ["Я заморозил торт вчера вечером."]}},
+        {"en": {"sound": ["800044-1-en.mp3", "800044-2-en.mp3"], "text": ["I froze the cake last night."]}}
+    ]
+  },{ 
+    "id" : "800045",
+    "description": "freeze → froze (замерзать, замораживать)",
+    "picture": ["800045.jpg"],
+    "lang": [
+        {"ru": {"sound": ["800045-ru.mp3"], "text": ["Я замерз по дороге."]}},
+        {"en": {"sound": ["800045-1-en.mp3", "800045-2-en.mp3"], "text": ["I froze on the way."]}}
+    ]
+  }
+]

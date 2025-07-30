@@ -9,6 +9,12 @@
       "description": "learn irregular verbs",
       "url": "https://raw.githubusercontent.com/verbocycle/data/main/decks/main_verbs/irregular_i_to_a/i_to_a.json"
     }, {
+      "id": "irregular_o",
+      "version": 1,
+      "title": "irregular (əʊ-group)",
+      "description": "learn irregular verbs (əʊ-group)",
+      "url": "https://raw.githubusercontent.com/verbocycle/data/main/decks/main_verbs/irregular_o/irr_o.json"
+    }, {
       "id": "speech",
       "version": 1,
       "title": "Say / Tell / Talk / Speak",

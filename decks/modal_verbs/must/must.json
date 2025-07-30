@@ -4,7 +4,7 @@
     "description": "Strong Obligation / Necessity",
     "picture": ["400001.jpg"],
     "lang": [
-        {"ru": {"sound": ["400001-ru.mp3"],"text": ["Я должен закончить этот отчет к 5 вечера."]}},
+        {"ru": {"sound": ["400001-ru.mp3"],"text": ["Я должна закончить этот отчет к 5 вечера."]}},
         {"en": {"sound": ["400001-1-en.mp3", "400001-2-en.mp3"],"text": ["I must finish this report by 5 PM."]}}
     ]
   },{ 
@@ -36,7 +36,7 @@
     "description": "Logical Deduction / Certainty",
     "picture": ["400005.jpg"],
     "lang": [
-        {"ru": {"sound": ["400005-ru.mp3"], "text": ["Ты обязательно должен посмотреть этот фильм! Он потрясающий."]}},
+        {"ru": {"sound": ["400005-ru.mp3"], "text": ["Ты должен посмотреть этот фильм! Он потрясающий."]}},
         {"en": {"sound": ["400005-1-en.mp3", "400005-2-en.mp3"], "text": ["You must see this movie! It's fantastic."]}}
     ]
   },{ 
@@ -60,7 +60,7 @@
     "description": "Logical Deduction / Certainty:",
     "picture": ["400008.jpg"],
     "lang": [
-        {"ru": {"sound": ["400008-ru.mp3"], "text": ["Свет горит, так что кто-то, должно быть, дома."]}},
+        {"ru": {"sound": ["400008-ru.mp3"], "text": ["Свет горит, так что кто-то должен быть дома."]}},
         {"en": {"sound": ["400008-1-en.mp3", "400008-2-en.mp3"], "text": ["The lights are on, so somebody must be home."]}}
     ]
   },{ 
@@ -68,7 +68,7 @@
     "description": "Logical Deduction / Certainty:",
     "picture": ["400009.jpg"],
     "lang": [
-        {"ru": {"sound": ["400009-ru.mp3"], "text": ["Он весь день играет на улице. Наверное, он голоден."]}},
+        {"ru": {"sound": ["400009-ru.mp3"], "text": ["Он весь день играет на улице. Он должно быть голоден."]}},
         {"en": {"sound": ["400009-1-en.mp3", "400009-2-en.mp3"], "text": ["He's playing outside all day. He must be hungry."]}}
     ]
   },{ 
@@ -76,7 +76,7 @@
     "description": "Logical Deduction / Certainty:",
     "picture": ["400010.jpg"],
     "lang": [
-        {"ru": {"sound": ["400010-ru.mp3"], "text": ["Она водит очень дорогую машину. Должно быть, у нее хорошая работа."]}},
+        {"ru": {"sound": ["400010-ru.mp3"], "text": ["Она водит очень дорогую машину. Он должна иметь хорошую работу."]}},
         {"en": {"sound": ["400010-1-en.mp3", "400010-2-en.mp3"], "text": ["She drives a very expensive car. She must have a good job."]}}
     ]
   },{ 
@@ -84,7 +84,7 @@
     "description": "Irritation, impatience:",
     "picture": ["400011.jpg"],
     "lang": [
-        {"ru": {"sound": ["400011-ru.mp3"], "text": ["Неужели ты должен так шуметь? Я пытаюсь работать."]}},
+        {"ru": {"sound": ["400011-ru.mp3"], "text": ["Должен ли ты делать столько шума? Я пытаюсь работать."]}},
         {"en": {"sound": ["400011-1-en.mp3", "400011-2-en.mp3"], "text": ["Must you make so much noise? I'm trying to work."]}}
     ]
   },{ 
@@ -92,7 +92,7 @@
     "description": "Irritation, impatience:",
     "picture": ["400012.jpg"],
     "lang": [
-        {"ru": {"sound": ["400012-ru.mp3"], "text": ["Неужели я все должен делать сам?"]}},
+        {"ru": {"sound": ["400012-ru.mp3"], "text": ["Я должен делать все сам?"]}},
         {"en": {"sound": ["400012-1-en.mp3", "400012-2-en.mp3"], "text": ["Must I do everything myself?"]}}
     ]
   },{ 
@@ -100,7 +100,7 @@
     "description": "Irritation, impatience:",
     "picture": ["400013.jpg"],
     "lang": [
-        {"ru": {"sound": ["400013-ru.mp3"], "text": ["Неужели мы всегда должны его ждать? Он постоянно опаздывает."]}},
+        {"ru": {"sound": ["400013-ru.mp3"], "text": ["Мы всегда должны его ждать? Он постоянно опаздывает."]}},
         {"en": {"sound": ["400013-1-en.mp3", "400013-2-en.mp3"], "text": ["Must we always wait for him? He's always late."]}}
     ]
   },{ 
@@ -108,15 +108,15 @@
     "description": "Irritation, impatience:",
     "picture": ["400014.jpg"],
     "lang": [
-        {"ru": {"sound": ["400014-ru.mp3"], "text": ["Неужели ты должен так громко жевать?"]}},
-        {"en": {"sound": ["400014-1-en.mp3", "400014-2-en.mp3"], "text": ["Must you chew so loudly?"]}}
+        {"ru": {"sound": ["400014-ru.mp3"], "text": ["Ты должен так громко смеяться?"]}},
+        {"en": {"sound": ["400014-1-en.mp3", "400014-2-en.mp3"], "text": ["Must you laugh so loudly?"]}}
     ]
   },{ 
     "id" : "400015",
     "description": "Irritation, impatience:",
     "picture": ["400015.jpg"],
     "lang": [
-        {"ru": {"sound": ["400015-ru.mp3"], "text": ["Неужели ты всегда должен быть прав?"]}},
+        {"ru": {"sound": ["400015-ru.mp3"], "text": ["Ты всегда должен быть прав?"]}},
         {"en": {"sound": ["400015-1-en.mp3", "400015-2-en.mp3"], "text": ["Must you always be right?"]}}
     ]
   },{ 
@@ -124,7 +124,7 @@
     "description": "Irritation, impatience:",
     "picture": ["400016.jpg"],
     "lang": [
-        {"ru": {"sound": ["400016-ru.mp3"], "text": ["Неужели ты должен перебивать меня каждый раз, когда я говорю?"]}},
+        {"ru": {"sound": ["400016-ru.mp3"], "text": ["Ты должен перебивать меня каждый раз, когда я говорю?"]}},
         {"en": {"sound": ["400016-1-en.mp3", "400016-2-en.mp3"], "text": ["Must you interrupt me every time I speak?"]}}
     ]
   },{ 
@@ -140,7 +140,7 @@
     "description": "Prohibition:",
     "picture": ["400018.jpg"],
     "lang": [
-        {"ru": {"sound": ["400018-ru.mp3"], "text": ["Нельзя пользоваться телефоном за рулем."]}},
+        {"ru": {"sound": ["400018-ru.mp3"], "text": ["Нельзя пользоваться телефоном пока ведешь машину."]}},
         {"en": {"sound": ["400018-1-en.mp3", "400018-2-en.mp3"], "text": ["You must not use your phone while driving."]}}
     ]
   },{ 
@@ -148,7 +148,7 @@
     "description": "Prohibition:",
     "picture": ["400019.jpg"],
     "lang": [
-        {"ru": {"sound": ["400019-ru.mp3"], "text": ["Ты не должен никому рассказывать этот секрет."]}},
+        {"ru": {"sound": ["400019-ru.mp3"], "text": ["Ты не должен кому-нибудь рассказывать этот секрет."]}},
         {"en": {"sound": ["400019-1-en.mp3", "400019-2-en.mp3"], "text": ["You must not tell anyone this secret."]}}
     ]
   },{ 
@@ -156,7 +156,7 @@
     "description": "Prohibition:",
     "picture": ["400020.jpg"],
     "lang": [
-        {"ru": {"sound": ["400020-ru.mp3"], "text": ["Нам нельзя об этом говорить."]}},
+        {"ru": {"sound": ["400020-ru.mp3"], "text": ["Мы не должны об этом говорить."]}},
         {"en": {"sound": ["400020-1-en.mp3", "400020-2-en.mp3"], "text": ["We mustn't talk about this."]}}
     ]
   },{ 
@@ -164,7 +164,7 @@
     "description": "Prohibition:",
     "picture": ["400021.jpg"],
     "lang": [
-        {"ru": {"sound": ["400021-ru.mp3"], "text": ["Нельзя нарушать обещание."]}},
+        {"ru": {"sound": ["400021-ru.mp3"], "text": ["Никто не может нарушать обещание."]}},
         {"en": {"sound": ["400021-1-en.mp3", "400021-2-en.mp3"], "text": ["No one must break a promise"]}}
     ]
   }
