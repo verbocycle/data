@@ -124,7 +124,7 @@
     "description": "strive → strove (стремиться, прилагать усилия)",
     "picture": ["800016.jpg"],
     "lang": [
-        {"ru": {"sound": ["800016-ru.mp3"], "text": ["Мы пытались понять английский язык."]}},
+        {"ru": {"sound": ["800016-ru.mp3"], "text": ["Мы стремились понять английский язык."]}},
         {"en": {"sound": ["800016-1-en.mp3", "800016-2-en.mp3"], "text": ["We strove to understand English."]}}
     ]
   },{ 
