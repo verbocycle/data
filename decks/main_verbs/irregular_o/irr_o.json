@@ -308,8 +308,8 @@
     "description": "break → broke (ломать)",
     "picture": ["800039.jpg"],
     "lang": [
-        {"ru": {"sound": ["800039-ru.mp3"], "text": ["Почему окно разбито?"]}},
-        {"en": {"sound": ["800039-1-en.mp3", "800039-2-en.mp3"], "text": ["Why is the window broken?"]}}
+        {"ru": {"sound": ["800039-ru.mp3"], "text": ["Кто-то разбил окно?"]}},
+        {"en": {"sound": ["800039-1-en.mp3", "800039-2-en.mp3"], "text": ["Did someone break the window?"]}}
     ]
   },{ 
     "id" : "800040",
