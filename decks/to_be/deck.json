@@ -4,7 +4,7 @@
   "aspects": [
     {
       "id": "easy",
-      "version": 1,
+      "version": 2,
       "title": "first steps",
       "description": "Am / is / are",
       "url": "https://raw.githubusercontent.com/verbocycle/data/main/decks/to_be/easy/data.json"
