@@ -3,36 +3,282 @@
     "id" : "100001",
     "picture": ["100001_1.jpg", "100001_2.jpg", "100001_3.jpg"],
     "lang": [
-        {
-            "ru": {
-                "sound": ["100001_1_ru.mp3"],
-                "text": ["Это мои друзья"]
-            }
-        },
-        {
-            "en": {
-                "sound": ["100001_1_en.mp3", "100001_2_en.mp3"],
-                "text": ["These are my friends"]
-            }
-        }
+        {"ru": {"sound": ["100001_1_ru.mp3"],"text": ["Это мои друзья"]}},
+        {"en": {"sound": ["100001_1_en.mp3", "100001_2_en.mp3"],"text": ["These are my friends"]}}
     ]
-  },
-    { 
+  },{ 
     "id" : "100002",
     "picture": ["100002_1.jpg"],
     "lang": [
-        {
-            "ru": {
-                "sound": ["100002_1_ru.mp3", "100002_2_ru.mp3"],
-                "text": ["Она моя подруга", "Она мой друг"]
-            }
-        },
-        {
-            "en": {
-                "sound": ["100002_1_en.mp3", "100002_2_en.mp3", "100002_3_en.mp3"],
-                "text": ["She is my friend"]
-            }
-        }
+        {"ru": {"sound": ["100002_1_ru.mp3", "100002_2_ru.mp3"],"text": ["Она моя подруга", "Она мой друг"]}},
+        {"en": {"sound": ["100002_1_en.mp3", "100002_2_en.mp3", "100002_3_en.mp3"],"text": ["She is my friend"]}}
+    ]
+  },{ 
+    "id" : "100003",
+    "picture": ["100003_1.jpg"],
+    "lang": [
+        {"ru": {"sound": ["100003_1_ru.mp3"],"text": ["Я молодой человек."]}},
+        {"en": {"sound": ["100003_1_en.mp3", "100003_2_en.mp3"],"text": ["I am a young person."]}}
+    ]
+  },{ 
+    "id" : "100004",
+    "picture": ["100004_1.jpg"],
+    "lang": [
+        {"ru": {"sound": ["100004_1_ru.mp3"],"text": ["Ты мой лучший друг."]}},
+        {"en": {"sound": ["100004_1_en.mp3", "100004_2_en.mp3"],"text": ["You are my best friend."]}}
+    ]
+  },{ 
+    "id" : "100005",
+    "picture": ["100005_1.jpg"],
+    "lang": [
+        {"ru": {"sound": ["100005_1_ru.mp3"],"text": ["Он главный менеджер этой большой компании."]}},
+        {"en": {"sound": ["100005_1_en.mp3", "100005_2_en.mp3"],"text": ["He is the chief manager of this big company."]}}
+    ]
+  },{ 
+    "id" : "100006",
+    "picture": ["100006_1.jpg"],
+    "lang": [
+        {"ru": {"sound": ["100006_1_ru.mp3"],"text": ["Она очень высокая женщина с добрым лицом."]}},
+        {"en": {"sound": ["100006_1_en.mp3", "100006_2_en.mp3"],"text": ["She is a very tall woman with a kind face."]}}
+    ]
+  },{ 
+    "id" : "100007",
+    "picture": ["100007_1.jpg"],
+    "lang": [
+        {"ru": {"sound": ["100007_1_ru.mp3"],"text": ["Это новый день и новая возможность."]}},
+        {"en": {"sound": ["100007_1_en.mp3", "100007_2_en.mp3"],"text": ["It is a new day and a new opportunity."]}}
+    ]
+  },{ 
+    "id" : "100008",
+    "picture": ["100008_1.jpg"],
+    "lang": [
+        {"ru": {"sound": ["100008_1_ru.mp3"],"text": ["Никто дома в этот час."]}},
+        {"en": {"sound": ["100008_1_en.mp3", "100008_2_en.mp3"],"text": ["Nobody is home at this hour."]}}
+    ]
+  },{ 
+    "id" : "100009",
+    "picture": ["100009_1.jpg"],
+    "lang": [
+        {"ru": {"sound": ["100009_1_ru.mp3"],"text": ["Они все еще дома."]}},
+        {"en": {"sound": ["100009_1_en.mp3", "100009_2_en.mp3"],"text": ["They are still at home."]}}
+    ]
+  },{ 
+    "id" : "100010",
+    "picture": ["100010_1.jpg"],
+    "lang": [
+        {"ru": {"sound": ["100010_1_ru.mp3"],"text": ["Этот год очень важен для нашего бизнеса."]}},
+        {"en": {"sound": ["100010_1_en.mp3", "100010_2_en.mp3"],"text": ["This year is very important for our business."]}}
+    ]
+  },
+  { 
+    "id" : "100011",
+    "picture": ["100011_1.jpg"],
+    "lang": [
+        {"ru": {"sound": ["100011_1_ru.mp3"],"text": ["Время — деньги."]}},
+        {"en": {"sound": ["100011_1_en.mp3", "100011_2_en.mp3"],"text": ["Time is money."]}}
+    ]
+  },{ 
+    "id" : "100012",
+    "picture": ["100012_1.jpg"],
+    "lang": [
+        {"ru": {"sound": ["100012_1_ru.mp3"],"text": ["Сегодня - последний день перед крайним сроком."]}},
+        {"en": {"sound": ["100012_1_en.mp3", "100012_2_en.mp3"],"text": ["Today is the last day before the deadline."]}}
+    ]
+  },{ 
+    "id" : "100013",
+    "picture": ["100013_1.jpg"],
+    "lang": [
+        {"ru": {"sound": ["100013_1_ru.mp3"],"text": ["Жизнь - полна хороших моментов."]}},
+        {"en": {"sound": ["100013_1_en.mp3", "100013_2_en.mp3"],"text": ["Life is full of good moments."]}}
+    ]
+  },{ 
+    "id" : "100014",
+    "picture": ["100014_1.jpg"],
+    "lang": [
+        {"ru": {"sound": ["100014_1_ru.mp3"],"text": ["Этот случай сложнее, чем предыдущий."]}},
+        {"en": {"sound": ["100014_1_en.mp3", "100014_2_en.mp3"],"text": ["This case is more complex than the last one."]}}
+    ]
+  },{ 
+    "id" : "100015",
+    "picture": ["100015_1.jpg"],
+    "lang": [
+        {"ru": {"sound": ["100015_1_ru.mp3"],"text": ["Другая сторона вопроса также важна."]}},
+        {"en": {"sound": ["100015_1_en.mp3", "100015_2_en.mp3"],"text": ["The other side of the issue is also important."]}}
+    ]
+  },{ 
+    "id" : "100016",
+    "picture": ["100016_1.jpg"],
+    "lang": [
+        {"ru": {"sound": ["100016_1_ru.mp3"],"text": ["Этот старый дом — мой дом."]}},
+        {"en": {"sound": ["100016_1_en.mp3", "100016_2_en.mp3"],"text": ["This old house is my home."]}}
+    ]
+  },{ 
+    "id" : "100017",
+    "picture": ["100017_1.jpg"],
+    "lang": [
+        {"ru": {"sound": ["100017_1_ru.mp3"],"text": ["Ее лицо очень знакомо."]}},
+        {"en": {"sound": ["100017_1_en.mp3", "100017_2_en.mp3"],"text": ["Her face is very familiar."]}}
+    ]
+  },{ 
+    "id" : "100018",
+    "picture": ["100018_1.jpg"],
+    "lang": [
+        {"ru": {"sound": ["100018_1_ru.mp3"],"text": ["Его главная сила — это его характер."]}},
+        {"en": {"sound": ["100018_1_en.mp3", "100018_2_en.mp3"],"text": ["His main strength is his character."]}}
+    ]
+  },{ 
+    "id" : "100019",
+    "picture": ["100019_1.jpg"],
+    "lang": [
+        {"ru": {"sound": ["100019_1_ru.mp3"],"text": ["Тот мужчина — очень важная персона."]}},
+        {"en": {"sound": ["100019_1_en.mp3", "100019_2_en.mp3"],"text": ["That man is a very important person."]}}
+    ]
+  },{ 
+    "id" : "100020",
+    "picture": ["100020_1.jpg"],
+    "lang": [
+        {"ru": {"sound": ["100020_1_ru.mp3"],"text": ["Эта женщина — руководитель компании."]}},
+        {"en": {"sound": ["100020_1_en.mp3", "100020_2_en.mp3"],"text": ["This woman is the head of the company."]}}
+    ]
+  },{ 
+    "id" : "100021",
+    "picture": ["100021_1.jpg"],
+    "lang": [
+        {"ru": {"sound": ["100021_1_ru.mp3"],"text": ["Эта часть книги — самая интересная."]}},
+        {"en": {"sound": ["100021_1_en.mp3", "100021_2_en.mp3"],"text": ["This part of the book is the most interesting."]}}
+    ]
+  },{ 
+    "id" : "100022",
+    "picture": ["100022_1.jpg"],
+    "lang": [
+        {"ru": {"sound": ["100022_1_ru.mp3"],"text": ["Новая система уже в работе."]}},
+        {"en": {"sound": ["100022_1_en.mp3", "100022_2_en.mp3"],"text": ["The new system is already at work."]}}
+    ]
+  },{ 
+    "id" : "100023",
+    "picture": ["100023_1.jpg"],
+    "lang": [
+        {"ru": {"sound": ["100023_1_ru.mp3"],"text": ["Ее внешний вид всегда элегантен."]}},
+        {"en": {"sound": ["100023_1_en.mp3", "100023_2_en.mp3"],"text": ["Her look is always elegant."]}}
+    ]
+  },{ 
+    "id" : "100024",
+    "picture": ["100024_1.jpg"],
+    "lang": [
+        {"ru": {"sound": ["100024_1_ru.mp3"],"text": ["Моя голова полна новых идей."]}},
+        {"en": {"sound": ["100024_1_en.mp3", "100024_2_en.mp3"],"text": ["My head is full of new ideas."]}}
+    ]
+  },{ 
+    "id" : "100025",
+    "picture": ["100025_1.jpg"],
+    "lang": [
+        {"ru": {"sound": ["100025_1_ru.mp3"],"text": ["Сегодня дела идут хорошо."]}},
+        {"en": {"sound": ["100025_1_en.mp3", "100025_2_en.mp3"],"text": ["Business is good today."]}}
+    ]
+  },{ 
+    "id" : "100026",
+    "picture": ["100026_1.jpg"],
+    "lang": [
+        {"ru": {"sound": ["100026_1_ru.mp3"],"text": ["Эта работа необходима."]}},
+        {"en": {"sound": ["100026_1_en.mp3", "100026_2_en.mp3"],"text": ["This work is necessary."]}}
+    ]
+  },{ 
+    "id" : "100027",
+    "picture": ["100027_1.jpg"],
+    "lang": [
+        {"ru": {"sound": ["100027_1_ru.mp3"],"text": ["Эта работа — это великолепная возможность."]}},
+        {"en": {"sound": ["100027_1_en.mp3", "100027_2_en.mp3"],"text": ["This job is a great opportunity."]}}
+    ]
+  },{ 
+    "id" : "100028",
+    "picture": ["100028_1.jpg"],
+    "lang": [
+        {"ru": {"sound": ["100028_1_ru.mp3"],"text": ["Город очень большой."]}},
+        {"en": {"sound": ["100028_1_en.mp3", "100028_2_en.mp3"],"text": ["The city is very big."]}}
+    ]
+  },{ 
+    "id" : "100029",
+    "picture": ["100029_1.jpg"],
+    "lang": [
+        {"ru": {"sound": ["100029_1_ru.mp3"],"text": ["Вопрос очень хороший."]}},
+        {"en": {"sound": ["100029_1_en.mp3", "100029_2_en.mp3"],"text": ["The question is very good."]}}
+    ]
+  },{ 
+    "id" : "100030",
+    "picture": ["100030_1.jpg"],
+    "lang": [
+        {"ru": {"sound": ["100030_1_ru.mp3"],"text": ["Эта проблема — распространенная."]}},
+        {"en": {"sound": ["100030_1_en.mp3", "100030_2_en.mp3"],"text": ["This issue is a common one."]}}
+    ]
+  },{ 
+    "id" : "100031",
+    "picture": ["100031_1.jpg"],
+    "lang": [
+        {"ru": {"sound": ["100031_1_ru.mp3"],"text": ["Последнее слово ваше."]}},
+        {"en": {"sound": ["100031_1_en.mp3", "100031_2_en.mp3"],"text": ["The last word is yours."]}}
+    ]
+  },{ 
+    "id" : "100032",
+    "picture": ["100032_1.jpg"],
+    "lang": [
+        {"ru": {"sound": ["100032_1_ru.mp3"],"text": ["Это место очень тихое."]}},
+        {"en": {"sound": ["100032_1_en.mp3", "100032_2_en.mp3"],"text": ["This place is very quiet."]}}
+    ]
+  },{ 
+    "id" : "100033",
+    "picture": ["100033_1.jpg"],
+    "lang": [
+        {"ru": {"sound": ["100033_1_ru.mp3"],"text": ["Он хороший друг."]}},
+        {"en": {"sound": ["100033_1_en.mp3", "100033_2_en.mp3"],"text": ["He is a good friend."]}}
+    ]
+  },{ 
+    "id" : "100034",
+    "picture": ["100034_1.jpg"],
+    "lang": [
+        {"ru": {"sound": ["100034_1_ru.mp3"],"text": ["Мир — это маленькое место."]}},
+        {"en": {"sound": ["100034_1_en.mp3", "100034_2_en.mp3"],"text": ["The world is a small place."]}}
+    ]
+  },{ 
+    "id" : "100035",
+    "picture": ["100035_1.jpg"],
+    "lang": [
+        {"ru": {"sound": ["100035_1_ru.mp3"],"text": ["Мой дом — моя крепость."]}},
+        {"en": {"sound": ["100035_1_en.mp3", "100035_2_en.mp3"],"text": ["My home is my castle."]}}
+    ]
+  },{ 
+    "id" : "100036",
+    "picture": ["100036_1.jpg"],
+    "lang": [
+        {"ru": {"sound": ["100036_1_ru.mp3"],"text": ["Такой тип людей очень редок."]}},
+        {"en": {"sound": ["100036_1_en.mp3", "100036_2_en.mp3"],"text": ["This kind of person is very rare."]}}
+    ]
+  },{ 
+    "id" : "100037",
+    "picture": ["100037_1.jpg"],
+    "lang": [
+        {"ru": {"sound": ["100037_1_ru.mp3"],"text": ["Завершение проекта близко."]}},
+        {"en": {"sound": ["100037_1_en.mp3", "100037_2_en.mp3"],"text": ["The finish of the project is near."]}}
+    ]
+  },{ 
+    "id" : "100038",
+    "picture": ["100038_1.jpg"],
+    "lang": [
+        {"ru": {"sound": ["100038_1_ru.mp3"],"text": ["Наши отношения очень крепкие."]}},
+        {"en": {"sound": ["100038_1_en.mp3", "100038_2_en.mp3"],"text": ["Our relationship is very strong."]}}
+    ]
+  },{ 
+    "id" : "100039",
+    "picture": ["100039_1.jpg"],
+    "lang": [
+        {"ru": {"sound": ["100039_1_ru.mp3"],"text": ["Одного часа более чем достаточно."]}},
+        {"en": {"sound": ["100039_1_en.mp3", "100039_2_en.mp3"],"text": ["One hour is more than enough time."]}}
+    ]
+  },{ 
+    "id" : "100040",
+    "picture": ["100040_1.jpg"],
+    "lang": [
+        {"ru": {"sound": ["100040_1_ru.mp3"],"text": ["Эта книга о молодом человеке."]}},
+        {"en": {"sound": ["100040_1_en.mp3", "100040_2_en.mp3"],"text": ["This book is about a young man."]}}
     ]
   }
 ]

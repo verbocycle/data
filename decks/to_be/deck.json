@@ -8,6 +8,12 @@
       "title": "first steps",
       "description": "Am / is / are",
       "url": "https://raw.githubusercontent.com/verbocycle/data/main/decks/to_be/easy/data.json"
+    },{
+      "id": "easy_quest",
+      "version": 1,
+      "title": "questions",
+      "description": "quest: Am / is / are",
+      "url": "https://raw.githubusercontent.com/verbocycle/data/main/decks/to_be/easy_quest/data.json"
     }
   ]
 }
