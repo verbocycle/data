@@ -15,11 +15,11 @@
       "description": "use of the semi-modal verb have in the past tense",
       "url": "https://raw.githubusercontent.com/verbocycle/data/main/decks/modal_verbs/had_to/had_to.json"
     },{
-      "id": "base",
+      "id": "mix",
       "version": 1,
-      "title": "Beginner",
+      "title": "Mix of modal verbs",
       "description": "Basics of can and must",
-      "url": "https://raw.githubusercontent.com/verbocycle/data/main/decks/modal_verbs/base/data.json"
+      "url": "https://raw.githubusercontent.com/verbocycle/data/main/decks/modal_verbs/mix/data.json"
     },{
       "id": "questions",
       "version": 1,
