@@ -1,0 +1,381 @@
+[
+  { 
+    "id" : "900001",
+    "picture": ["900001_1.jpg"],
+    "lang": [
+        {"ru": {"sound": ["900001_1_ru.mp3"],"text": ["Я молодой человек?"]}},
+        {"en": {"sound": ["900001_1_en.mp3", "900001_2_en.mp3"],"text": ["Am I a young person?"]}}
+    ]
+  },{ 
+    "id" : "900002",
+    "picture": ["900002_1.jpg"],
+    "lang": [
+        {"ru": {"sound": ["900002_1_ru.mp3"],"text": ["Ты мой лучший друг?"]}},
+        {"en": {"sound": ["900002_1_en.mp3", "900002_2_en.mp3"],"text": ["Are you my best friend?"]}}
+    ]
+  },{ 
+    "id" : "900003",
+    "picture": ["900003_1.jpg"],
+    "lang": [
+        {"ru": {"sound": ["900003_1_ru.mp3"],"text": ["Он главный менеджер?"]}},
+        {"en": {"sound": ["900003_1_en.mp3", "900003_2_en.mp3"],"text": ["Is he the chief manager?"]}}
+    ]
+  },{ 
+    "id" : "900004",
+    "picture": ["900004_1.jpg"],
+    "lang": [
+        {"ru": {"sound": ["900004_1_ru.mp3"],"text": ["Она очень высокая?"]}},
+        {"en": {"sound": ["900004_1_en.mp3", "900004_2_en.mp3"],"text": ["Is she a very tall?"]}}
+    ]
+  },{ 
+    "id" : "900005",
+    "picture": ["900005_1.jpg"],
+    "lang": [
+        {"ru": {"sound": ["900005_1_ru.mp3"],"text": ["Это новая возможность?"]}},
+        {"en": {"sound": ["900005_1_en.mp3", "900005_2_en.mp3"],"text": ["Is it a new opportunity?"]}}
+    ]
+  },{ 
+    "id" : "900006",
+    "picture": ["900006_1.jpg"],
+    "lang": [
+        {"ru": {"sound": ["900006_1_ru.mp3"],"text": ["Кто-нибудь есть дома?"]}},
+        {"en": {"sound": ["900006_1_en.mp3", "900006_2_en.mp3"],"text": ["Is anyone home?"]}}
+    ]
+  },{ 
+    "id" : "900007",
+    "picture": ["900007_1.jpg"],
+    "lang": [
+        {"ru": {"sound": ["900007_1_ru.mp3"],"text": ["Они все еще дома?"]}},
+        {"en": {"sound": ["900007_1_en.mp3", "900007_2_en.mp3"],"text": ["Are they still at home?"]}}
+    ]
+  },{ 
+    "id" : "900008",
+    "picture": ["900008_1.jpg"],
+    "lang": [
+        {"ru": {"sound": ["900008_1_ru.mp3"],"text": ["Эта сделка очень важна?"]}},
+        {"en": {"sound": ["900008_1_en.mp3", "900008_2_en.mp3"],"text": ["Is this deal very important?"]}}
+    ]
+  },{ 
+    "id" : "900009",
+    "picture": ["900009_1.jpg"],
+    "lang": [
+        {"ru": {"sound": ["900009_1_ru.mp3"],"text": ["Время — деньги?"]}},
+        {"en": {"sound": ["900009_1_en.mp3", "900009_2_en.mp3"],"text": ["Is time money?"]}}
+    ]
+  },{ 
+    "id" : "900010",
+    "picture": ["900010_1.jpg"],
+    "lang": [
+        {"ru": {"sound": ["900010_1_ru.mp3"],"text": ["Сегодня последний день перед крайним сроком?"]}},
+        {"en": {"sound": ["900010_1_en.mp3", "900010_2_en.mp3"],"text": ["Is today the last day before the deadline?"]}}
+    ]
+  },{ 
+    "id" : "900011",
+    "picture": ["900011_1.jpg"],
+    "lang": [
+        {"ru": {"sound": ["900011_1_ru.mp3"],"text": ["Жизнь полна хороших моментов?"]}},
+        {"en": {"sound": ["900011_1_en.mp3", "900011_2_en.mp3"],"text": ["Is life full of good moments?"]}}
+    ]
+  },{ 
+    "id" : "900012",
+    "picture": ["900012_1.jpg"],
+    "lang": [
+        {"ru": {"sound": ["900012_1_ru.mp3"],"text": ["Этот случай сложнее, чем предыдущий?"]}},
+        {"en": {"sound": ["900012_1_en.mp3", "900012_2_en.mp3"],"text": ["Is this case more complex than the last one?"]}}
+    ]
+  },{ 
+    "id" : "900013",
+    "picture": ["900013_1.jpg"],
+    "lang": [
+        {"ru": {"sound": ["900013_1_ru.mp3"],"text": ["Этот старый дом — твой дом?"]}},
+        {"en": {"sound": ["900013_1_en.mp3", "900013_2_en.mp3"],"text": ["Is this old house your home?"]}}
+    ]
+  },{ 
+    "id" : "900014",
+    "picture": ["900014_1.jpg"],
+    "lang": [
+        {"ru": {"sound": ["900014_1_ru.mp3"],"text": ["Ее лицо знакомо?"]}},
+        {"en": {"sound": ["900014_1_en.mp3", "900014_2_en.mp3"],"text": ["Is her face familiar?"]}}
+    ]
+  },{ 
+    "id" : "900015",
+    "picture": ["900015_1.jpg"],
+    "lang": [
+        {"ru": {"sound": ["900015_1_ru.mp3"],"text": ["Тот мужчина — важная персона?"]}},
+        {"en": {"sound": ["900015_1_en.mp3", "900015_2_en.mp3"],"text": ["Is that man an important person?"]}}
+    ]
+  },{ 
+    "id" : "900016",
+    "picture": ["900016_1.jpg"],
+    "lang": [
+        {"ru": {"sound": ["900016_1_ru.mp3"],"text": ["Эта женщина — руководитель компании?"]}},
+        {"en": {"sound": ["900016_1_en.mp3", "900016_2_en.mp3"],"text": ["Is this woman the head of the company?"]}}
+    ]
+  },{ 
+    "id" : "900017",
+    "picture": ["900017_1.jpg"],
+    "lang": [
+        {"ru": {"sound": ["900017_1_ru.mp3"],"text": ["Эта часть книги самая интересная?"]}},
+        {"en": {"sound": ["900017_1_en.mp3", "900017_2_en.mp3"],"text": ["Is this part of the book the most interesting?"]}}
+    ]
+  },{ 
+    "id" : "900018",
+    "picture": ["900018_1.jpg"],
+    "lang": [
+        {"ru": {"sound": ["900018_1_ru.mp3"],"text": ["Новая система уже в работе?"]}},
+        {"en": {"sound": ["900018_1_en.mp3", "900018_2_en.mp3"],"text": ["Is the new system already at work?"]}}
+    ]
+  },{ 
+    "id" : "900019",
+    "picture": ["900019_1.jpg"],
+    "lang": [
+        {"ru": {"sound": ["900019_1_ru.mp3"],"text": ["Ее внешний вид всегда элегантен?"]}},
+        {"en": {"sound": ["900019_1_en.mp3", "900019_2_en.mp3"],"text": ["Is her look always elegant?"]}}
+    ]
+  },{ 
+    "id" : "900020",
+    "picture": ["900020_1.jpg"],
+    "lang": [
+        {"ru": {"sound": ["900020_1_ru.mp3"],"text": ["Твоя голова полна новых идей?"]}},
+        {"en": {"sound": ["900020_1_en.mp3", "900020_2_en.mp3"],"text": ["Is your head full of new ideas?"]}}
+    ]
+  },{ 
+    "id" : "900021",
+    "picture": ["900021_1.jpg"],
+    "lang": [
+        {"ru": {"sound": ["900021_1_ru.mp3"],"text": ["Сегодня дела идут хорошо?"]}},
+        {"en": {"sound": ["900021_1_en.mp3", "900021_2_en.mp3"],"text": ["Is business good today?"]}}
+    ]
+  },{ 
+    "id" : "900022",
+    "picture": ["900022_1.jpg"],
+    "lang": [
+        {"ru": {"sound": ["900022_1_ru.mp3"],"text": ["Эта работа необходима?"]}},
+        {"en": {"sound": ["900022_1_en.mp3", "900022_2_en.mp3"],"text": ["Is this work necessary?"]}}
+    ]
+  },{ 
+    "id" : "900023",
+    "picture": ["900023_1.jpg"],
+    "lang": [
+        {"ru": {"sound": ["900023_1_ru.mp3"],"text": ["Эта работа — великолепная возможность?"]}},
+        {"en": {"sound": ["900023_1_en.mp3", "900023_2_en.mp3"],"text": ["Is this job a great opportunity?"]}}
+    ]
+  },{ 
+    "id" : "900024",
+    "picture": ["900024_1.jpg"],
+    "lang": [
+        {"ru": {"sound": ["900024_1_ru.mp3"],"text": ["Этот город очень большой?"]}},
+        {"en": {"sound": ["900024_1_en.mp3", "900024_2_en.mp3"],"text": ["Is this city very big?"]}}
+    ]
+  },{ 
+    "id" : "900025",
+    "picture": ["900025_1.jpg"],
+    "lang": [
+        {"ru": {"sound": ["900025_1_ru.mp3"],"text": ["Это хороший вопрос?"]}},
+        {"en": {"sound": ["900025_1_en.mp3", "900025_2_en.mp3"],"text": ["Is it a good question?"]}}
+    ]
+  },{ 
+    "id" : "900026",
+    "picture": ["900026_1.jpg"],
+    "lang": [
+        {"ru": {"sound": ["900026_1_ru.mp3"],"text": ["Эта проблема распространенная?"]}},
+        {"en": {"sound": ["900026_1_en.mp3", "900026_2_en.mp3"],"text": ["Is this issue a common one?"]}}
+    ]
+  },{ 
+    "id" : "900027",
+    "picture": ["900027_1.jpg"],
+    "lang": [
+        {"ru": {"sound": ["900027_1_ru.mp3"],"text": ["Последнее слово за мной?"]}},
+        {"en": {"sound": ["900027_1_en.mp3", "900027_2_en.mp3"],"text": ["Is the last word mine?"]}}
+    ]
+  },{ 
+    "id" : "900028",
+    "picture": ["900028_1.jpg"],
+    "lang": [
+        {"ru": {"sound": ["900028_1_ru.mp3"],"text": ["Это место очень тихое?"]}},
+        {"en": {"sound": ["900028_1_en.mp3", "900028_2_en.mp3"],"text": ["Is this place very quiet?"]}}
+    ]
+  },{ 
+    "id" : "900029",
+    "picture": ["900029_1.jpg"],
+    "lang": [
+        {"ru": {"sound": ["900029_1_ru.mp3"],"text": ["Он хороший друг?"]}},
+        {"en": {"sound": ["900029_1_en.mp3", "900029_2_en.mp3"],"text": ["Is he a good friend?"]}}
+    ]
+  },{ 
+    "id" : "900030",
+    "picture": ["900030_1.jpg"],
+    "lang": [
+        {"ru": {"sound": ["900030_1_ru.mp3"],"text": ["Мир это маленькое место?"]}},
+        {"en": {"sound": ["900030_1_en.mp3", "900030_2_en.mp3"],"text": ["Is the world a small place?"]}}
+    ]
+  },{ 
+    "id" : "900031",
+    "picture": ["900031_1.jpg"],
+    "lang": [
+        {"ru": {"sound": ["900031_1_ru.mp3"],"text": ["Твой дом — твоя крепость?"]}},
+        {"en": {"sound": ["900031_1_en.mp3", "900031_2_en.mp3"],"text": ["Is your home your castle?"]}}
+    ]
+  },{ 
+    "id" : "900032",
+    "picture": ["900032_1.jpg"],
+    "lang": [
+        {"ru": {"sound": ["900032_1_ru.mp3"],"text": ["Завершение проекта близко?"]}},
+        {"en": {"sound": ["900032_1_en.mp3", "900032_2_en.mp3"],"text": ["Is the finish of the project near?"]}}
+    ]
+  },{ 
+    "id" : "900033",
+    "picture": ["900033_1.jpg"],
+    "lang": [
+        {"ru": {"sound": ["900033_1_ru.mp3"],"text": ["Наши отношения очень крепкие?"]}},
+        {"en": {"sound": ["900033_1_en.mp3", "900033_2_en.mp3"],"text": ["Is our relationship very strong?"]}}
+    ]
+  },{ 
+    "id" : "900034",
+    "picture": ["900034_1.jpg"],
+    "lang": [
+        {"ru": {"sound": ["900034_1_ru.mp3"],"text": ["Одного часа достаточно?"]}},
+        {"en": {"sound": ["900034_1_en.mp3", "900034_2_en.mp3"],"text": ["Is one hour enough?"]}}
+    ]
+  },{ 
+    "id" : "900035",
+    "picture": ["900035_1.jpg"],
+    "lang": [
+        {"ru": {"sound": ["900035_1_ru.mp3"],"text": ["Эта книга о молодом человеке?"]}},
+        {"en": {"sound": ["900035_1_en.mp3", "900035_2_en.mp3"],"text": ["Is this book about a young man?"]}}
+    ]
+  },{ 
+    "id" : "900036",
+    "picture": ["900036_1.jpg"],
+    "lang": [
+        {"ru": {"sound": ["900036_1_ru.mp3"],"text": ["Знание — сила?"]}},
+        {"en": {"sound": ["900036_1_en.mp3", "900036_2_en.mp3"],"text": ["Is knowledge power?"]}}
+    ]
+  },{ 
+    "id" : "900037",
+    "picture": ["900037_1.jpg"],
+    "lang": [
+        {"ru": {"sound": ["900037_1_ru.mp3"],"text": ["Клиент всегда прав?"]}},
+        {"en": {"sound": ["900037_1_en.mp3", "900037_2_en.mp3"],"text": ["Is the customer always right?"]}}
+    ]
+  },{ 
+    "id" : "900038",
+    "picture": ["900038_1.jpg"],
+    "lang": [
+        {"ru": {"sound": ["900038_1_ru.mp3"],"text": ["Две головы лучше, чем одна?"]}},
+        {"en": {"sound": ["900038_1_en.mp3", "900038_2_en.mp3"],"text": ["Are two heads better than one?"]}}
+    ]
+  },{ 
+    "id" : "900039",
+    "picture": ["900039_1.jpg"],
+    "lang": [
+        {"ru": {"sound": ["900039_1_ru.mp3"],"text": ["Честность — лучшая политика?"]}},
+        {"en": {"sound": ["900039_1_en.mp3", "900039_2_en.mp3"],"text": ["Is honesty the best policy?"]}}
+    ]
+  },{ 
+    "id" : "900040",
+    "picture": ["900040_1.jpg"],
+    "lang": [
+        {"ru": {"sound": ["900040_1_ru.mp3"],"text": ["Видеть — значит верить?"]}},
+        {"en": {"sound": ["900040_1_en.mp3", "900040_2_en.mp3"],"text": ["Is seeing believing?"]}}
+    ]
+  },{ 
+    "id" : "900041",
+    "picture": ["900041_1.jpg"],
+    "lang": [
+        {"ru": {"sound": ["900041_1_ru.mp3"],"text": ["Все под контролем?"]}},
+        {"en": {"sound": ["900041_1_en.mp3", "900041_2_en.mp3"],"text": ["Is everything under control?"]}}
+    ]
+  },{ 
+    "id" : "900042",
+    "picture": ["900042_1.jpg"],
+    "lang": [
+        {"ru": {"sound": ["900042_1_ru.mp3"],"text": ["Ты в этом уверен?"]}},
+        {"en": {"sound": ["900042_1_en.mp3", "900042_2_en.mp3"],"text": ["Are you sure about that?"]}}
+    ]
+  },{ 
+    "id" : "900043",
+    "picture": ["900043_1.jpg"],
+    "lang": [
+        {"ru": {"sound": ["900043_1_ru.mp3"],"text": ["Это место занято?"]}},
+        {"en": {"sound": ["900043_1_en.mp3", "900043_2_en.mp3"],"text": ["Is this seat taken?"]}}
+    ]
+  },{ 
+    "id" : "900044",
+    "picture": ["900044_1.jpg"],
+    "lang": [
+        {"ru": {"sound": ["900044_1_ru.mp3"],"text": ["Есть ли что-то невозможное?"]}},
+        {"en": {"sound": ["900044_1_en.mp3", "900044_2_en.mp3"],"text": ["Is anything impossible?"]}}
+    ]
+  },{ 
+    "id" : "900045",
+    "picture": ["900045_1.jpg"],
+    "lang": [
+        {"ru": {"sound": ["900045_1_ru.mp3"],"text": ["Ты серьезно?"]}},
+        {"en": {"sound": ["900045_1_en.mp3", "900045_2_en.mp3"],"text": ["Are you serious?"]}}
+    ]
+  },{ 
+    "id" : "900046",
+    "picture": ["900046_1.jpg"],
+    "lang": [
+        {"ru": {"sound": ["900046_1_ru.mp3", "900046_2_ru.mp3"],"text": ["Ты разыгрываешь меня?", "Ты шутишь надо мной?"]}},
+        {"en": {"sound": ["900046_1_en.mp3", "900046_2_en.mp3"],"text": ["Are you kidding me?"]}}
+    ]
+  },{ 
+    "id" : "900047",
+    "picture": ["900047_1.jpg"],
+    "lang": [
+        {"ru": {"sound": ["900047_1_ru.mp3"],"text": ["Ты в порядке?"]}},
+        {"en": {"sound": ["900047_1_en.mp3", "900047_2_en.mp3"],"text": ["Are you okay?"]}}
+    ]
+  },{ 
+    "id" : "900048",
+    "picture": ["900048_1.jpg"],
+    "lang": [
+        {"ru": {"sound": ["900048_1_ru.mp3", "900048_2_ru.mp3"],"text": ["Вот как?", "Да неужели?"]}},
+        {"en": {"sound": ["900048_1_en.mp3", "900048_2_en.mp3"],"text": ["Is that so?"]}}
+    ]
+  },{ 
+    "id" : "900049",
+    "picture": ["900049_1.jpg"],
+    "lang": [
+        {"ru": {"sound": ["900049_1_ru.mp3", "900049_2_ru.mp3"],"text": ["Ты со мной (Ты меня понимаешь)?"]}},
+        {"en": {"sound": ["900049_1_en.mp3", "900049_2_en.mp3"],"text": ["Are you with me?"]}}
+    ]
+  },{ 
+    "id" : "900050",
+    "picture": ["900050_1.jpg"],
+    "lang": [
+        {"ru": {"sound": ["900050_1_ru.mp3", "900050_2_ru.mp3"],"text": ["Это реально (Это правда)?"]}},
+        {"en": {"sound": ["900050_1_en.mp3", "900050_2_en.mp3"],"text": ["Is this for real?"]}}
+    ]
+  },{ 
+    "id" : "900051",
+    "picture": ["900051_1.jpg"],
+    "lang": [
+        {"ru": {"sound": ["900051_1_ru.mp3", "900051_2_ru.mp3"],"text": ["Мы договорились? (С этим все ясно?)"]}},
+        {"en": {"sound": ["900051_1_en.mp3", "900051_2_en.mp3"],"text": ["Are we clear on that?"]}}
+    ]
+  },{ 
+    "id" : "900052",
+    "picture": ["900052_1.jpg"],
+    "lang": [
+        {"ru": {"sound": ["900052_1_ru.mp3"],"text": ["Это угроза?"]}},
+        {"en": {"sound": ["900052_1_en.mp3", "900052_2_en.mp3"],"text": ["Is that a threat?"]}}
+    ]
+  },{ 
+    "id" : "900053",
+    "picture": ["900053_1.jpg"],
+    "lang": [
+        {"ru": {"sound": ["900053_1_ru.mp3"],"text": ["Мы здесь закончили?"]}},
+        {"en": {"sound": ["900053_1_en.mp3", "900053_2_en.mp3"],"text": ["Are we done here?"]}}
+    ]
+  },{ 
+    "id" : "900054",
+    "picture": ["900054_1.jpg"],
+    "lang": [
+        {"ru": {"sound": ["900054_1_ru.mp3"],"text": ["Это ваш окончательный ответ?"]}},
+        {"en": {"sound": ["900054_1_en.mp3", "900054_2_en.mp3"],"text": ["Is that your final answer?"]}}
+    ]
+  }
+]

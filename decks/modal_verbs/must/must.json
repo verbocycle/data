@@ -76,7 +76,7 @@
     "description": "Logical Deduction / Certainty:",
     "picture": ["400010.jpg"],
     "lang": [
-        {"ru": {"sound": ["400010-ru.mp3"], "text": ["Она водит очень дорогую машину. Он должна иметь хорошую работу."]}},
+        {"ru": {"sound": ["400010-ru.mp3"], "text": ["Она водит очень дорогую машину. Она должна иметь хорошую работу."]}},
         {"en": {"sound": ["400010-1-en.mp3", "400010-2-en.mp3"], "text": ["She drives a very expensive car. She must have a good job."]}}
     ]
   },{ 
