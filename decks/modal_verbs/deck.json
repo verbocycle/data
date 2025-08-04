@@ -9,6 +9,12 @@
       "description": "use of the modal verb can in the present tense",
       "url": "https://raw.githubusercontent.com/verbocycle/data/main/decks/modal_verbs/can/can.json"
     },{
+      "id": "must",
+      "version": 1,
+      "title": "must",
+      "description": "use of the modal verb must",
+      "url": "https://raw.githubusercontent.com/verbocycle/data/main/decks/modal_verbs/must/must.json"
+    },{
       "id": "had_to",
       "version": 1,
       "title": "had to (past)",
