@@ -148,7 +148,7 @@
     "description": "Prohibition:",
     "picture": ["400019.jpg"],
     "lang": [
-        {"ru": {"sound": ["400019-ru.mp3"], "text": ["Ты не должен кому-нибудь рассказывать этот секрет."]}},
+        {"ru": {"sound": ["400019-ru.mp3"], "text": ["Ты не должен рассказывать кому-нибудь этот секрет."]}},
         {"en": {"sound": ["400019-1-en.mp3", "400019-2-en.mp3"], "text": ["You must not tell anyone this secret."]}}
     ]
   },{ 
@@ -156,7 +156,7 @@
     "description": "Prohibition:",
     "picture": ["400020.jpg"],
     "lang": [
-        {"ru": {"sound": ["400020-ru.mp3"], "text": ["Мы не должны об этом говорить."]}},
+        {"ru": {"sound": ["400020-ru.mp3"], "text": ["Мы не должны говорить об этом."]}},
         {"en": {"sound": ["400020-1-en.mp3", "400020-2-en.mp3"], "text": ["We mustn't talk about this."]}}
     ]
   },{ 
