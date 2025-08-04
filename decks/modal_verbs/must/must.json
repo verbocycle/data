@@ -60,7 +60,7 @@
     "description": "Logical Deduction / Certainty:",
     "picture": ["400008.jpg"],
     "lang": [
-        {"ru": {"sound": ["400008-ru.mp3"], "text": ["Свет горит, так что кто-то должен быть дома."]}},
+        {"ru": {"sound": ["400008-ru.mp3"], "text": ["Свет горит включен. Так кто-то должен быть дома."]}},
         {"en": {"sound": ["400008-1-en.mp3", "400008-2-en.mp3"], "text": ["The lights are on, so somebody must be home."]}}
     ]
   },{ 
@@ -68,7 +68,7 @@
     "description": "Logical Deduction / Certainty:",
     "picture": ["400009.jpg"],
     "lang": [
-        {"ru": {"sound": ["400009-ru.mp3"], "text": ["Он весь день играет на улице. Он должно быть голоден."]}},
+        {"ru": {"sound": ["400009-ru.mp3"], "text": ["Он играет на улице весь день. Он должно быть голоден."]}},
         {"en": {"sound": ["400009-1-en.mp3", "400009-2-en.mp3"], "text": ["He's playing outside all day. He must be hungry."]}}
     ]
   },{ 
@@ -84,7 +84,7 @@
     "description": "Irritation, impatience:",
     "picture": ["400011.jpg"],
     "lang": [
-        {"ru": {"sound": ["400011-ru.mp3"], "text": ["Должен ли ты делать столько шума? Я пытаюсь работать."]}},
+        {"ru": {"sound": ["400011-ru.mp3"], "text": ["Должен ли ты делать так много шума? Я пытаюсь работать."]}},
         {"en": {"sound": ["400011-1-en.mp3", "400011-2-en.mp3"], "text": ["Must you make so much noise? I'm trying to work."]}}
     ]
   },{ 
@@ -100,7 +100,7 @@
     "description": "Irritation, impatience:",
     "picture": ["400013.jpg"],
     "lang": [
-        {"ru": {"sound": ["400013-ru.mp3"], "text": ["Мы всегда должны его ждать? Он постоянно опаздывает."]}},
+        {"ru": {"sound": ["400013-ru.mp3"], "text": ["Должны мы всегда его ждать? Он постоянно опаздывает."]}},
         {"en": {"sound": ["400013-1-en.mp3", "400013-2-en.mp3"], "text": ["Must we always wait for him? He's always late."]}}
     ]
   },{ 
@@ -124,7 +124,7 @@
     "description": "Irritation, impatience:",
     "picture": ["400016.jpg"],
     "lang": [
-        {"ru": {"sound": ["400016-ru.mp3"], "text": ["Ты должен перебивать меня каждый раз, когда я говорю?"]}},
+        {"ru": {"sound": ["400016-ru.mp3"], "text": ["Ты должен прерывать меня каждый раз, когда я говорю?"]}},
         {"en": {"sound": ["400016-1-en.mp3", "400016-2-en.mp3"], "text": ["Must you interrupt me every time I speak?"]}}
     ]
   },{ 
@@ -164,7 +164,7 @@
     "description": "Prohibition:",
     "picture": ["400021.jpg"],
     "lang": [
-        {"ru": {"sound": ["400021-ru.mp3"], "text": ["Никто не может нарушать обещание."]}},
+        {"ru": {"sound": ["400021-ru.mp3"], "text": ["Никто не должен нарушать обещание."]}},
         {"en": {"sound": ["400021-1-en.mp3", "400021-2-en.mp3"], "text": ["No one must break a promise"]}}
     ]
   }
