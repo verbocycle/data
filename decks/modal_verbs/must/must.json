@@ -60,7 +60,7 @@
     "description": "Logical Deduction / Certainty:",
     "picture": ["400008.jpg"],
     "lang": [
-        {"ru": {"sound": ["400008-ru.mp3"], "text": ["Свет горит включен. Так кто-то должен быть дома."]}},
+        {"ru": {"sound": ["400008-ru.mp3"], "text": ["Свет включен. Так кто-то должен быть дома."]}},
         {"en": {"sound": ["400008-1-en.mp3", "400008-2-en.mp3"], "text": ["The lights are on, so somebody must be home."]}}
     ]
   },{ 
