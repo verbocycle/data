@@ -3,6 +3,12 @@
   "title": "language core",
   "aspects": [
     {
+      "id": "base_positive",
+      "version": 1,
+      "title": "positive regular verbs",
+      "description": "How to use positive regular verbs",
+      "url": "https://raw.githubusercontent.com/verbocycle/data/main/decks/main_verbs/base_positive/base_positive.json"
+    }, {
       "id": "irregular_i_to_a",
       "version": 1,
       "title": "irregular verbs (i -> a group)",
