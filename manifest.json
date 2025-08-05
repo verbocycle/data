@@ -3,17 +3,17 @@
   "decks": [
     {
       "id": "to_be",
-      "title": "to Be Fluency",
+      "title": "BE fluent: to be verb",
       "description": "Automatism with the verb to be. Start here!",
       "url": "https://raw.githubusercontent.com/verbocycle/data/main/decks/to_be/deck.json"
     },{
       "id": "modal_verbs",
-      "title": "you MUST do it",
+      "title": "you MUST study it: modal verbs",
       "description": "Work on the modal verbs: can, must, could, may, might, will, shall, would, should",
       "url": "https://raw.githubusercontent.com/verbocycle/data/main/decks/modal_verbs/deck.json"
     },{
       "id": "main_verbs",
-      "title": "lexical verbs",
+      "title": "easy way: lexical verbs",
       "description": "core verbs that carry the primary meaning of a sentence",
       "url": "https://raw.githubusercontent.com/verbocycle/data/main/decks/main_verbs/deck.json"
     }
