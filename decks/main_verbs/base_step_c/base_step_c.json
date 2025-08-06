@@ -1,0 +1,311 @@
+[
+  { 
+    "id" : "12001",
+    "picture": ["12001_1.jpg"],
+    "lang": [
+        {"ru": {"sound": ["12001_1_ru.mp3"],"text": ["Я вожу."]}},
+        {"en": {"sound": ["12001_1_en.mp3", "12001_2_en.mp3"],"text": ["I drive."]}}
+    ]
+  },{ 
+    "id" : "12002",
+    "picture": ["12002_1.jpg"],
+    "lang": [
+        {"ru": {"sound": ["12002_1_ru.mp3"],"text": ["Ты водишь."]}},
+        {"en": {"sound": ["12002_1_en.mp3", "12002_2_en.mp3"],"text": ["You drive."]}}
+    ]
+  },{ 
+    "id" : "12003",
+    "picture": ["12003_1.jpg"],
+    "lang": [
+        {"ru": {"sound": ["12003_1_ru.mp3"],"text": ["Мы водим."]}},
+        {"en": {"sound": ["12003_1_en.mp3", "12003_2_en.mp3"],"text": ["We drive."]}}
+    ]
+  },{ 
+    "id" : "12004",
+    "picture": ["12004_1.jpg"],
+    "lang": [
+        {"ru": {"sound": ["12004_1_ru.mp3"],"text": ["Они водят."]}},
+        {"en": {"sound": ["12004_1_en.mp3", "12004_2_en.mp3"],"text": ["They drive."]}}
+    ]
+  },{ 
+    "id" : "12005",
+    "picture": ["12005_1.jpg"],
+    "lang": [
+        {"ru": {"sound": ["12005_1_ru.mp3"],"text": ["Он водит."]}},
+        {"en": {"sound": ["12005_1_en.mp3", "12005_2_en.mp3"],"text": ["He drives."]}}
+    ]
+  },{ 
+    "id" : "12006",
+    "picture": ["12006_1.jpg"],
+    "lang": [
+        {"ru": {"sound": ["12006_1_ru.mp3"],"text": ["Она водит."]}},
+        {"en": {"sound": ["12006_1_en.mp3", "12006_2_en.mp3"],"text": ["She drives."]}}
+    ]
+  },{ 
+    "id" : "12007",
+    "picture": ["12007_1.jpg"],
+    "lang": [
+        {"ru": {"sound": ["12007_1_ru.mp3"],"text": ["Оно водит."]}},
+        {"en": {"sound": ["12007_1_en.mp3", "12007_2_en.mp3"],"text": ["It drives."]}}
+    ]
+  },{ 
+    "id" : "12008",
+    "picture": ["12008_1.jpg"],
+    "lang": [
+        {"ru": {"sound": ["12008_1_ru.mp3"],"text": ["Вы водите."]}},
+        {"en": {"sound": ["12002_1_en.mp3", "12002_2_en.mp3"],"text": ["You drive."]}}
+    ]
+  },{
+    "id" : "12009",
+    "picture": ["10005_1.jpg"],
+    "lang": [
+        {"ru": {"sound": ["10005_1_ru.mp3"],"text": ["Он бегает."]}},
+        {"en": {"sound": ["10005_1_en.mp3", "10005_2_en.mp3"],"text": ["He runs."]}}
+    ]
+  },{ 
+    "id" : "12010",
+    "picture": ["11008_1.jpg"],
+    "lang": [
+        {"ru": {"sound": ["11008_1_ru.mp3"],"text": ["Я езжу."]}},
+        {"en": {"sound": ["11008_1_en.mp3", "11008_2_en.mp3"],"text": ["I go."]}}
+    ]
+  },{      
+    "id" : "12011",
+    "picture": ["10002_1.jpg"],
+    "lang": [
+        {"ru": {"sound": ["10002_1_ru.mp3", "10002_2_ru.mp3"],"text": ["Ты бегаешь.", "Вы бегаете."]}},
+        {"en": {"sound": ["10002_1_en.mp3", "10002_2_en.mp3"],"text": ["You run."]}}
+    ]
+  },{  
+    "id" : "12012",
+    "picture": ["12003_1.jpg"],
+    "lang": [
+        {"ru": {"sound": ["12003_1_ru.mp3"],"text": ["Мы водим."]}},
+        {"en": {"sound": ["12003_1_en.mp3", "12003_2_en.mp3"],"text": ["We drive."]}}
+    ]
+  },{ 
+    "id" : "12013",
+    "picture": ["11013_1.jpg"],
+    "lang": [
+        {"ru": {"sound": ["11013_1_ru.mp3"],"text": ["Она ездит."]}},
+        {"en": {"sound": ["11013_1_en.mp3", "11013_2_en.mp3"],"text": ["She goes."]}}
+    ]
+  },{ 
+    "id" : "12014",
+    "picture": ["12001_1.jpg"],
+    "lang": [
+        {"ru": {"sound": ["12001_1_ru.mp3"],"text": ["Я вожу."]}},
+        {"en": {"sound": ["12001_1_en.mp3", "12001_2_en.mp3"],"text": ["I drive."]}}
+    ]
+  },{ 
+    "id" : "12015",
+    "picture": ["10004_1.jpg"],
+    "lang": [
+        {"ru": {"sound": ["10004_1_ru.mp3"],"text": ["Они бегают."]}},
+        {"en": {"sound": ["10004_1_en.mp3", "10004_2_en.mp3"],"text": ["They run."]}}
+    ]
+  },{ 
+    "id" : "12016",
+    "picture": ["11003_1.jpg"],
+    "lang": [
+        {"ru": {"sound": ["11003_1_ru.mp3"],"text": ["Мы ходим."]}},
+        {"en": {"sound": ["11003_1_en.mp3", "11003_2_en.mp3"],"text": ["We go."]}}
+    ]
+  },{     
+    "id" : "12017",
+    "picture": ["10006_1.jpg"],
+    "lang": [
+        {"ru": {"sound": ["10006_1_ru.mp3"],"text": ["Она бегает."]}},
+        {"en": {"sound": ["10006_1_en.mp3", "10006_2_en.mp3"],"text": ["She runs."]}}
+    ]
+  },{  
+    "id" : "12018",
+    "picture": ["11011_1.jpg"],
+    "lang": [
+        {"ru": {"sound": ["11011_1_ru.mp3"],"text": ["Они ездят."]}},
+        {"en": {"sound": ["11011_1_en.mp3", "11011_2_en.mp3"],"text": ["They go."]}}
+    ]
+  },{      
+    "id" : "12019",
+    "picture": ["12008_1.jpg"],
+    "lang": [
+        {"ru": {"sound": ["12008_1_ru.mp3"],"text": ["Вы водите."]}},
+        {"en": {"sound": ["12002_1_en.mp3", "12002_2_en.mp3"],"text": ["You drive."]}}
+    ]
+  },{  
+    "id" : "12020",
+    "picture": ["10001_1.jpg"],
+    "lang": [
+        {"ru": {"sound": ["10001_1_ru.mp3"],"text": ["Я бегаю."]}},
+        {"en": {"sound": ["10001_1_en.mp3", "10001_2_en.mp3"],"text": ["I run."]}}
+    ]
+  },{    
+    "id" : "12021",
+    "picture": ["11002_1.jpg"],
+    "lang": [
+        {"ru": {"sound": ["11002_1_ru.mp3", "11002_2_ru.mp3"],"text": ["Ты ходишь.", "Вы ходите."]}},
+        {"en": {"sound": ["11002_1_en.mp3", "11002_2_en.mp3"],"text": ["You go."]}}
+    ]
+  },{     
+    "id" : "12022",
+    "picture": ["10006_1.jpg"],
+    "lang": [
+        {"ru": {"sound": ["10006_1_ru.mp3"],"text": ["Она бегает."]}},
+        {"en": {"sound": ["10006_1_en.mp3", "10006_2_en.mp3"],"text": ["She runs."]}}
+    ]
+  },{  
+    "id" : "12023",
+    "picture": ["12002_1.jpg"],
+    "lang": [
+        {"ru": {"sound": ["12002_1_ru.mp3"],"text": ["Ты водишь."]}},
+        {"en": {"sound": ["12002_1_en.mp3", "12002_2_en.mp3"],"text": ["You drive."]}}
+    ]
+  },{       
+    "id" : "12024",
+    "picture": ["11009_1.jpg"],
+    "lang": [
+        {"ru": {"sound": ["11009_1_ru.mp3", "11009_2_ru.mp3"],"text": ["Ты ездишь.","Вы ездите."]}},
+        {"en": {"sound": ["11009_1_en.mp3", "11009_2_en.mp3"],"text": ["You go."]}}
+    ]
+  },{ 
+    "id" : "12025",
+    "picture": ["10005_1.jpg"],
+    "lang": [
+        {"ru": {"sound": ["10005_1_ru.mp3"],"text": ["Он бегает."]}},
+        {"en": {"sound": ["10005_1_en.mp3", "10005_2_en.mp3"],"text": ["He runs."]}}
+    ]
+  },{     
+    "id" : "12026",
+    "picture": ["11004_1.jpg"],
+    "lang": [
+        {"ru": {"sound": ["11004_1_ru.mp3"],"text": ["Они ходят."]}},
+        {"en": {"sound": ["11004_1_en.mp3", "11004_2_en.mp3"],"text": ["They go."]}}
+    ]
+  },{ 
+    "id" : "12027",
+    "picture": ["10003_1.jpg"],
+    "lang": [
+        {"ru": {"sound": ["10003_1_ru.mp3"],"text": ["Мы бегаем."]}},
+        {"en": {"sound": ["10003_1_en.mp3", "10003_2_en.mp3"],"text": ["We run."]}}
+    ]
+  },{ 
+    "id" : "12028",
+    "picture": ["12006_1.jpg"],
+    "lang": [
+        {"ru": {"sound": ["12006_1_ru.mp3"],"text": ["Она водит."]}},
+        {"en": {"sound": ["12006_1_en.mp3", "12006_2_en.mp3"],"text": ["She drives."]}}
+    ]
+  },{     
+    "id" : "12029",
+    "picture": ["10004_1.jpg"],
+    "lang": [
+        {"ru": {"sound": ["10004_1_ru.mp3"],"text": ["Они бегают."]}},
+        {"en": {"sound": ["10004_1_en.mp3", "10004_2_en.mp3"],"text": ["They run."]}}
+    ]
+  },{ 
+    "id" : "12030",
+    "picture": ["11006_1.jpg"],
+    "lang": [
+        {"ru": {"sound": ["11006_1_ru.mp3"],"text": ["Она ходит."]}},
+        {"en": {"sound": ["11006_1_en.mp3", "11006_2_en.mp3"],"text": ["She goes."]}}
+    ]
+  },{   
+    "id" : "12031",
+    "picture": ["10003_1.jpg"],
+    "lang": [
+        {"ru": {"sound": ["10003_1_ru.mp3"],"text": ["Мы бегаем."]}},
+        {"en": {"sound": ["10003_1_en.mp3", "10003_2_en.mp3"],"text": ["We run."]}}
+    ]
+  },{   
+    "id" : "12032",
+    "picture": ["12007_1.jpg"],
+    "lang": [
+        {"ru": {"sound": ["12007_1_ru.mp3"],"text": ["Оно водит."]}},
+        {"en": {"sound": ["12007_1_en.mp3", "12007_2_en.mp3"],"text": ["It drives."]}}
+    ]
+  },{  
+    "id" : "12033",
+    "picture": ["11001_1.jpg"],
+    "lang": [
+        {"ru": {"sound": ["11001_1_ru.mp3"],"text": ["Я хожу."]}},
+        {"en": {"sound": ["11001_1_en.mp3", "11001_2_en.mp3"],"text": ["I go."]}}
+    ]
+  },{     
+    "id" : "12034",
+    "picture": ["10007_1.jpg"],
+    "lang": [
+        {"ru": {"sound": ["10007_1_ru.mp3"],"text": ["Оно бегает."]}},
+        {"en": {"sound": ["10007_1_en.mp3", "10007_2_en.mp3"],"text": ["It runs."]}}
+    ]
+  },{
+    "id" : "12035",
+    "picture": ["12004_1.jpg"],
+    "lang": [
+        {"ru": {"sound": ["12004_1_ru.mp3"],"text": ["Они водят."]}},
+        {"en": {"sound": ["12004_1_en.mp3", "12004_2_en.mp3"],"text": ["They drive."]}}
+    ]
+  },{ 
+    "id" : "12036",
+    "picture": ["11005_1.jpg"],
+    "lang": [
+        {"ru": {"sound": ["11005_1_ru.mp3"],"text": ["Он ходит."]}},
+        {"en": {"sound": ["11005_1_en.mp3", "11005_2_en.mp3"],"text": ["He goes."]}}
+    ]
+  },{ 
+    "id" : "12037",
+    "picture": ["11007_1.jpg"],
+    "lang": [
+        {"ru": {"sound": ["11007_1_ru.mp3"],"text": ["Оно ходит."]}},
+        {"en": {"sound": ["11007_1_en.mp3", "11007_2_en.mp3"],"text": ["It goes."]}}
+    ]
+  },{  
+    "id" : "12038",
+    "picture": ["12005_1.jpg"],
+    "lang": [
+        {"ru": {"sound": ["12005_1_ru.mp3"],"text": ["Он водит."]}},
+        {"en": {"sound": ["12005_1_en.mp3", "12005_2_en.mp3"],"text": ["He drives."]}}
+    ]
+  },{   
+    "id" : "12039",
+    "picture": ["10007_1.jpg"],
+    "lang": [
+        {"ru": {"sound": ["10007_1_ru.mp3"],"text": ["Оно бегает."]}},
+        {"en": {"sound": ["10007_1_en.mp3", "10007_2_en.mp3"],"text": ["It runs."]}}
+    ]
+  },{
+    "id" : "12040",
+    "picture": ["11014_1.jpg"],
+    "lang": [
+        {"ru": {"sound": ["11014_1_ru.mp3"],"text": ["Оно ездит."]}},
+        {"en": {"sound": ["11014_1_en.mp3", "11014_2_en.mp3"],"text": ["It goes."]}}
+    ]
+  },{       
+    "id" : "12041",
+    "picture": ["10002_1.jpg"],
+    "lang": [
+        {"ru": {"sound": ["10002_1_ru.mp3", "10002_2_ru.mp3"],"text": ["Ты бегаешь.", "Вы бегаете."]}},
+        {"en": {"sound": ["10002_1_en.mp3", "10002_2_en.mp3"],"text": ["You run."]}}
+    ]
+  },{  
+    "id" : "12042",
+    "picture": ["11010_1.jpg"],
+    "lang": [
+        {"ru": {"sound": ["11010_1_ru.mp3"],"text": ["Мы ездим."]}},
+        {"en": {"sound": ["11010_1_en.mp3", "11010_2_en.mp3"],"text": ["We go."]}}
+    ]
+  },{     
+    "id" : "12043",
+    "picture": ["11012_1.jpg"],
+    "lang": [
+        {"ru": {"sound": ["11012_1_ru.mp3"],"text": ["Он ездит."]}},
+        {"en": {"sound": ["11012_1_en.mp3", "11012_2_en.mp3"],"text": ["He goes."]}}
+    ]
+  },{  
+    "id" : "12044",
+    "picture": ["10001_1.jpg"],
+    "lang": [
+        {"ru": {"sound": ["10001_1_ru.mp3"],"text": ["Я бегаю."]}},
+        {"en": {"sound": ["10001_1_en.mp3", "10001_2_en.mp3"],"text": ["I run."]}}
+    ]
+  }    
+]

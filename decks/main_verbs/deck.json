@@ -3,17 +3,17 @@
   "title": "language core",
   "aspects": [
     {
-      "id": "base_positive_a",
+      "id": "base_step_a",
       "version": 1,
-      "title": "A. positive regular verbs",
+      "title": "step A. positive regular verb - run",
       "description": "How to use positive regular verbs (A: run)",
-      "url": "https://raw.githubusercontent.com/verbocycle/data/main/decks/main_verbs/base_positive_a/base_positive_a.json"
+      "url": "https://raw.githubusercontent.com/verbocycle/data/main/decks/main_verbs/base_step_a/base_step_a.json"
     }, {
-      "id": "base_positive_b",
+      "id": "base_step_b",
       "version": 1,
-      "title": "B. positive regular verbs",
+      "title": "step B. positive regular verb - go",
       "description": "How to use positive regular verbs (B: go)",
-      "url": "https://raw.githubusercontent.com/verbocycle/data/main/decks/main_verbs/base_positive_b/base_positive_b.json"
+      "url": "https://raw.githubusercontent.com/verbocycle/data/main/decks/main_verbs/base_step_b/base_step_b.json"
     }, {
       "id": "irregular_i_to_a",
       "version": 1,
