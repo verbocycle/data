@@ -3,11 +3,17 @@
   "title": "language core",
   "aspects": [
     {
-      "id": "base_positive",
+      "id": "base_positive_a",
       "version": 1,
-      "title": "positive regular verbs",
-      "description": "How to use positive regular verbs",
-      "url": "https://raw.githubusercontent.com/verbocycle/data/main/decks/main_verbs/base_positive/base_positive.json"
+      "title": "A. positive regular verbs",
+      "description": "How to use positive regular verbs (A: run)",
+      "url": "https://raw.githubusercontent.com/verbocycle/data/main/decks/main_verbs/base_positive_a/base_positive_a.json"
+    }, {
+      "id": "base_positive_b",
+      "version": 1,
+      "title": "B. positive regular verbs",
+      "description": "How to use positive regular verbs (B: go)",
+      "url": "https://raw.githubusercontent.com/verbocycle/data/main/decks/main_verbs/base_positive_b/base_positive_b.json"
     }, {
       "id": "irregular_i_to_a",
       "version": 1,
