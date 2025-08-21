@@ -1,0 +1,13 @@
+{
+  "id": "kanadsky",
+  "title": "David Kanadsky",
+  "aspects": [
+    {
+      "id": "english_core",
+      "version": 1,
+      "title": "english core",
+      "description": "english core 150 card",
+      "url": "https://raw.githubusercontent.com/verbocycle/data/main/decks/kanadsky/english_core/core.json"
+    }
+  ]
+}

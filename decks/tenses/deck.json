@@ -1,0 +1,13 @@
+{
+  "id": "tenses",
+  "title": "tenses core",
+  "aspects": [
+    {
+      "id": "first_step",
+      "version": 1,
+      "title": "tense",
+      "description": "tense difference",
+      "url": "https://raw.githubusercontent.com/verbocycle/data/main/decks/tenses/first_step/first_step.json"
+    }
+  ]
+}

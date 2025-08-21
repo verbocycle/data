@@ -1,0 +1,4489 @@
+[
+  {
+    "id": "14001",
+    "description": "Past Tense",
+    "picture": [
+      "14001.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14001-ru.mp3"
+          ],
+          "text": [
+            "Вчера я съел вкусный торт."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14001-1-en.mp3",
+            "14001-2-en.mp3"
+          ],
+          "text": [
+            "Yesterday I ate a delicious cake."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14002",
+    "description": "Present Tense",
+    "picture": [
+      "14002.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14002-ru.mp3"
+          ],
+          "text": [
+            "Обычно я ем свежий хлеб на завтрак."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14002-1-en.mp3",
+            "14002-2-en.mp3"
+          ],
+          "text": [
+            "I usually eat fresh bread for breakfast."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14003",
+    "description": "Future Tense",
+    "picture": [
+      "14003.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14003-ru.mp3"
+          ],
+          "text": [
+            "Завтра я поем тёплый ужин дома."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14003-1-en.mp3",
+            "14003-2-en.mp3"
+          ],
+          "text": [
+            "Tomorrow I will eat a warm dinner at home."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14004",
+    "description": "Past Tense",
+    "picture": [
+      "14004.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14004-ru.mp3"
+          ],
+          "text": [
+            "Вчера вечером я выпил холодный сок."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14004-1-en.mp3",
+            "14004-2-en.mp3"
+          ],
+          "text": [
+            "Last night I drank a cold juice."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14005",
+    "description": "Present Tense",
+    "picture": [
+      "14005.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14005-ru.mp3"
+          ],
+          "text": [
+            "Я всегда пью горячий чай вечером."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14005-1-en.mp3",
+            "14005-2-en.mp3"
+          ],
+          "text": [
+            "I always drink hot tea in the evening."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14006",
+    "description": "Future Tense",
+    "picture": [
+      "14006.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14006-ru.mp3"
+          ],
+          "text": [
+            "На следующей неделе я выпью свежий апельсиновый сок."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14006-1-en.mp3",
+            "14006-2-en.mp3"
+          ],
+          "text": [
+            "Next week I will drink fresh orange juice."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14007",
+    "description": "Past Tense",
+    "picture": [
+      "14007.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14007-ru.mp3"
+          ],
+          "text": [
+            "Я увидел красивую картину в галерее."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14007-1-en.mp3",
+            "14007-2-en.mp3"
+          ],
+          "text": [
+            "I saw a beautiful painting at the gallery."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14008",
+    "description": "Present Tense",
+    "picture": [
+      "14008.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14008-ru.mp3"
+          ],
+          "text": [
+            "Я вижу голубое небо из окна."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14008-1-en.mp3",
+            "14008-2-en.mp3"
+          ],
+          "text": [
+            "I see the blue sky from my window."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14009",
+    "description": "Future Tense",
+    "picture": [
+      "14009.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14009-ru.mp3"
+          ],
+          "text": [
+            "Завтра я увижу старого друга."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14009-1-en.mp3",
+            "14009-2-en.mp3"
+          ],
+          "text": [
+            "Tomorrow I will see an old friend."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14010",
+    "description": "Past Tense",
+    "picture": [
+      "14010.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14010-ru.mp3"
+          ],
+          "text": [
+            "В прошлом месяце она купила дорогой телефон."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14010-1-en.mp3",
+            "14010-2-en.mp3"
+          ],
+          "text": [
+            "She bought an expensive phone last month."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14011",
+    "description": "Present Tense",
+    "picture": [
+      "14011.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14011-ru.mp3"
+          ],
+          "text": [
+            "Он покупает дешёвую одежду в интернете."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14011-1-en.mp3",
+            "14011-2-en.mp3"
+          ],
+          "text": [
+            "He buys cheap clothes online."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14012",
+    "description": "Future Tense",
+    "picture": [
+      "14012.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14012-ru.mp3"
+          ],
+          "text": [
+            "Мы купим большой диван для гостиной."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14012-1-en.mp3",
+            "14012-2-en.mp3"
+          ],
+          "text": [
+            "We will buy a big sofa for the living room."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14013",
+    "description": "Past Tense",
+    "picture": [
+      "14013.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14013-ru.mp3"
+          ],
+          "text": [
+            "Вчера я прочитал интересную книгу."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14013-1-en.mp3",
+            "14013-2-en.mp3"
+          ],
+          "text": [
+            "I read an interesting book yesterday."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14014",
+    "description": "Present Tense",
+    "picture": [
+      "14014.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14014-ru.mp3"
+          ],
+          "text": [
+            "Она читает новую статью каждый день."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14014-1-en.mp3",
+            "14014-2-en.mp3"
+          ],
+          "text": [
+            "She reads a new article every day."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14015",
+    "description": "Future Tense",
+    "picture": [
+      "14015.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14015-ru.mp3"
+          ],
+          "text": [
+            "На следующих выходных я прочитаю длинный роман."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14015-1-en.mp3",
+            "14015-2-en.mp3"
+          ],
+          "text": [
+            "Next weekend I will read a long novel."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14016",
+    "description": "Past Tense",
+    "picture": [
+      "14016.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14016-ru.mp3"
+          ],
+          "text": [
+            "Он написал длинное письмо родителям."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14016-1-en.mp3",
+            "14016-2-en.mp3"
+          ],
+          "text": [
+            "He wrote a long letter to his parents."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14017",
+    "description": "Present Tense",
+    "picture": [
+      "14017.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14017-ru.mp3"
+          ],
+          "text": [
+            "Я пишу короткие письма на работе."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14017-1-en.mp3",
+            "14017-2-en.mp3"
+          ],
+          "text": [
+            "I write short emails at work."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14018",
+    "description": "Future Tense",
+    "picture": [
+      "14018.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14018-ru.mp3"
+          ],
+          "text": [
+            "Завтра она напишет отчёт для школы."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14018-1-en.mp3",
+            "14018-2-en.mp3"
+          ],
+          "text": [
+            "Tomorrow she will write a report for school."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14019",
+    "description": "Past Tense",
+    "picture": [
+      "14019.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14019-ru.mp3"
+          ],
+          "text": [
+            "Прошлым летом они отправились в долгое путешествие."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14019-1-en.mp3",
+            "14019-2-en.mp3"
+          ],
+          "text": [
+            "They went on a long trip last summer."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14020",
+    "description": "Present Tense",
+    "picture": [
+      "14020.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14020-ru.mp3"
+          ],
+          "text": [
+            "Я обычно езжу на работу на автобусе."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14020-1-en.mp3",
+            "14020-2-en.mp3"
+          ],
+          "text": [
+            "I usually go to work by bus."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14021",
+    "description": "Future Tense",
+    "picture": [
+      "14021.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14021-ru.mp3"
+          ],
+          "text": [
+            "В следующие выходные мы поедем в тихую деревню."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14021-1-en.mp3",
+            "14021-2-en.mp3"
+          ],
+          "text": [
+            "Next weekend we will go to a quiet village."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14022",
+    "description": "Past Tense",
+    "picture": [
+      "14022.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14022-ru.mp3"
+          ],
+          "text": [
+            "Я спал в тихой комнате прошлой ночью."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14022-1-en.mp3",
+            "14022-2-en.mp3"
+          ],
+          "text": [
+            "I slept in a quiet room last night."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14023",
+    "description": "Present Tense",
+    "picture": [
+      "14023.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14023-ru.mp3"
+          ],
+          "text": [
+            "Она спит на мягкой кровати."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14023-1-en.mp3",
+            "14023-2-en.mp3"
+          ],
+          "text": [
+            "She sleeps in a soft bed."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14024",
+    "description": "Future Tense",
+    "picture": [
+      "14024.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14024-ru.mp3"
+          ],
+          "text": [
+            "Сегодня ночью я буду спать в отеле."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14024-1-en.mp3",
+            "14024-2-en.mp3"
+          ],
+          "text": [
+            "Tonight I will sleep in a hotel."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14025",
+    "description": "Past Tense",
+    "picture": [
+      "14025.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14025-ru.mp3"
+          ],
+          "text": [
+            "Вчера он пробежал быстрый забег."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14025-1-en.mp3",
+            "14025-2-en.mp3"
+          ],
+          "text": [
+            "He ran a fast race yesterday."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14026",
+    "description": "Present Tense",
+    "picture": [
+      "14026.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14026-ru.mp3"
+          ],
+          "text": [
+            "Я бегаю в парке каждое утро."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14026-1-en.mp3",
+            "14026-2-en.mp3"
+          ],
+          "text": [
+            "I run in the park every morning."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14027",
+    "description": "Future Tense",
+    "picture": [
+      "14027.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14027-ru.mp3"
+          ],
+          "text": [
+            "В следующем месяце мы пробежим марафон."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14027-1-en.mp3",
+            "14027-2-en.mp3"
+          ],
+          "text": [
+            "Next month we will run a marathon."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14028",
+    "description": "Past Tense",
+    "picture": [
+      "14028.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14028-ru.mp3"
+          ],
+          "text": [
+            "Вчера я приготовил вкусный ужин."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14028-1-en.mp3",
+            "14028-2-en.mp3"
+          ],
+          "text": [
+            "I cooked a tasty dinner yesterday."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14029",
+    "description": "Present Tense",
+    "picture": [
+      "14029.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14029-ru.mp3"
+          ],
+          "text": [
+            "Она готовит простые блюда дома."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14029-1-en.mp3",
+            "14029-2-en.mp3"
+          ],
+          "text": [
+            "She cooks simple meals at home."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14030",
+    "description": "Future Tense",
+    "picture": [
+      "14030.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14030-ru.mp3"
+          ],
+          "text": [
+            "Завтра он приготовит острый суп."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14030-1-en.mp3",
+            "14030-2-en.mp3"
+          ],
+          "text": [
+            "Tomorrow he will cook a spicy soup."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14031",
+    "description": "Past Tense",
+    "picture": [
+      "14031.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14031-ru.mp3"
+          ],
+          "text": [
+            "Вчера мы посетили известный музей."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14031-1-en.mp3",
+            "14031-2-en.mp3"
+          ],
+          "text": [
+            "Yesterday we visited a famous museum."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14032",
+    "description": "Present Tense",
+    "picture": [
+      "14032.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14032-ru.mp3"
+          ],
+          "text": [
+            "Я навещаю бабушку и дедушку каждые выходные."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14032-1-en.mp3",
+            "14032-2-en.mp3"
+          ],
+          "text": [
+            "I visit my grandparents every weekend."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14033",
+    "description": "Future Tense",
+    "picture": [
+      "14033.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14033-ru.mp3"
+          ],
+          "text": [
+            "В следующем месяце они посетят маленькую деревню."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14033-1-en.mp3",
+            "14033-2-en.mp3"
+          ],
+          "text": [
+            "Next month they will visit a small village."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14034",
+    "description": "Past Tense",
+    "picture": [
+      "14034.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14034-ru.mp3"
+          ],
+          "text": [
+            "Прошлой ночью я слушал громкое выступление."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14034-1-en.mp3",
+            "14034-2-en.mp3"
+          ],
+          "text": [
+            "I listened to a loud speech last night."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14035",
+    "description": "Present Tense",
+    "picture": [
+      "14035.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14035-ru.mp3"
+          ],
+          "text": [
+            "Он слушает спокойные подкасты утром."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14035-1-en.mp3",
+            "14035-2-en.mp3"
+          ],
+          "text": [
+            "He listens to calm podcasts in the morning."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14036",
+    "description": "Future Tense",
+    "picture": [
+      "14036.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14036-ru.mp3"
+          ],
+          "text": [
+            "Позже она послушает длинный подкаст."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14036-1-en.mp3",
+            "14036-2-en.mp3"
+          ],
+          "text": [
+            "She will listen to a long podcast later."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14037",
+    "description": "Past Tense",
+    "picture": [
+      "14037.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14037-ru.mp3"
+          ],
+          "text": [
+            "Вчера она посмотрела захватывающий документальный фильм."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14037-1-en.mp3",
+            "14037-2-en.mp3"
+          ],
+          "text": [
+            "She watched an exciting documentary yesterday."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14038",
+    "description": "Present Tense",
+    "picture": [
+      "14038.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14038-ru.mp3"
+          ],
+          "text": [
+            "Я смотрю смешные видео в интернете."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14038-1-en.mp3",
+            "14038-2-en.mp3"
+          ],
+          "text": [
+            "I watch funny videos online."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14039",
+    "description": "Future Tense",
+    "picture": [
+      "14039.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14039-ru.mp3"
+          ],
+          "text": [
+            "Завтра они поиграют в крикет."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14039-1-en.mp3",
+            "14039-2-en.mp3"
+          ],
+          "text": [
+            "Tomorrow they will play cricket."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14040",
+    "description": "Past Tense",
+    "picture": [
+      "14040.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14040-ru.mp3"
+          ],
+          "text": [
+            "В прошлом году он изучал сложный предмет."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14040-1-en.mp3",
+            "14040-2-en.mp3"
+          ],
+          "text": [
+            "He studied a difficult subject last year."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14041",
+    "description": "Present Tense",
+    "picture": [
+      "14041.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14041-ru.mp3"
+          ],
+          "text": [
+            "Я изучаю грамматику английского каждый день."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14041-1-en.mp3",
+            "14041-2-en.mp3"
+          ],
+          "text": [
+            "I study English grammar every day."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14042",
+    "description": "Future Tense",
+    "picture": [
+      "14042.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14042-ru.mp3"
+          ],
+          "text": [
+            "Завтра мы изучим новую тему."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14042-1-en.mp3",
+            "14042-2-en.mp3"
+          ],
+          "text": [
+            "We will study a new topic tomorrow."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14043",
+    "description": "Past Tense",
+    "picture": [
+      "14043.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14043-ru.mp3"
+          ],
+          "text": [
+            "Я поиграл в лёгкую игру с двоюродным братом."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": ["14043-1-en.mp3","14043-2-en.mp3"],
+          "text": [
+            "I played an easy game with my cousin."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14044",
+    "description": "Present Tense",
+    "picture": [
+      "14044.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14044-ru.mp3"
+          ],
+          "text": [
+            "Она шикарно играет баскетбол."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14044-1-en.mp3",
+            "14044-2-en.mp3"
+          ],
+          "text": [
+            "She plays basketball beautifully."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14045",
+    "description": "Future Tense",
+    "picture": [
+      "14045.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14045-ru.mp3"
+          ],
+          "text": [
+            "Они будут играть в футбол вечером."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14045-1-en.mp3",
+            "14045-2-en.mp3"
+          ],
+          "text": [
+            "They will play football in the evening."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14046",
+    "description": "Past Tense",
+    "picture": [
+      "14046.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14046-ru.mp3"
+          ],
+          "text": [
+            "Вчера он поговорил с важным клиентом."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14046-1-en.mp3",
+            "14046-2-en.mp3"
+          ],
+          "text": [
+            "He talked to an important client yesterday."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14047",
+    "description": "Present Tense",
+    "picture": [
+      "14047.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14047-ru.mp3"
+          ],
+          "text": [
+            "Я разговариваю с учителем после урока."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14047-1-en.mp3",
+            "14047-2-en.mp3"
+          ],
+          "text": [
+            "I talk to my teacher after class."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14048",
+    "description": "Future Tense",
+    "picture": [
+      "14048.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14048-ru.mp3"
+          ],
+          "text": [
+            "Завтра она поговорит с директором."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14048-1-en.mp3",
+            "14048-2-en.mp3"
+          ],
+          "text": [
+            "She will talk to the headteacher tomorrow."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14049",
+    "description": "Past Tense",
+    "picture": [
+      "14049.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14049-ru.mp3"
+          ],
+          "text": [
+            "Вчера я выучил полезное слово."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14049-1-en.mp3",
+            "14049-2-en.mp3"
+          ],
+          "text": [
+            "I learned a useful word yesterday."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14050",
+    "description": "Present Tense",
+    "picture": [
+      "14050.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14050-ru.mp3"
+          ],
+          "text": [
+            "Она узнаёт что-то новое каждый день."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14050-1-en.mp3",
+            "14050-2-en.mp3"
+          ],
+          "text": [
+            "She learns something new every day."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14051",
+    "description": "General Phrases",
+    "picture": [
+      "14051.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14051-ru.mp3"
+          ],
+          "text": [
+            "Я куплю свежие фрукты на рынке перед обедом."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14051-1-en.mp3",
+            "14051-2-en.mp3"
+          ],
+          "text": [
+            "I will buy fresh fruit at the market before lunch."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14052",
+    "description": "General Phrases",
+    "picture": [
+      "14052.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14052-ru.mp3"
+          ],
+          "text": [
+            "Она не взяла паспорт, потому что ушла в спешке."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14052-1-en.mp3",
+            "14052-2-en.mp3"
+          ],
+          "text": [
+            "She didn't take her passport because she left in a hurry."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14053",
+    "description": "General Phrases",
+    "picture": [
+      "14053.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14053-ru.mp3"
+          ],
+          "text": [
+            "Я могу нести эту сумку сам, если она не слишком тяжёлая."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14053-1-en.mp3",
+            "14053-2-en.mp3"
+          ],
+          "text": [
+            "I can carry this bag myself if it's not too heavy."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14054",
+    "description": "General Phrases",
+    "picture": [
+      "14054.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14054-ru.mp3"
+          ],
+          "text": [
+            "Мы ждали в длинной очереди, пока магазин не открылся."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14054-1-en.mp3",
+            "14054-2-en.mp3"
+          ],
+          "text": [
+            "We waited in the long line until the shop opened."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14055",
+    "description": "General Phrases",
+    "picture": [
+      "14055.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14055-ru.mp3"
+          ],
+          "text": [
+            "Он должен заполнить форму перед посадкой на самолёт."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14055-1-en.mp3",
+            "14055-2-en.mp3"
+          ],
+          "text": [
+            "He must finish the form before boarding the plane."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14056",
+    "description": "General Phrases",
+    "picture": [
+      "14056.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14056-ru.mp3"
+          ],
+          "text": [
+            "Я сходил на почту и отправил два письма."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14056-1-en.mp3",
+            "14056-2-en.mp3"
+          ],
+          "text": [
+            "I went to the post office and sent two letters."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14057",
+    "description": "General Phrases",
+    "picture": [
+      "14057.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14057-ru.mp3"
+          ],
+          "text": [
+            "Они вызовут такси, если автобус не приедет."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14057-1-en.mp3",
+            "14057-2-en.mp3"
+          ],
+          "text": [
+            "They will call a taxi if the bus doesn't come."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14058",
+    "description": "General Phrases",
+    "picture": [
+      "14058.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14058-ru.mp3"
+          ],
+          "text": [
+            "После этой прогулки мне хочется выпить что-то холодное."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14058-1-en.mp3",
+            "14058-2-en.mp3"
+          ],
+          "text": [
+            "I feel like drinking something cold after this walk."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14059",
+    "description": "General Phrases",
+    "picture": [
+      "14059.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14059-ru.mp3"
+          ],
+          "text": [
+            "Она остановилась в гостинице при аэропорте на одну ночь."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14059-1-en.mp3",
+            "14059-2-en.mp3"
+          ],
+          "text": [
+            "She stayed at the airport hotel for one night."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14060",
+    "description": "General Phrases",
+    "picture": [
+      "14060.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14060-ru.mp3"
+          ],
+          "text": [
+            "Это помогло мне, когда я заблудился."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14060-1-en.mp3",
+            "14060-2-en.mp3"
+          ],
+          "text": [
+            "It helped me to have a map when I got lost."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14061",
+    "description": "General Phrases",
+    "picture": [
+      "14061.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14061-ru.mp3"
+          ],
+          "text": [
+            "Мне нужно обменять деньги, прежде чем мы пойдём за покупками."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14061-1-en.mp3",
+            "14061-2-en.mp3"
+          ],
+          "text": [
+            "I have to change money before we go shopping."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14062",
+    "description": "General Phrases",
+    "picture": [
+      "14062.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14062-ru.mp3"
+          ],
+          "text": [
+            "Он говорил медленно, чтобы все могли понять."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14062-1-en.mp3",
+            "14062-2-en.mp3"
+          ],
+          "text": [
+            "He spoke slowly so that everyone could understand."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14063",
+    "description": "General Phrases",
+    "picture": [
+      "14063.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14063-ru.mp3"
+          ],
+          "text": [
+            "Рядом с вокзалом есть аптека."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14063-1-en.mp3",
+            "14063-2-en.mp3"
+          ],
+          "text": [
+            "There is a pharmacy near the train station."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14064",
+    "description": "General Phrases",
+    "picture": [
+      "14064.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14064-ru.mp3"
+          ],
+          "text": [
+            "Я буду ждать у выхода на посадку, пока объявят рейс."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14064-1-en.mp3", 
+            "14064-2-en.mp3"
+          ],
+          "text": [
+            "I will wait at the gate until the flight is announced."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14065",
+    "description": "General Phrases",
+    "picture": [
+      "14065.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14065-ru.mp3"
+          ],
+          "text": [
+            "Она объяснила, как заполнить таможенную декларацию."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14065-1-en.mp3",
+            "14065-2-en.mp3"
+          ],
+          "text": [
+            "She explained how to fill out the customs form."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14066",
+    "description": "General Phrases",
+    "picture": [
+      "14066.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14066-ru.mp3"
+          ],
+          "text": [
+            "Мы прошли через парк и остановились, чтобы сделать фото."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14066-1-en.mp3",
+            "14066-2-en.mp3"
+          ],
+          "text": [
+            "We walked through the park and stopped to take photos."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14067",
+    "description": "General Phrases",
+    "picture": [
+      "14067.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14067-ru.mp3"
+          ],
+          "text": [
+            "Я оставил зонт дома, потому что небо было ясным."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14067-1-en.mp3",
+            "14067-2-en.mp3"
+          ],
+          "text": [
+            "I left my umbrella at home because the sky was clear."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14068",
+    "description": "General Phrases",
+    "picture": [
+      "14068.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14068-ru.mp3"
+          ],
+          "text": [
+            "Он может помочь вам донести чемодан до вашей комнаты."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14068-1-en.mp3",
+            "14068-2-en.mp3"
+          ],
+          "text": [
+            "He can help you carry the suitcase to your room."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14069",
+    "description": "General Phrases",
+    "picture": [
+      "14069.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14069-ru.mp3"
+          ],
+          "text": [
+            "Я наслаждался звуком птиц, пока пил кофе."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14069-1-en.mp3",
+            "14069-2-en.mp3"
+          ],
+          "text": [
+            "I enjoyed the sound of birds while drinking coffee."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14070",
+    "description": "General Phrases",
+    "picture": [
+      "14070.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14070-ru.mp3"
+          ],
+          "text": [
+            "Она научилась пользоваться автоматом для билетов."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14070-1-en.mp3",
+            "14070-2-en.mp3"
+          ],
+          "text": [
+            "She learned how to use the ticket machine."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14071",
+    "description": "General Phrases",
+    "picture": [
+      "14071.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14071-ru.mp3"
+          ],
+          "text": [
+            "Мы пойдём в музей после того, как пообедаем."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14071-1-en.mp3",
+            "14071-2-en.mp3"
+          ],
+          "text": [
+            "We will visit the museum after we eat lunch."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14072",
+    "description": "General Phrases",
+    "picture": [
+      "14072.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14072-ru.mp3"
+          ],
+          "text": [
+            "Я обычно не покупаю сувениры, потому что они дорогие."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14072-1-en.mp3",
+            "14072-2-en.mp3"
+          ],
+          "text": [
+            "I don't usually buy souvenirs because they are expensive."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14073",
+    "description": "General Phrases",
+    "picture": [
+      "14073.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14073-ru.mp3"
+          ],
+          "text": [
+            "Он написал адрес на маленьком клочке бумаги."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14073-1-en.mp3",
+            "14073-2-en.mp3"
+          ],
+          "text": [
+            "He wrote the address on a small piece of paper."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14074",
+    "description": "General Phrases",
+    "picture": [
+      "14074.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14074-ru.mp3"
+          ],
+          "text": [
+            "Я закажу кофе и сэндвич в кафе."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14074-1-en.mp3",
+            "14074-2-en.mp3"
+          ],
+          "text": [
+            "I will order a coffee and a sandwich at the café."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14075",
+    "description": "General Phrases",
+    "picture": [
+      "14075.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14075-ru.mp3"
+          ],
+          "text": [
+            "Она не может войти в здание без удостоверения личности."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14075-1-en.mp3",
+            "14075-2-en.mp3"
+          ],
+          "text": [
+            "She can't enter the building without an ID."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14076",
+    "description": "General Phrases",
+    "picture": [
+      "14076.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14076-ru.mp3"
+          ],
+          "text": [
+            "Я одолжил ручку у администратора."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14076-1-en.mp3",
+            "14076-2-en.mp3"
+          ],
+          "text": [
+            "I borrowed a pen from the receptionist."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14077",
+    "description": "General Phrases",
+    "picture": [
+      "14077.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14077-ru.mp3"
+          ],
+          "text": [
+            "Он посмотрел на карту перед тем, как перейти улицу."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14077-1-en.mp3",
+            "14077-2-en.mp3"
+          ],
+          "text": [
+            "He looked at the map before crossing the street."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14078",
+    "description": "General Phrases",
+    "picture": [
+      "14078.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14078-ru.mp3"
+          ],
+          "text": [
+            "Мы путешествовали на поезде по сельской местности."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14078-1-en.mp3",
+            "14078-2-en.mp3"
+          ],
+          "text": [
+            "We traveled by train through the countryside."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14079",
+    "description": "General Phrases",
+    "picture": [
+      "14079.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14079-ru.mp3"
+          ],
+          "text": [
+            "Я хочу найти недорогой отель рядом с центром."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14079-1-en.mp3",
+            "14079-2-en.mp3"
+          ],
+          "text": [
+            "I want to find a cheap hotel near the center."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14080",
+    "description": "General Phrases",
+    "picture": [
+      "14080.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14080-ru.mp3"
+          ],
+          "text": [
+            "У меня ушёл час, чтобы пройти контроль безопасности."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14080-1-en.mp3",
+            "14080-2-en.mp3"
+          ],
+          "text": [
+            "It took me an hour to get through security."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14081",
+    "description": "General Phrases",
+    "picture": [
+      "14081.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14081-ru.mp3"
+          ],
+          "text": [
+            "Она открыла окно, потому что было слишком жарко."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14081-1-en.mp3",
+            "14081-2-en.mp3"
+          ],
+          "text": [
+            "She opened the window because it was too hot."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14082",
+    "description": "General Phrases",
+    "picture": [
+      "14082.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14082-ru.mp3"
+          ],
+          "text": [
+            "Я провёл две недели в маленьком приморском городке."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14082-1-en.mp3",
+            "14082-2-en.mp3"
+          ],
+          "text": [
+            "I stayed for two weeks in a small seaside town."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14083",
+    "description": "General Phrases",
+    "picture": [
+      "14083.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14083-ru.mp3"
+          ],
+          "text": [
+            "Мы встретимся на вокзале, когда твой поезд приедет."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14083-1-en.mp3",
+            "14083-2-en.mp3"
+          ],
+          "text": [
+            "We will meet at the station when your train arrives."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14084",
+    "description": "General Phrases",
+    "picture": [
+      "14084.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14084-ru.mp3"
+          ],
+          "text": [
+            "Он спросил, где находится ближайшая автобусная остановка."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14084-1-en.mp3",
+            "14084-2-en.mp3"
+          ],
+          "text": [
+            "He asked where the nearest bus stop was."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14085",
+    "description": "General Phrases",
+    "picture": [
+      "14085.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14085-ru.mp3"
+          ],
+          "text": [
+            "Я уберу кухню после того, как закончу готовить."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14085-1-en.mp3",
+            "14085-2-en.mp3"
+          ],
+          "text": [
+            "I will clean the kitchen after I finish cooking."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14086",
+    "description": "General Phrases",
+    "picture": [
+      "14086.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14086-ru.mp3"
+          ],
+          "text": [
+            "Она заплатила за еду кредитной картой."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14086-1-en.mp3",
+            "14086-2-en.mp3"
+          ],
+          "text": [
+            "She paid for the meal by credit card."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14087",
+    "description": "General Phrases",
+    "picture": [
+      "14087.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14087-ru.mp3"
+          ],
+          "text": [
+            "Я не ответил на звонок, потому что был занят."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14087-1-en.mp3",
+            "14087-2-en.mp3"
+          ],
+          "text": [
+            "I didn't answer the phone because I was busy."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14088",
+    "description": "General Phrases",
+    "picture": [
+      "14088.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14088-ru.mp3"
+          ],
+          "text": [
+            "Мы будем сидеть и разговаривать, пока кафе не закроется."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14088-1-en.mp3",
+            "14088-2-en.mp3"
+          ],
+          "text": [
+            "We will sit and talk until the café closes."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14089",
+    "description": "General Phrases",
+    "picture": [
+      "14089.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14089-ru.mp3"
+          ],
+          "text": [
+            "Он научил меня пользоваться новым приложением."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14089-1-en.mp3",
+            "14089-2-en.mp3"
+          ],
+          "text": [
+            "He taught me how to use the new app."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14090",
+    "description": "General Phrases",
+    "picture": [
+      "14090.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14090-ru.mp3"
+          ],
+          "text": [
+            "Я забыл свои наушники, поэтому купил новые."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14090-1-en.mp3",
+            "14090-2-en.mp3"
+          ],
+          "text": [
+            "I forgot my headphones, so I bought new ones."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14091",
+    "description": "General Phrases",
+    "picture": [
+      "14091.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14091-ru.mp3"
+          ],
+          "text": [
+            "Она упаковала одежду в маленький чемодан."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14091-1-en.mp3",
+            "14091-2-en.mp3"
+          ],
+          "text": [
+            "She packed her clothes in a small suitcase."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14092",
+    "description": "General Phrases",
+    "picture": [
+      "14092.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14092-ru.mp3"
+          ],
+          "text": [
+            "Я увидел мужчину, продающего свежие цветы на улице."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14092-1-en.mp3",
+            "14092-2-en.mp3"
+          ],
+          "text": [
+            "I saw a man selling fresh flowers on the street."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14093",
+    "description": "General Phrases",
+    "picture": [
+      "14093.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14093-ru.mp3"
+          ],
+          "text": [
+            "Они проверят билеты, прежде чем мы сядем в автобус."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14093-1-en.mp3",
+            "14093-2-en.mp3"
+          ],
+          "text": [
+            "They will check the tickets before we get on the bus."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14094",
+    "description": "General Phrases",
+    "picture": [
+      "14094.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14094-ru.mp3"
+          ],
+          "text": [
+            "Вчера я навестил друга в больнице."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14094-1-en.mp3",
+            "14094-2-en.mp3"
+          ],
+          "text": [
+            "I visited my friend in the hospital yesterday."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14095",
+    "description": "General Phrases",
+    "picture": [
+      "14095.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14095-ru.mp3"
+          ],
+          "text": [
+            "Он купит хлеб и молоко, если магазин открыт."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14095-1-en.mp3",
+            "14095-2-en.mp3"
+          ],
+          "text": [
+            "He will buy bread and milk if the store is open."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14096",
+    "description": "General Phrases",
+    "picture": [
+      "14096.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14096-ru.mp3"
+          ],
+          "text": [
+            "Я ушёл, не попрощавшись."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14096-1-en.mp3",
+            "14096-2-en.mp3"
+          ],
+          "text": [
+            "I left without saying goodbye."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14097",
+    "description": "General Phrases",
+    "picture": [
+      "14097.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14097-ru.mp3"
+          ],
+          "text": [
+            "Она починила телефон после того, как он упал в воду."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14097-1-en.mp3",
+            "14097-2-en.mp3"
+          ],
+          "text": [
+            "She repaired her phone after it fell in water."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14098",
+    "description": "General Phrases",
+    "picture": [
+      "14098.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14098-ru.mp3"
+          ],
+          "text": [
+            "Мы фотографировали, пока не стемнело."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14098-1-en.mp3",
+            "14098-2-en.mp3"
+          ],
+          "text": [
+            "We took photos until it got dark."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14099",
+    "description": "General Phrases",
+    "picture": [
+      "14099.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14099-ru.mp3"
+          ],
+          "text": [
+            "Сегодня вечером мне хочется остаться дома."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14099-1-en.mp3",
+            "14099-2-en.mp3"
+          ],
+          "text": [
+            "I feel like staying at home tonight."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14100",
+    "description": "General Phrases",
+    "picture": [
+      "14100.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14100-ru.mp3"
+          ],
+          "text": [
+            "Он должен носить шлем, когда едет на велосипеде."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14100-1-en.mp3",
+            "14100-2-en.mp3"
+          ],
+          "text": [
+            "He must wear a helmet when riding a bike."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14101",
+    "description": "General Phrases",
+    "picture": [
+      "14101.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14101-ru.mp3"
+          ],
+          "text": [
+            "Завтра я отправлю тебе документы по электронной почте."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14101-1-en.mp3",
+            "14101-2-en.mp3"
+          ],
+          "text": [
+            "I will send you the documents by email tomorrow."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14102",
+    "description": "General Phrases",
+    "picture": [
+      "14102.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14102-ru.mp3"
+          ],
+          "text": [
+            "Она не позавтракала, потому что проснулась поздно."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14102-1-en.mp3",
+            "14102-2-en.mp3"
+          ],
+          "text": [
+            "She didn't eat breakfast because she woke up late."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14103",
+    "description": "General Phrases",
+    "picture": [
+      "14103.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14103-ru.mp3"
+          ],
+          "text": [
+            "Мы можем подождать здесь, пока дождь не закончится."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14103-1-en.mp3",
+            "14103-2-en.mp3"
+          ],
+          "text": [
+            "We can wait here until the rain stops."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14104",
+    "description": "General Phrases",
+    "picture": [
+      "14104.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14104-ru.mp3"
+          ],
+          "text": [
+            "Он заплатил за билеты наличными."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14104-1-en.mp3",
+            "14104-2-en.mp3"
+          ],
+          "text": [
+            "He paid for the tickets in cash."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14105",
+    "description": "General Phrases",
+    "picture": [
+      "14105.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14105-ru.mp3"
+          ],
+          "text": [
+            "Я взял такси и приехал как раз вовремя."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14105-1-en.mp3",
+            "14105-2-en.mp3"
+          ],
+          "text": [
+            "I took a taxi and arrived just in time."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14106",
+    "description": "General Phrases",
+    "picture": [
+      "14106.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14106-ru.mp3"
+          ],
+          "text": [
+            "Она позвонит тебе, когда закончит работу."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14106-1-en.mp3",
+            "14106-2-en.mp3"
+          ],
+          "text": [
+            "She will call you when she finishes work."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14107",
+    "description": "General Phrases",
+    "picture": [
+      "14107.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14107-ru.mp3"
+          ],
+          "text": [
+            "Мне нравится гулять в парке вечером."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14107-1-en.mp3",
+            "14107-2-en.mp3"
+          ],
+          "text": [
+            "I enjoy walking in the park in the evening."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14108",
+    "description": "General Phrases",
+    "picture": [
+      "14108.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14108-ru.mp3"
+          ],
+          "text": [
+            "Он купил подарок на день выпуска сестры."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14108-1-en.mp3",
+            "14108-2-en.mp3"
+          ],
+          "text": [
+            "He bought a gift for his sister's graduation."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14109",
+    "description": "General Phrases",
+    "picture": [
+      "14109.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14109-ru.mp3"
+          ],
+          "text": [
+            "Я выучил, как сказать «спасибо» по-испански."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14109-1-en.mp3",
+            "14109-2-en.mp3"
+          ],
+          "text": [
+            "I learned how to say \"thank you\" in Spanish."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14110",
+    "description": "General Phrases",
+    "picture": [
+      "14110.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14110-ru.mp3"
+          ],
+          "text": [
+            "Они сидели в кафе больше часа."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14110-1-en.mp3",
+            "14110-2-en.mp3"
+          ],
+          "text": [
+            "They stayed in the café for over an hour."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14111",
+    "description": "General Phrases",
+    "picture": [
+      "14111.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14111-ru.mp3"
+          ],
+          "text": [
+            "Я навещу родителей до начала праздников."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14111-1-en.mp3",
+            "14111-2-en.mp3"
+          ],
+          "text": [
+            "I will visit my parents before the holidays start."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14112",
+    "description": "General Phrases",
+    "picture": [
+      "14112.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14112-ru.mp3"
+          ],
+          "text": [
+            "Она открыла конверт и прочитала письмо."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14112-1-en.mp3",
+            "14112-2-en.mp3"
+          ],
+          "text": [
+            "She opened the envelope and read the letter."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14113",
+    "description": "General Phrases",
+    "picture": [
+      "14113.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14113-ru.mp3"
+          ],
+          "text": [
+            "Он сможет починить лампу, если найдёт подходящий инструмент."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14113-1-en.mp3",
+            "14113-2-en.mp3"
+          ],
+          "text": [
+            "He can fix the lamp if he finds the right tool."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14114",
+    "description": "General Phrases",
+    "picture": [
+      "14114.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14114-ru.mp3"
+          ],
+          "text": [
+            "Я не купилa туфли, потому что они были слишком маленькие."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14114-1-en.mp3",
+            "14114-2-en.mp3"
+          ],
+          "text": [
+            "I didn't buy the shoes because they were too small."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14115",
+    "description": "General Phrases",
+    "picture": [
+      "14115.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14115-ru.mp3"
+          ],
+          "text": [
+            "Мы сели не на тот автобус и заблудились."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14115-1-en.mp3",
+            "14115-2-en.mp3"
+          ],
+          "text": [
+            "We took the wrong bus and got lost."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14116",
+    "description": "General Phrases",
+    "picture": [
+      "14116.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14116-ru.mp3"
+          ],
+          "text": [
+            "Мне сейчас хочется съесть что-то сладкое."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14116-1-en.mp3",
+            "14116-2-en.mp3"
+          ],
+          "text": [
+            "I feel like eating something sweet right now."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14117",
+    "description": "General Phrases",
+    "picture": [
+      "14117.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14117-ru.mp3"
+          ],
+          "text": [
+            "Она должна закончить отчёт, прежде чем уйти из офиса."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14117-1-en.mp3",
+            "14117-2-en.mp3"
+          ],
+          "text": [
+            "She must finish the report before leaving the office."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14118",
+    "description": "General Phrases",
+    "picture": [
+      "14118.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14118-ru.mp3"
+          ],
+          "text": [
+            "Он спросил, где находится туалет."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14118-1-en.mp3",
+            "14118-2-en.mp3"
+          ],
+          "text": [
+            "He asked where the bathroom was."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14119",
+    "description": "General Phrases",
+    "picture": [
+      "14119.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14119-ru.mp3"
+          ],
+          "text": [
+            "Я помогу тебе упаковать вещи."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14119-1-en.mp3",
+            "14119-2-en.mp3"
+          ],
+          "text": [
+            "I will help you pack your things."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14120",
+    "description": "General Phrases",
+    "picture": [
+      "14120.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14120-ru.mp3"
+          ],
+          "text": [
+            "Они шли по пляжу и собирали ракушки."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14120-1-en.mp3",
+            "14120-2-en.mp3"
+          ],
+          "text": [
+            "They walked along the beach and collected shells."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14121",
+    "description": "General Phrases",
+    "picture": [
+      "14121.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14121-ru.mp3"
+          ],
+          "text": [
+            "Я пытался позвонить тебе, но твой телефон был выключен."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14121-1-en.mp3",
+            "14121-2-en.mp3"
+          ],
+          "text": [
+            "I tried to call you, but your phone was off."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14122",
+    "description": "General Phrases",
+    "picture": [
+      "14122.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14122-ru.mp3"
+          ],
+          "text": [
+            "Она осталась дома, потому что шёл дождь."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14122-1-en.mp3",
+            "14122-2-en.mp3"
+          ],
+          "text": [
+            "She stayed at home because it was raining."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14123",
+    "description": "General Phrases",
+    "picture": [
+      "14123.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14123-ru.mp3"
+          ],
+          "text": [
+            "Мы пойдём за покупками после обеда."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14123-1-en.mp3",
+            "14123-2-en.mp3"
+          ],
+          "text": [
+            "We will go shopping after lunch."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14124",
+    "description": "General Phrases",
+    "picture": [
+      "14124.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14124-ru.mp3"
+          ],
+          "text": [
+            "Он не понял, как пользоваться этим аппаратом."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14124-1-en.mp3",
+            "14124-2-en.mp3"
+          ],
+          "text": [
+            "He didn't understand how to use the machine."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14125",
+    "description": "General Phrases",
+    "picture": [
+      "14125.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14125-ru.mp3"
+          ],
+          "text": [
+            "Я сделал фотографию здания ночью."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14125-1-en.mp3",
+            "14125-2-en.mp3"
+          ],
+          "text": [
+            "I took a photo of the building at night."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14126",
+    "description": "General Phrases",
+    "picture": [
+      "14126.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14126-ru.mp3"
+          ],
+          "text": [
+            "Она свободно говорит на трёх языках."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14126-1-en.mp3",
+            "14126-2-en.mp3"
+          ],
+          "text": [
+            "She can speak three languages fluently."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14127",
+    "description": "General Phrases",
+    "picture": [
+      "14127.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14127-ru.mp3"
+          ],
+          "text": [
+            "Мы смотрели фейерверк с балкона."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14127-1-en.mp3",
+            "14127-2-en.mp3"
+          ],
+          "text": [
+            "We watched the fireworks from the balcony."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14128",
+    "description": "General Phrases",
+    "picture": [
+      "14128.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14128-ru.mp3"
+          ],
+          "text": [
+            "Я оставил свой кошелёк в ресторане."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14128-1-en.mp3",
+            "14128-2-en.mp3"
+          ],
+          "text": [
+            "I left my wallet in the restaurant."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14129",
+    "description": "General Phrases",
+    "picture": [
+      "14129.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14129-ru.mp3"
+          ],
+          "text": [
+            "Завтра он вернёт книгу в библиотеку."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14129-1-en.mp3",
+            "14129-2-en.mp3"
+          ],
+          "text": [
+            "He will return the book to the library tomorrow."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14130",
+    "description": "General Phrases",
+    "picture": [
+      "14130.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14130-ru.mp3"
+          ],
+          "text": [
+            "Я наслаждался птицами, пока ждал автобус."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14130-1-en.mp3",
+            "14130-2-en.mp3"
+          ],
+          "text": [
+            "I enjoyed the birds while waiting for the bus."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14131",
+    "description": "General Phrases",
+    "picture": [
+      "14131.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14131-ru.mp3"
+          ],
+          "text": [
+            "Она тихо закрыла дверь, чтобы никто не услышал."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14131-1-en.mp3",
+            "14131-2-en.mp3"
+          ],
+          "text": [
+            "She closed the door quietly so no one would hear."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14132",
+    "description": "General Phrases",
+    "picture": [
+      "14132.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14132-ru.mp3"
+          ],
+          "text": [
+            "Я возьму зонт на случай, если пойдёт дождь."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14132-1-en.mp3",
+            "14132-2-en.mp3"
+          ],
+          "text": [
+            "I will bring an umbrella in case it rains."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14133",
+    "description": "General Phrases",
+    "picture": [
+      "14133.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14133-ru.mp3"
+          ],
+          "text": [
+            "Он отправил посылку курьером."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14133-1-en.mp3",
+            "14133-2-en.mp3"
+          ],
+          "text": [
+            "He sent the package by courier."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14134",
+    "description": "General Phrases",
+    "picture": [
+      "14134.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14134-ru.mp3"
+          ],
+          "text": [
+            "Я обычно не смотрю телевизор утром."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14134-1-en.mp3",
+            "14134-2-en.mp3"
+          ],
+          "text": [
+            "I don't usually watch TV in the morning."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14135",
+    "description": "General Phrases",
+    "picture": [
+      "14135.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14135-ru.mp3"
+          ],
+          "text": [
+            "Она нашла маленькое кафе, спрятанное за парком."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14135-1-en.mp3",
+            "14135-2-en.mp3"
+          ],
+          "text": [
+            "She found a small café hidden behind the park."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14136",
+    "description": "General Phrases",
+    "picture": [
+      "14136.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14136-ru.mp3"
+          ],
+          "text": [
+            "Мы сядем у окна, чтобы видеть вид."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14136-1-en.mp3",
+            "14136-2-en.mp3"
+          ],
+          "text": [
+            "We will sit near the window so we can see the view."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14137",
+    "description": "General Phrases",
+    "picture": [
+      "14137.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14137-ru.mp3"
+          ],
+          "text": [
+            "Я ждал, пока все не ушли."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14137-1-en.mp3",
+            "14137-2-en.mp3"
+          ],
+          "text": [
+            "I waited until everyone had left."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14138",
+    "description": "General Phrases",
+    "picture": [
+      "14138.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14138-ru.mp3"
+          ],
+          "text": [
+            "Он объяснил, как добраться до вокзала."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14138-1-en.mp3",
+            "14138-2-en.mp3"
+          ],
+          "text": [
+            "He explained how to get to the station."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14139",
+    "description": "General Phrases",
+    "picture": [
+      "14139.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14139-ru.mp3"
+          ],
+          "text": [
+            "Я одолжил книгу у коллеги."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14139-1-en.mp3",
+            "14139-2-en.mp3"
+          ],
+          "text": [
+            "I borrowed a book from my colleague."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14140",
+    "description": "General Phrases",
+    "picture": [
+      "14140.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14140-ru.mp3"
+          ],
+          "text": [
+            "Она купит свежий хлеб в пекарне."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14140-1-en.mp3",
+            "14140-2-en.mp3"
+          ],
+          "text": [
+            "She will buy fresh bread from the bakery."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14141",
+    "description": "General Phrases",
+    "picture": [
+      "14141.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14141-ru.mp3"
+          ],
+          "text": [
+            "Я проехал на автобусе через весь город."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14141-1-en.mp3",
+            "14141-2-en.mp3"
+          ],
+          "text": [
+            "I traveled by bus across the city."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14142",
+    "description": "General Phrases",
+    "picture": [
+      "14142.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": ["14142-ru.mp3"],
+          "text": ["Ему хочется пойти на прогулку."]
+        }
+      },{
+        "en": {
+          "sound": ["14142-1-en.mp3","14142-2-en.mp3"],
+          "text": ["He feels like going for a walk."]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14143",
+    "description": "General Phrases",
+    "picture": [
+      "14143.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14143-ru.mp3"
+          ],
+          "text": [
+            "Мы сможем уйти пораньше, если встреча закончится скоро."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14143-1-en.mp3",
+            "14143-2-en.mp3"
+          ],
+          "text": [
+            "We can leave early if the meeting finishes soon."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14144",
+    "description": "General Phrases",
+    "picture": [
+      "14144.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14144-ru.mp3"
+          ],
+          "text": [
+            "Я остановился там, где останавливались другие."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14144-1-en.mp3",
+            "14144-2-en.mp3"
+          ],
+          "text": [
+            "I stayed where the others stayed."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14145",
+    "description": "General Phrases",
+    "picture": [
+      "14145.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14145-ru.mp3"
+          ],
+          "text": [
+            "Она покрасила стену в белый цвет."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14145-1-en.mp3",
+            "14145-2-en.mp3"
+          ],
+          "text": [
+            "She painted the wall white."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14146",
+    "description": "General Phrases",
+    "picture": [
+      "14146.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14146-ru.mp3"
+          ],
+          "text": [
+            "Он научился плавать, когда был ребёнком."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14146-1-en.mp3",
+            "14146-2-en.mp3"
+          ],
+          "text": [
+            "He learned how to swim when he was a child."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14147",
+    "description": "General Phrases",
+    "picture": [
+      "14147.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14147-ru.mp3"
+          ],
+          "text": [
+            "Мы будем ждать тебя на автобусной остановке."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14147-1-en.mp3",
+            "14147-2-en.mp3"
+          ],
+          "text": [
+            "We will wait for you at the bus stop."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14148",
+    "description": "General Phrases",
+    "picture": [
+      "14148.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14148-ru.mp3"
+          ],
+          "text": [
+            "Я не ем кейл, потому что у меня аллергия."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14148-1-en.mp3",
+            "14148-2-en.mp3"
+          ],
+          "text": [
+            "I don't eat kale because I'm allergic."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14149",
+    "description": "General Phrases",
+    "picture": [
+      "14149.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14149-ru.mp3"
+          ],
+          "text": [
+            "Она может помочь тебе найти правильную платформу."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14149-1-en.mp3",
+            "14149-2-en.mp3"
+          ],
+          "text": [
+            "She can help you find the right platform."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "14150",
+    "description": "General Phrases",
+    "picture": [
+      "14150.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "14150-ru.mp3"
+          ],
+          "text": [
+            "Нам понадобилось два часа, чтобы подняться на холм."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "14150-1-en.mp3",
+            "14150-2-en.mp3"
+          ],
+          "text": [
+            "It took us two hours to climb the hill."
+          ]
+        }
+      }
+    ]
+  }
+]

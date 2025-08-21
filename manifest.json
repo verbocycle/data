@@ -4,18 +4,33 @@
     {
       "id": "to_be",
       "title": "BE fluent: to be verb",
+      "level": 0, 
       "description": "Automatism with the verb to be. Start here!",
       "url": "https://raw.githubusercontent.com/verbocycle/data/main/decks/to_be/deck.json"
     },{
       "id": "modal_verbs",
       "title": "you MUST study it: modal verbs",
+      "level": 0, 
       "description": "Work on the modal verbs: can, must, could, may, might, will, shall, would, should",
       "url": "https://raw.githubusercontent.com/verbocycle/data/main/decks/modal_verbs/deck.json"
     },{
       "id": "main_verbs",
       "title": "easy way: lexical verbs",
+      "level": 0, 
       "description": "core verbs that carry the primary meaning of a sentence",
       "url": "https://raw.githubusercontent.com/verbocycle/data/main/decks/main_verbs/deck.json"
+    },{
+      "id": "speech_phrases",
+      "title": "meet them: everyday phrases",
+      "level": 1, 
+      "description": "vocabulary for conversation in English",
+      "url": "https://raw.githubusercontent.com/verbocycle/data/main/decks/speech_phrases/deck.json"
+    },{
+      "id": "kanadsky",
+      "title": "Devid kanadsky",
+      "level": 1, 
+      "description": "language core",
+      "url": "https://raw.githubusercontent.com/verbocycle/data/main/decks/kanadsky/deck.json"
     }
   ]
 }

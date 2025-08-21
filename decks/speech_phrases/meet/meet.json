@@ -1,0 +1,596 @@
+[
+  { 
+    "id" : "13001",
+    "description": "Greetings",
+    "picture": ["13001.jpg"],
+    "lang": [
+        {"ru": {"sound": ["13001-ru.mp3"],"text": ["Сожалею беспокоить вас (прервать или обратиться к незнакомцу)"]}},
+        {"en": {"sound": ["13001-1-en.mp3", "13001-2-en.mp3"],"text": ["Sorry to bother you"]}}
+    ]
+  },
+  { 
+    "id" : "13002",
+    "description": "Greetings",
+    "picture": ["13002.jpg"],
+    "lang": [
+        {"ru": {"sound": ["13002-ru.mp3"],"text": ["Доброго утра (классика)"]}},
+        {"en": {"sound": ["13002-1-en.mp3", "13002-2-en.mp3"],"text": ["Good morning"]}}
+    ]
+  },
+  { 
+    "id" : "13003",
+    "description": "Greetings",
+    "picture": ["13003.jpg"],
+    "lang": [
+        {"ru": {"sound": ["13003-ru.mp3"],"text": ["Доброго послеобеда (классика)"]}},
+        {"en": {"sound": ["13003-1-en.mp3", "13003-2-en.mp3"],"text": ["Good afternoon"]}}
+    ]
+  },
+  { 
+    "id" : "13004",
+    "description": "Greetings",
+    "picture": ["13004.jpg"],
+    "lang": [
+        {"ru": {"sound": ["13004-ru.mp3"],"text": ["Доброго вечера (классика)"]}},
+        {"en": {"sound": ["13004-1-en.mp3", "13004-2-en.mp3"],"text": ["Good evening"]}}
+    ]
+  },
+  { 
+    "id" : "13005",
+    "description": "Greetings",
+    "picture": ["13005.jpg"],
+    "lang": [
+        {"ru": {"sound": ["13005-ru.mp3"],"text": ["Привет (классика)."]}},
+        {"en": {"sound": ["13005-1-en.mp3", "13005-2-en.mp3"],"text": ["Hello"]}}
+    ]
+  },
+  { 
+    "id" : "13006",
+    "description": "Greetings",
+    "picture": ["13006.jpg"],
+    "lang": [
+        {"ru": {"sound": ["13006-ru.mp3"],"text": ["Привет (неформ.)"]}},
+        {"en": {"sound": ["13006-1-en.mp3", "13006-2-en.mp3"],"text": ["Hey"]}}
+    ]
+  },
+  { 
+    "id" : "13007",
+    "description": "Greetings",
+    "picture": ["13007.jpg"],
+    "lang": [
+        {"ru": {"sound": ["13007-ru.mp3"],"text": ["Привет там (всем)"]}},
+        {"en": {"sound": ["13007-1-en.mp3", "13007-2-en.mp3"],"text": ["Hey there"]}}
+    ]
+  },
+  { 
+    "id" : "13008",
+    "description": "Greetings",
+    "picture": ["13008.jpg"],
+    "lang": [
+        {"ru": {"sound": ["13008-ru.mp3"],"text": ["Ё! (привет, слэнг)"]}},
+        {"en": {"sound": ["13008-1-en.mp3", "13008-2-en.mp3"],"text": ["Yo!"]}}
+    ]
+  },
+  { 
+    "id" : "13009",
+    "description": "Reunions",
+    "picture": ["13009.jpg"],
+    "lang": [
+        {"ru": {"sound": ["13009-ru.mp3"],"text": ["Это приятно увидеть вас снова"]}},
+        {"en": {"sound": ["13009-1-en.mp3", "13009-2-en.mp3"],"text": ["It's nice to see you again"]}}
+    ]
+  },
+  { 
+    "id" : "13010",
+    "description": "Reunions",
+    "picture": ["13010.jpg"],
+    "lang": [
+        {"ru": {"sound": ["13010-ru.mp3"],"text": ["Долгое время не виделись"]}},
+        {"en": {"sound": ["13010-1-en.mp3", "13010-2-en.mp3"],"text": ["Long time no see!"]}}
+    ]
+  },
+  { 
+    "id" : "13011",
+    "description": "Reunions",
+    "picture": ["13011.jpg"],
+    "lang": [
+        {"ru": {"sound": ["13011-ru.mp3"],"text": ["Это было так долго."]}},
+        {"en": {"sound": ["13011-1-en.mp3", "13011-2-en.mp3"],"text": ["It’s been so long"]}}
+    ]
+  },
+  { 
+    "id" : "13012",
+    "description": "Reunions",
+    "picture": ["13012.jpg"],
+    "lang": [
+        {"ru": {"sound": ["13012-ru.mp3"],"text": ["Это было года. (Прошла вечность!)"]}},
+        {"en": {"sound": ["13012-1-en.mp3", "13012-2-en.mp3"],"text": ["It's been ages"]}}
+    ]
+  },
+  { 
+    "id" : "13013",
+    "description": "Reunions",
+    "picture": ["13013.jpg"],
+    "lang": [
+        {"ru": {"sound": ["13013-ru.mp3"],"text": ["Время летит."]}},
+        {"en": {"sound": ["13013-1-en.mp3", "13013-2-en.mp3"],"text": ["Time flies"]}}
+    ]
+  },
+  { 
+    "id" : "13014",
+    "description": "Formal Greetings",
+    "picture": ["13014.jpg"],
+    "lang": [
+        {"ru": {"sound": ["13014-ru.mp3"],"text": ["Как вы делаете? (Очень формально, этикет)"]}},
+        {"en": {"sound": ["13014-1-en.mp3", "13014-2-en.mp3"],"text": ["How do you do?"]}}
+    ]
+  },
+  { 
+    "id" : "13015",
+    "description": "Formal Greetings",
+    "picture": ["13015.jpg"],
+    "lang": [
+        {"ru": {"sound": ["13015-ru.mp3"],"text": ["Ответ на: How do you do? (по этикету)"]}},
+        {"en": {"sound": ["13015-1-en.mp3", "13015-2-en.mp3"],"text": ["How do you do?"]}}
+    ]
+  },
+  { 
+    "id" : "13016",
+    "description": "Asking How Are You",
+    "picture": ["13016.jpg"],
+    "lang": [
+        {"ru": {"sound": ["13016-ru.mp3"],"text": ["Как ты есть? (Как дела?, нейтральный)"]}},
+        {"en": {"sound": ["13016-1-en.mp3", "13016-2-en.mp3"],"text": ["How are you?"]}}
+    ]
+  },
+  { 
+    "id" : "13017",
+    "description": "Asking How Are You",
+    "picture": ["13017.jpg"],
+    "lang": [
+        {"ru": {"sound": ["13017-ru.mp3"],"text": ["Как это продвигается? (Как дела?, нейтр)"]}},
+        {"en": {"sound": ["13017-1-en.mp3", "13017-2-en.mp3"],"text": ["How's it going?"]}}
+    ]
+  },
+  { 
+    "id" : "13018",
+    "description": "Asking How Are You",
+    "picture": ["13018.jpg"],
+    "lang": [
+        {"ru": {"sound": ["13018-ru.mp3"],"text": ["Как вещи? (Как дела?, неформ.)"]}},
+        {"en": {"sound": ["13018-1-en.mp3", "13018-2-en.mp3"],"text": ["How are things?"]}}
+    ]
+  },
+  { 
+    "id" : "13019",
+    "description": "Asking How Are You",
+    "picture": ["13019.jpg"],
+    "lang": [
+        {"ru": {"sound": ["13019-ru.mp3"],"text": ["Как поделываешь? (неформ., сокр.)"]}},
+        {"en": {"sound": ["13019-1-en.mp3", "13019-2-en.mp3"],"text": ["How ya doing?"]}}
+    ]
+  },
+  { 
+    "id" : "13020",
+    "description": "Asking How Are You",
+    "picture": ["13020.jpg"],
+    "lang": [
+        {"ru": {"sound": ["13020-ru.mp3"],"text": ["Как имеешь ты быть? (давно не виделись)"]}},
+        {"en": {"sound": ["13020-1-en.mp3", "13020-2-en.mp3"],"text": ["How have you been?"]}}
+    ]
+  },
+  { 
+    "id" : "13021",
+    "description": "Asking About Plans",
+    "picture": ["13021.jpg"],
+    "lang": [
+        {"ru": {"sound": ["13021-ru.mp3"],"text": ["Чем есть вы \"вверх к\" эти выходные? (Дела? Планы? be up to - замышлять)"]}},
+        {"en": {"sound": ["13021-1-en.mp3", "13021-2-en.mp3"],"text": ["What are you up to this weekend?"]}}
+    ]
+  },
+  { 
+    "id" : "13022",
+    "description": "Asking About Plans",
+    "picture": ["13022.jpg"],
+    "lang": [
+        {"ru": {"sound": ["13022-ru.mp3"],"text": ["Что имеете вы \"быть вверх к\" (Чем занимался все это время? be up to - замышлять)"]}},
+        {"en": {"sound": ["13022-1-en.mp3", "13022-2-en.mp3"],"text": ["What have you been up to?"]}}
+    ]
+  },
+  { 
+    "id" : "13023",
+    "description": "Asking About Past Events",
+    "picture": ["13023.jpg"],
+    "lang": [
+        {"ru": {"sound": ["13023-ru.mp3"],"text": ["Как был твой уикэнд?"]}},
+        {"en": {"sound": ["13023-1-en.mp3", "13023-2-en.mp3"],"text": ["How was your weekend?"]}}
+    ]
+  },
+  { 
+    "id" : "13024",
+    "description": "Asking About Past Events",
+    "picture": ["13024.jpg"],
+    "lang": [
+        {"ru": {"sound": ["13024-ru.mp3"],"text": ["Как был твой день?"]}},
+        {"en": {"sound": ["13024-1-en.mp3", "13024-2-en.mp3"],"text": ["How was your day?"]}}
+    ]
+  },
+  { 
+    "id" : "13025",
+    "description": "Answering How Are You",
+    "picture": ["13025.jpg"],
+    "lang": [
+        {"ru": {"sound": ["13025-ru.mp3"],"text": ["Так же как всегда (нейтр.)"]}},
+        {"en": {"sound": ["13025-1-en.mp3", "13025-2-en.mp3"],"text": ["Same as always"]}}
+    ]
+  },
+  { 
+    "id" : "13026",
+    "description": "Answering How Are You",
+    "picture": ["13026.jpg"],
+    "lang": [
+        {"ru": {"sound": ["13026-ru.mp3"],"text": ["Не могу жаловаться."]}},
+        {"en": {"sound": ["13026-1-en.mp3", "13026-2-en.mp3"],"text": ["Can't complain."]}}
+    ]
+  },
+  { 
+    "id" : "13027",
+    "description": "Answering How Are You",
+    "picture": ["13027.jpg"],
+    "lang": [
+        {"ru": {"sound": ["13027-ru.mp3"],"text": ["Так далеко так хорошо (Пока все хорошо)"]}},
+        {"en": {"sound": ["13027-1-en.mp3", "13027-2-en.mp3"],"text": ["So far so good"]}}
+    ]
+  },
+  { 
+    "id" : "13028",
+    "description": "Answering How Are You",
+    "picture": ["13028.jpg"],
+    "lang": [
+        {"ru": {"sound": ["13028-ru.mp3"],"text": ["Довольно хорошо."]}},
+        {"en": {"sound": ["13028-1-en.mp3", "13028-2-en.mp3"],"text": ["Pretty good."]}}
+    ]
+  },
+  { 
+    "id" : "13029",
+    "description": "Answering How Are You",
+    "picture": ["13029.jpg"],
+    "lang": [
+        {"ru": {"sound": ["13029-ru.mp3"],"text": ["Довольно занят с работой, ты знаешь."]}},
+        {"en": {"sound": ["13029-1-en.mp3", "13029-2-en.mp3"],"text": ["Pretty busy with work, you know."]}}
+    ]
+  },
+  { 
+    "id" : "13030",
+    "description": "Answering How Are You",
+    "picture": ["13030.jpg"],
+    "lang": [
+        {"ru": {"sound": ["13030-ru.mp3"],"text": ["Так хорошо как получается (Лучше не бывает)"]}},
+        {"en": {"sound": ["13030-1-en.mp3", "13030-2-en.mp3"],"text": ["As good as it gets"]}}
+    ]
+  },
+  { 
+    "id" : "13031",
+    "description": "Answering How Are You",
+    "picture": ["13031.jpg"],
+    "lang": [
+        {"ru": {"sound": ["13031-ru.mp3"],"text": ["Не могло быть лучше!"]}},
+        {"en": {"sound": ["13031-1-en.mp3", "13031-2-en.mp3"],"text": ["Couldn't be better!"]}}
+    ]
+  },
+  { 
+    "id" : "13032",
+    "description": "Answering How Are You",
+    "picture": ["13032.jpg"],
+    "lang": [
+        {"ru": {"sound": ["13032-ru.mp3"],"text": ["Я имею быть хорошо, спасибо! (все было хорошо)"]}},
+        {"en": {"sound": ["13032-1-en.mp3", "13032-2-en.mp3"],"text": ["I've been good, thanks!"]}}
+    ]
+  },
+  { 
+    "id" : "13033",
+    "description": "Slang Greetings",
+    "picture": ["13033.jpg"],
+    "lang": [
+        {"ru": {"sound": ["13033-ru.mp3"],"text": ["Что поднялось? (и Привет и Как дела? слэнг)"]}},
+        {"en": {"sound": ["13033-1-en.mp3", "13033-2-en.mp3"],"text": ["What's up?"]}}
+    ]
+  },
+  { 
+    "id" : "13034",
+    "description": "Slang Answers",
+    "picture": ["13034.jpg"],
+    "lang": [
+        {"ru": {"sound": ["13034-ru.mp3"],"text": ["Не много (Ничего особенного, слэнг)"]}},
+        {"en": {"sound": ["13034-1-en.mp3", "13034-2-en.mp3"],"text": ["Not much"]}}
+    ]
+  },
+  { 
+    "id" : "13035",
+    "description": "Slang Greetings",
+    "picture": ["13035.jpg"],
+    "lang": [
+        {"ru": {"sound": ["13035-ru.mp3"],"text": ["Что есть хорошего (и Привет и Как дела? слэнг)"]}},
+        {"en": {"sound": ["13035-1-en.mp3", "13035-2-en.mp3"],"text": ["What's good?"]}}
+    ]
+  },
+  { 
+    "id" : "13036",
+    "description": "Slang Answers",
+    "picture": ["13036.jpg"],
+    "lang": [
+        {"ru": {"sound": ["13036-ru.mp3"],"text": ["Ничего нового"]}},
+        {"en": {"sound": ["13036-1-en.mp3", "13036-2-en.mp3"],"text": ["Nothing new"]}}
+    ]
+  },
+  { 
+    "id" : "13037",
+    "description": "Slang Answers",
+    "picture": ["13037.jpg"],
+    "lang": [
+        {"ru": {"sound": ["13037-ru.mp3"],"text": ["Все вещи хорошо"]}},
+        {"en": {"sound": ["13037-1-en.mp3", "13037-2-en.mp3"],"text": ["Everything's good"]}}
+    ]
+  },
+  { 
+    "id" : "13038",
+    "description": "Slang Greetings",
+    "picture": ["13038.jpg"],
+    "lang": [
+        {"ru": {"sound": ["13038-ru.mp3"],"text": ["Ты в порядке? (UK English)"]}},
+        {"en": {"sound": ["13038-1-en.mp3", "13038-2-en.mp3"],"text": ["You alright?"]}}
+    ]
+  },
+  { 
+    "id" : "13039",
+    "description": "Slang Answers",
+    "picture": ["13039.jpg"],
+    "lang": [
+        {"ru": {"sound": ["13039-ru.mp3"],"text": ["Да, ты?"]}},
+        {"en": {"sound": ["13039-1-en.mp3", "13039-2-en.mp3"],"text": ["Yeah, you?"]}}
+    ]
+  },
+  { 
+    "id" : "13040",
+    "description": "Polite Follow-up",
+    "picture": ["13040.jpg"],
+    "lang": [
+        {"ru": {"sound": ["13040-ru.mp3"],"text": ["Что насчет тебя? (вежливость в ответ)"]}},
+        {"en": {"sound": ["13040-1-en.mp3", "13040-2-en.mp3"],"text": ["What about you?"]}}
+    ]
+  },
+  { 
+    "id" : "13041",
+    "description": "Polite Follow-up",
+    "picture": ["13041.jpg"],
+    "lang": [
+        {"ru": {"sound": ["13041-ru.mp3"],"text": ["Как насчет тебя? (вежливость в ответ)"]}},
+        {"en": {"sound": ["13041-1-en.mp3", "13041-2-en.mp3"],"text": ["How about you?"]}}
+    ]
+  },
+  { 
+    "id" : "13042",
+    "description": "Making Plans",
+    "picture": ["13042.jpg"],
+    "lang": [
+        {"ru": {"sound": ["13042-ru.mp3"],"text": ["Ты свободен для кофе?"]}},
+        {"en": {"sound": ["13042-1-en.mp3", "13042-2-en.mp3"],"text": ["Are you free for a coffee?"]}}
+    ]
+  },
+  { 
+    "id" : "13043",
+    "description": "Making Plans",
+    "picture": ["13043.jpg"],
+    "lang": [
+        {"ru": {"sound": ["13043-ru.mp3"],"text": ["Ты хочешь перехватить кофе?"]}},
+        {"en": {"sound": ["13043-1-en.mp3", "13043-2-en.mp3"],"text": ["Do you want to grab a coffee?"]}}
+    ]
+  },
+  { 
+    "id" : "13044",
+    "description": "Making Plans",
+    "picture": ["13044.jpg"],
+    "lang": [
+        {"ru": {"sound": ["13044-ru.mp3"],"text": ["Давай захватим кусочек (перекусим)"]}},
+        {"en": {"sound": ["13044-1-en.mp3", "13044-2-en.mp3"],"text": ["Let’s grab a bite"]}}
+    ]
+  },
+  { 
+    "id" : "13045",
+    "description": "Pausing Conversation",
+    "picture": ["13045.jpg"],
+    "lang": [
+        {"ru": {"sound": ["13045-ru.mp3"],"text": ["Я буду точно назад (сейчас вернусь)"]}},
+        {"en": {"sound": ["13045-1-en.mp3", "13045-2-en.mp3"],"text": ["I’ll be right back (BRB)"]}}
+    ]
+  },
+  { 
+    "id" : "13046",
+    "description": "Pausing Conversation",
+    "picture": ["13046.jpg"],
+    "lang": [
+        {"ru": {"sound": ["13046-ru.mp3"],"text": ["Я получу назад к тебе позже (вернусь позже)"]}},
+        {"en": {"sound": ["13046-1-en.mp3", "13046-2-en.mp3"],"text": ["I'll get back to you later"]}}
+    ]
+  },
+  { 
+    "id" : "13047",
+    "description": "Ending Conversation",
+    "picture": ["13047.jpg"],
+    "lang": [
+        {"ru": {"sound": ["13047-ru.mp3"],"text": ["Ну, становиться поздно"]}},
+        {"en": {"sound": ["13047-1-en.mp3", "13047-2-en.mp3"],"text": ["Well, it's getting late"]}}
+    ]
+  },
+  { 
+    "id" : "13048",
+    "description": "Ending Conversation",
+    "picture": ["13048.jpg"],
+    "lang": [
+        {"ru": {"sound": ["13048-ru.mp3"],"text": ["Я побит (устал)"]}},
+        {"en": {"sound": ["13048-1-en.mp3", "13048-2-en.mp3"],"text": ["I’m beat"]}}
+    ]
+  },
+  { 
+    "id" : "13049",
+    "description": "Ending Conversation",
+    "picture": ["13049.jpg"],
+    "lang": [
+        {"ru": {"sound": ["13049-ru.mp3"],"text": ["Это был длинный день (ну и денек)"]}},
+        {"en": {"sound": ["13049-1-en.mp3", "13049-2-en.mp3"],"text": ["It's been a long day."]}}
+    ]
+  },
+  { 
+    "id" : "13050",
+    "description": "Ending Conversation",
+    "picture": ["13050.jpg"],
+    "lang": [
+        {"ru": {"sound": ["13050-ru.mp3"],"text": ["Позвольте нам назвать это \"день\" (на сегодня заканчиваем)."]}},
+        {"en": {"sound": ["13050-1-en.mp3", "13050-2-en.mp3"],"text": ["let’s call it a day"]}}
+    ]
+  },
+  { 
+    "id" : "13051",
+    "description": "Ending Conversation",
+    "picture": ["13051.jpg"],
+    "lang": [
+        {"ru": {"sound": ["13051-ru.mp3"],"text": ["Мне пора идти"]}},
+        {"en": {"sound": ["13051-1-en.mp3", "13051-2-en.mp3"],"text": ["I gotta go."]}}
+    ]
+  },
+  { 
+    "id" : "13052",
+    "description": "Saying Goodbye",
+    "picture": ["13052.jpg"],
+    "lang": [
+        {"ru": {"sound": ["13052-ru.mp3"],"text": ["Ну, было приятно поболтать с вами."]}},
+        {"en": {"sound": ["13052-1-en.mp3", "13052-2-en.mp3"],"text": ["Well, it was nice chatting with you"]}}
+    ]
+  },
+  { 
+    "id" : "13053",
+    "description": "Saying Goodbye",
+    "picture": ["13053.jpg"],
+    "lang": [
+        {"ru": {"sound": ["13053-ru.mp3"],"text": ["Это было приятно увидеть вас."]}},
+        {"en": {"sound": ["13053-1-en.mp3", "13053-2-en.mp3"],"text": ["It was a pleasure seeing you"]}}
+    ]
+  },
+  { 
+    "id" : "13054",
+    "description": "Saying Goodbye",
+    "picture": ["13054.jpg"],
+    "lang": [
+        {"ru": {"sound": ["13054-ru.mp3"],"text": ["Давай споймаемся скоро (встретимся)."]}},
+        {"en": {"sound": ["13054-1-en.mp3", "13054-2-en.mp3"],"text": ["Let's catch up soon."]}}
+    ]
+  },
+  { 
+    "id" : "13055",
+    "description": "Miscellaneous",
+    "picture": ["13055.jpg"],
+    "lang": [
+        {"ru": {"sound": ["13055-ru.mp3"],"text": ["Ты знаешь что? Давай пойдем домой."]}},
+        {"en": {"sound": ["13055-1-en.mp3", "13055-2-en.mp3"],"text": ["You know what? Let’s go home."]}}
+    ]
+  },
+  { 
+    "id" : "13056",
+    "description": "Miscellaneous",
+    "picture": ["13056.jpg"],
+    "lang": [
+        {"ru": {"sound": ["13056-ru.mp3"],"text": ["Оставь меня в покое (грубо)"]}},
+        {"en": {"sound": ["13056-1-en.mp3", "13056-2-en.mp3"],"text": ["Leave me alone. (rude)"]}}
+    ]
+  },
+  { 
+    "id" : "13057",
+    "description": "Saying Goodbye",
+    "picture": ["13057.jpg"],
+    "lang": [
+        {"ru": {"sound": ["13057-ru.mp3"],"text": ["До свидания (God be with ye)"]}},
+        {"en": {"sound": ["13057-1-en.mp3", "13057-2-en.mp3"],"text": ["Goodbye"]}}
+    ]
+  },
+  { 
+    "id" : "13058",
+    "description": "Saying Goodbye",
+    "picture": ["13058.jpg"],
+    "lang": [
+        {"ru": {"sound": ["13058-ru.mp3"],"text": ["Возьми заботу (береги себя)"]}},
+        {"en": {"sound": ["13058-1-en.mp3", "13058-2-en.mp3"],"text": ["Take care."]}}
+    ]
+  },
+  { 
+    "id" : "13059",
+    "description": "Saying Goodbye",
+    "picture": ["13059.jpg"],
+    "lang": [
+        {"ru": {"sound": ["13059-ru.mp3"],"text": ["Увидимся позже"]}},
+        {"en": {"sound": ["13059-1-en.mp3", "13059-2-en.mp3"],"text": ["See you later!"]}}
+    ]
+  },
+  { 
+    "id" : "13060",
+    "description": "Saying Goodbye",
+    "picture": ["13060.jpg"],
+    "lang": [
+        {"ru": {"sound": ["13060-ru.mp3"],"text": ["Прощалки! (сленг)"]}},
+        {"en": {"sound": ["13060-1-en.mp3", "13060-2-en.mp3"],"text": ["Laters!"]}}
+    ]
+  },
+  { 
+    "id" : "13061",
+    "description": "Saying Goodbye",
+    "picture": ["13061.jpg"],
+    "lang": [
+        {"ru": {"sound": ["13061-ru.mp3"],"text": ["Увидимся скоро"]}},
+        {"en": {"sound": ["13061-1-en.mp3", "13061-2-en.mp3"],"text": ["See you soon!"]}}
+    ]
+  },
+  { 
+    "id" : "13062",
+    "description": "Saying Goodbye",
+    "picture": ["13062.jpg"],
+    "lang": [
+        {"ru": {"sound": ["13062-ru.mp3"],"text": ["Имей приятный день"]}},
+        {"en": {"sound": ["13062-1-en.mp3", "13062-2-en.mp3"],"text": ["Have a nice day!"]}}
+    ]
+  },
+  { 
+    "id" : "13063",
+    "description": "Saying Goodbye",
+    "picture": ["13063.jpg"],
+    "lang": [
+        {"ru": {"sound": ["13063-ru.mp3"],"text": ["Увидимся"]}},
+        {"en": {"sound": ["13063-1-en.mp3", "13063-2-en.mp3"],"text": ["See you"]}}
+    ]
+  },
+  { 
+    "id" : "13064",
+    "description": "Saying Goodbye",
+    "picture": ["13064.jpg"],
+    "lang": [
+        {"ru": {"sound": ["13064-ru.mp3"],"text": ["Увидимся (неформ.)"]}},
+        {"en": {"sound": ["13064-1-en.mp3", "13064-2-en.mp3"],"text": ["See ya"]}}
+    ]
+  },
+  { 
+    "id" : "13065",
+    "description": "Saying Goodbye",
+    "picture": ["13065.jpg"],
+    "lang": [
+        {"ru": {"sound": ["13065-ru.mp3"],"text": ["Я закончился (ушел)"]}},
+        {"en": {"sound": ["13065-1-en.mp3", "13065-2-en.mp3"],"text": ["I'm off"]}}
+    ]
+  },
+  { 
+    "id" : "13066",
+    "description": "Saying Goodbye",
+    "picture": ["13066.jpg"],
+    "lang": [
+        {"ru": {"sound": ["13066-ru.mp3"],"text": ["Я наружу (ушел)"]}},
+        {"en": {"sound": ["13066-1-en.mp3", "13066-2-en.mp3"],"text": ["I'm out"]}}
+    ]
+  }
+]
