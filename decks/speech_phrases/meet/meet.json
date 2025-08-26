@@ -58,7 +58,7 @@
     "description": "Greetings",
     "picture": ["13007.jpg"],
     "lang": [
-        {"ru": {"sound": ["13007-ru.mp3"],"text": ["Привет там (всем)"]}},
+        {"ru": {"sound": ["13007-ru.mp3"],"text": ["Привет там (Привет всем)"]}},
         {"en": {"sound": ["13007-1-en.mp3", "13007-2-en.mp3"],"text": ["Hey there"]}}
     ]
   },
@@ -292,7 +292,7 @@
     "description": "Slang Greetings",
     "picture": ["13033.jpg"],
     "lang": [
-        {"ru": {"sound": ["13033-ru.mp3"],"text": ["Что поднялось? (и Привет и Как дела? слэнг)"]}},
+        {"ru": {"sound": ["13033-ru.mp3"],"text": ["Что поднимается? (и Привет и Как дела? слэнг)"]}},
         {"en": {"sound": ["13033-1-en.mp3", "13033-2-en.mp3"],"text": ["What's up?"]}}
     ]
   },
@@ -446,7 +446,7 @@
     "picture": ["13050.jpg"],
     "lang": [
         {"ru": {"sound": ["13050-ru.mp3"],"text": ["Позвольте нам назвать это \"день\" (на сегодня заканчиваем)."]}},
-        {"en": {"sound": ["13050-1-en.mp3", "13050-2-en.mp3"],"text": ["let’s call it a day"]}}
+        {"en": {"sound": ["13050-1-en.mp3", "13050-2-en.mp3"],"text": ["Let’s call it a day"]}}
     ]
   },
   { 
@@ -509,7 +509,7 @@
     "picture": ["13057.jpg"],
     "lang": [
         {"ru": {"sound": ["13057-ru.mp3"],"text": ["До свидания (God be with ye)"]}},
-        {"en": {"sound": ["13057-1-en.mp3", "13057-2-en.mp3"],"text": ["Goodbye"]}}
+        {"en": {"sound": ["13057-1-en.mp3", "13057-2-en.mp 3"],"text": ["Goodbye"]}}
     ]
   },
   { 
@@ -585,7 +585,7 @@
     ]
   },
   { 
-    "id" : "13066",
+    "id" : " м",
     "description": "Saying Goodbye",
     "picture": ["13066.jpg"],
     "lang": [
