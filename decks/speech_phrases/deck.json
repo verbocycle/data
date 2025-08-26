@@ -3,10 +3,10 @@
   "title": "speech phrases",
   "aspects": [
     {
-      "id": "can",
+      "id": "meet",
       "version": 1,
-      "title": "can (present)",
-      "description": "use of the modal verb can in the present tense",
+      "title": "Greetings and farewells",
+      "description": "How to greet another person. And say goodbye.",
       "url": "https://raw.githubusercontent.com/verbocycle/data/main/decks/speech_phrases/meet/meet.json"
     }
   ]
