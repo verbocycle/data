@@ -509,7 +509,7 @@
     "picture": ["13057.jpg"],
     "lang": [
         {"ru": {"sound": ["13057-ru.mp3"],"text": ["До свидания (God be with ye)"]}},
-        {"en": {"sound": ["13057-1-en.mp3", "13057-2-en.mp 3"],"text": ["Goodbye"]}}
+        {"en": {"sound": ["13057-1-en.mp3", "13057-2-en.mp3"],"text": ["Goodbye"]}}
     ]
   },
   { 
