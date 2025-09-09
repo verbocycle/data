@@ -1,0 +1,591 @@
+[
+  {
+    "id": "19001",
+    "description": "Introduction",
+    "picture": [
+      "19001_1.jpg",
+      "19001_2.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "19001-ru.mp3"
+          ],
+          "text": [
+            "Привет. Мое имя Алекс."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "19001-1-en.mp3",
+            "19001-2-en.mp3"
+          ],
+          "text": [
+            "Hello. My name is Alex."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "19002",
+    "description": "Introduction",
+    "picture": [
+      "19002_1.jpg",
+      "19002_2.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "19002-ru.mp3"
+          ],
+          "text": [
+            "Я инженер программного обеспечения."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "19002-1-en.mp3",
+            "19002-2-en.mp3"
+          ],
+          "text": [
+            "I am a Software Engineer."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "19003",
+    "description": "Introduction",
+    "picture": [
+      "19003_1.jpg",
+      "19003_2.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "19003-ru.mp3"
+          ],
+          "text": [
+            "Я имею больше 15 лет опыта в IT."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "19003-1-en.mp3",
+            "19003-2-en.mp3"
+          ],
+          "text": [
+            "I have more than 15 years of experience in IT."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "19004",
+    "description": "Introduction",
+    "picture": [
+      "19004_1.jpg",
+      "19004_2.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "19004-ru.mp3"
+          ],
+          "text": [
+            "Последние 5 лет я фокусируюсь на Golang."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "19004-1-en.mp3",
+            "19004-2-en.mp3"
+          ],
+          "text": [
+            "For the last 5 years, I have focused on Golang."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "19005",
+    "description": "Introduction",
+    "picture": [
+      "19005_1.jpg",
+      "19005_2.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "19005-ru.mp3"
+          ],
+          "text": [
+            "Я использую его для построения бэкэнд решений."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "19005-1-en.mp3",
+            "19005-2-en.mp3"
+          ],
+          "text": [
+            "I use it to build backend solutions."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "19006",
+    "description": "Experience Example",
+    "picture": [
+      "19006_1.jpg",
+      "19006_2.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "19006-ru.mp3"
+          ],
+          "text": [
+            "Я всегда пытаюсь улучшить вещи."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "19006-1-en.mp3",
+            "19006-2-en.mp3"
+          ],
+          "text": [
+            "I always try to improve things."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "19007",
+    "description": "Experience Example",
+    "picture": [
+      "19007_1.jpg",
+      "19007_2.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "19007-ru.mp3"
+          ],
+          "text": [
+            "Например, на моей последней работе я рефакторил большой ключевой модуль."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "19007-1-en.mp3",
+            "19007-2-en.mp3"
+          ],
+          "text": [
+            "For example, at my last job, I refactored a big key module."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "19008",
+    "description": "Experience Example",
+    "picture": [
+      "19008_1.jpg",
+      "19008_2.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "19008-ru.mp3"
+          ],
+          "text": [
+            "Я заметил, что многие сервисы были связаны на уровне базы данных."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "19008-1-en.mp3",
+            "19008-2-en.mp3"
+          ],
+          "text": [
+            "I noticed that many services were connected at the database level."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "19009",
+    "description": "Experience Example",
+    "picture": [
+      "19009_1.jpg",
+      "19009_2.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "19009-ru.mp3"
+          ],
+          "text": [
+            "Так я заменил прямые SQL запросы на вызовы API сервисов."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "19009-1-en.mp3",
+            "19009-2-en.mp3"
+          ],
+          "text": [
+            "So, I replaced the direct SQL queries with API service calls."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "19010",
+    "description": "Experience Example",
+    "picture": [
+      "19010_1.jpg",
+      "19010_2.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "19010-ru.mp3"
+          ],
+          "text": [
+            "Это было нелегко, но это сделало наши сервисы независимыми."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "19010-1-en.mp3",
+            "19010-2-en.mp3"
+          ],
+          "text": [
+            "It wasn't easy, but it made our services independent."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "19011",
+    "description": "Experience Example",
+    "picture": [
+      "19011_1.jpg",
+      "19011_2.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "19011-ru.mp3"
+          ],
+          "text": [
+            "В результате моя команда смогла добавлять новые фичи гораздо быстрее."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "19011-1-en.mp3",
+            "19011-2-en.mp3"
+          ],
+          "text": [
+            "As a result, my team could add new features much faster."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "19012",
+    "description": "Motivation & Goals",
+    "picture": [
+      "19012_1.jpg",
+      "19012_2.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "19012-ru.mp3"
+          ],
+          "text": [
+            "Я хочу расти как системный архитектор в будущем."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "19012-1-en.mp3",
+            "19012-2-en.mp3"
+          ],
+          "text": [
+            "I want to grow as a system architect in the future."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "19013",
+    "description": "Motivation & Goals",
+    "picture": [
+      "19013_1.jpg",
+      "19013_2.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "19013-ru.mp3"
+          ],
+          "text": [
+            "Я видел описание вашей вакансии."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "19013-1-en.mp3",
+            "19013-2-en.mp3"
+          ],
+          "text": [
+            "I saw your job description."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "19014",
+    "description": "Motivation & Goals",
+    "picture": [
+      "19014_1.jpg",
+      "19014_2.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "19014-ru.mp3"
+          ],
+          "text": [
+            "Вы используете событийно-ориентированную архитектуру."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "19014-1-en.mp3",
+            "19014-2-en.mp3"
+          ],
+          "text": [
+            "You use event-driven architecture."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "19015",
+    "description": "Motivation & Goals",
+    "picture": [
+      "19015_1.jpg",
+      "19015_2.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "19015-ru.mp3"
+          ],
+          "text": [
+            "Это очень интересно для меня."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "19015-1-en.mp3",
+            "19015-2-en.mp3"
+          ],
+          "text": [
+            "This is very interesting for me."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "19016",
+    "description": "Motivation & Goals",
+    "picture": [
+      "19016_1.jpg",
+      "м.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "19016-ru.mp3"
+          ],
+          "text": [
+            "Я читал об этом, но я хочу получить реальный опыт."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "19016-1-en.mp3",
+            "19016-2-en.mp3"
+          ],
+          "text": [
+            "I read about it, but I want to get real experience."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "19017",
+    "description": "Conclusion",
+    "picture": [
+      "19017_1.jpg",
+      "19017_2.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "19017-ru.mp3"
+          ],
+          "text": [
+            "Я ищу сильную команду и сложные проекты."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "19017-1-en.mp3",
+            "19017-2-en.mp3"
+          ],
+          "text": [
+            "I am looking for a strong team and challenging projects."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "19018",
+    "description": "Conclusion",
+    "picture": [
+      "19018_1.jpg",
+      "19018_2.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "19018-ru.mp3"
+          ],
+          "text": [
+            "Я думаю, мой опыт может быть полезен для вашей компании."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "19018-1-en.mp3",
+            "19018-2-en.mp3"
+          ],
+          "text": [
+            "I think my experience can be useful for your company."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "19019",
+    "description": "Conclusion",
+    "picture": [
+      "19019_1.jpg",
+      "19019_2.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "19019-ru.mp3"
+          ],
+          "text": [
+            "Я могу помочь вам строить надежные и быстрые системы."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "19019-1-en.mp3",
+            "19019-2-en.mp3"
+          ],
+          "text": [
+            "I can help you build robust and fast systems."
+          ]
+        }
+      }
+    ]
+  }
+]
