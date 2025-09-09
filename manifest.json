@@ -31,6 +31,12 @@
       "level": 1, 
       "description": "language core",
       "url": "https://raw.githubusercontent.com/verbocycle/data/main/decks/kanadsky/deck.json"
+    },{
+      "id": "job",
+      "title": "job interviews",
+      "level": 1, 
+      "description": "job interviews",
+      "url": "https://raw.githubusercontent.com/verbocycle/data/main/decks/job/deck.json"
     }
   ]
 }

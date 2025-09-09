@@ -1,0 +1,13 @@
+{
+  "id": "job",
+  "title": "job interviews",
+  "aspects": [
+    {
+      "id": "interview_about",
+      "version": 1,
+      "title": "interview: tell me about myself",
+      "description": "software ingeneer",
+      "url": "https://raw.githubusercontent.com/verbocycle/data/main/decks/job/interview_about/interview_about.json"
+    }
+  ]
+}
