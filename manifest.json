@@ -37,6 +37,12 @@
       "level": 1, 
       "description": "job interviews",
       "url": "https://raw.githubusercontent.com/verbocycle/data/main/decks/job/deck.json"
+    },{
+      "id": "twelve_factor_app",
+      "title": "The Twelve-Factor App",
+      "level": 1, 
+      "description": "The Twelve-Factor App",
+      "url": "https://raw.githubusercontent.com/verbocycle/data/main/decks/twelve_factor_app/deck.json"
     }
   ]
 }

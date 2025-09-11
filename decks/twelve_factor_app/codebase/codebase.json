@@ -1,0 +1,512 @@
+[
+  {
+    "id": "20001",
+    "description": "The Twelve-Factor App",
+    "picture": [
+      "20001.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "20001-ru.mp3"
+          ],
+          "text": [
+            "Одна кодовая база, отслеживаемая в системе контроля версий, множество развертываний."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "20001-1-en.mp3",
+            "20001-2-en.mp3"
+          ],
+          "text": [
+            "One codebase tracked in revision control, many deploys."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "20002",
+    "description": "The Twelve-Factor App",
+    "picture": [
+      "20002.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "20002-ru.mp3"
+          ],
+          "text": [
+            "12-факторное приложение всегда отслеживается в системе контроля версий, такой как Git, Mercurial или Subversion."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "20002-1-en.mp3",
+            "20002-2-en.mp3"
+          ],
+          "text": [
+            "A twelve-factor app is always tracked in a version control system, such as Git, Mercurial, or Subversion."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "20003",
+    "description": "The Twelve-Factor App",
+    "picture": [
+      "20003.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "20003-ru.mp3"
+          ],
+          "text": [
+            "Копия базы данных отслеживания ревизий называется репозиторием кода, часто сокращенно репо."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "20003-1-en.mp3",
+            "20003-2-en.mp3"
+          ],
+          "text": [
+            "A copy of the revision tracking database is known as a code repository, often shortened to code repo or just repo."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "20004",
+    "description": "The Twelve-Factor App",
+    "picture": [
+      "20004.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "20004-ru.mp3"
+          ],
+          "text": [
+            "Кодовая база — это любой отдельный репозиторий (в централизованной системе контроля версий, такой как Subversion)."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "20004-1-en.mp3",
+            "20004-2-en.mp3"
+          ],
+          "text": [
+            "A codebase is any single repo (in a centralized revision control system like Subversion)."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "20005",
+    "description": "The Twelve-Factor App",
+    "picture": [
+      "20005.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "20005-ru.mp3"
+          ],
+          "text": [
+            "Или кодовая база — это любой набор репозиториев, которые имеют общий корневой коммит (в децентрализованной системе контроля версий, такой как Git)."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "20005-1-en.mp3",
+            "20005-2-en.mp3"
+          ],
+          "text": [
+            "Or a codebase is any set of repos who share a root commit (in a decentralized revision control system like Git)."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "20006",
+    "description": "The Twelve-Factor App",
+    "picture": [
+      "20006.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "20006-ru.mp3"
+          ],
+          "text": [
+            "Всегда существует корреляция один-к-одному между кодовой базой и приложением."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "20006-1-en.mp3",
+            "20006-2-en.mp3"
+          ],
+          "text": [
+            "There is always a one-to-one correlation between the codebase and the app."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "20007",
+    "description": "The Twelve-Factor App",
+    "picture": [
+      "20007.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "20007-ru.mp3"
+          ],
+          "text": [
+            "Если есть несколько кодовых баз, это не приложение — это распределенная система."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "20007-1-en.mp3",
+            "20007-2-en.mp3"
+          ],
+          "text": [
+            "If there are multiple codebases, it’s not an app – it’s a distributed system."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "20008",
+    "description": "The Twelve-Factor App",
+    "picture": [
+      "20008.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "20008-ru.mp3"
+          ],
+          "text": [
+            "Каждый компонент распределенной системы является приложением, и каждый из них может индивидуально соответствовать двенадцати факторам."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "20008-1-en.mp3",
+            "20008-2-en.mp3"
+          ],
+          "text": [
+            "Each component in a distributed system is an app, and each can individually comply with twelve-factor."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "20009",
+    "description": "The Twelve-Factor App",
+    "picture": [
+      "20009.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "20009-ru.mp3"
+          ],
+          "text": [
+            "Множество приложений, использующих один и тот же код, является нарушением двенадцати факторов."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "20009-1-en.mp3",
+            "20009-2-en.mp3"
+          ],
+          "text": [
+            "Multiple apps sharing the same code is a violation of twelve-factor."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "20010",
+    "description": "The Twelve-Factor App",
+    "picture": [
+      "20010.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "20010-ru.mp3"
+          ],
+          "text": [
+            "Решением здесь является выделение общего кода в библиотеки, которые могут быть включены через менеджер зависимостей."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "20010-1-en.mp3",
+            "20010-2-en.mp3"
+          ],
+          "text": [
+            "The solution here is to factor shared code into libraries which can be included through the dependency manager."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "20011",
+    "description": "The Twelve-Factor App",
+    "picture": [
+      "20011.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "20011-ru.mp3"
+          ],
+          "text": [
+            "Существует только одна кодовая база на приложение, но будет много развертываний приложения."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "20011-1-en.mp3",
+            "20011-2-en.mp3"
+          ],
+          "text": [
+            "There is only one codebase per app, but there will be many deploys of the app."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "20012",
+    "description": "The Twelve-Factor App",
+    "picture": [
+      "20012.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "20012-ru.mp3"
+          ],
+          "text": [
+            "Развертывание — это запущенный экземпляр приложения."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "20012-1-en.mp3",
+            "20012-2-en.mp3"
+          ],
+          "text": [
+            "A deploy is a running instance of the app."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "20013",
+    "description": "The Twelve-Factor App",
+    "picture": [
+      "20013.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "20013-ru.mp3"
+          ],
+          "text": [
+            "Обычно это производственная среда и одна или несколько промежуточных сред."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "20013-1-en.mp3",
+            "20013-2-en.mp3"
+          ],
+          "text": [
+            "This is typically a production site, and one or more staging sites."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "20014",
+    "description": "The Twelve-Factor App",
+    "picture": [
+      "20014.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "20014-ru.mp3"
+          ],
+          "text": [
+            "Дополнительно, каждый разработчик имеет копию приложения, работающую в своей локальной среде разработки, каждая из которых также квалифицируется как развертывание."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "20014-1-en.mp3",
+            "20014-2-en.mp3"
+          ],
+          "text": [
+            "Additionally, every developer has a copy of the app running in their local development environment, each of which also qualifies as a deploy."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "20015",
+    "description": "The Twelve-Factor App",
+    "picture": [
+      "20015.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "20015-ru.mp3"
+          ],
+          "text": [
+            "Кодовая база одинакова для всех развертываний, хотя в каждом развертывании могут быть активны разные версии."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "20015-1-en.mp3",
+            "20015-2-en.mp3"
+          ],
+          "text": [
+            "The codebase is the same across all deploys, although different versions may be active in each deploy."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "20016",
+    "description": "The Twelve-Factor App",
+    "picture": [
+      "20016.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "20016-ru.mp3"
+          ],
+          "text": [
+            "Например, разработчик имеет коммиты, еще не развернутые в тестовой среде; а тестовая среда имеет коммиты, еще не развернутые в производственной."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "20016-1-en.mp3",
+            "20016-2-en.mp3"
+          ],
+          "text": [
+            "For example, a developer has some commits not yet deployed to staging; staging has some commits not yet deployed to production."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "20017",
+    "description": "The Twelve-Factor App",
+    "picture": [
+      "20017.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "20017-ru.mp3"
+          ],
+          "text": [
+            "Но все они разделяют единую кодовую базу, что позволяет идентифицировать их как разные развертывания одного и того же приложения."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "20017-1-en.mp3",
+            "20017-2-en.mp3"
+          ],
+          "text": [
+            "But they all share the same codebase, thus making them identifiable as different deploys of the same app."
+          ]
+        }
+      }
+    ]
+  }
+]

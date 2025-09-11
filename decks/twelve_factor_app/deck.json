@@ -1,0 +1,13 @@
+{
+  "id": "twelve_factor_app",
+  "title": "The Twelve-Factor App",
+  "aspects": [
+    {
+      "id": "Codebase",
+      "version": 1,
+      "title": "Codebase",
+      "description": "Codebase",
+      "url": "https://raw.githubusercontent.com/verbocycle/data/main/decks/twelve_factor_app/codebase/codebase.json"
+    }
+  ]
+}
