@@ -3,7 +3,7 @@
   "title": "The Twelve-Factor App",
   "aspects": [
     {
-      "id": "Codebase",
+      "id": "codebase",
       "version": 1,
       "title": "Codebase",
       "description": "Codebase",
