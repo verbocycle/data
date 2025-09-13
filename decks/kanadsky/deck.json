@@ -8,6 +8,12 @@
       "title": "english core",
       "description": "english core 150 card",
       "url": "https://raw.githubusercontent.com/verbocycle/data/main/decks/kanadsky/english_core/core.json"
+    },{
+      "id": "english_2.1",
+      "version": 1,
+      "title": "english 2.1",
+      "description": "complex sentence",
+      "url": "https://raw.githubusercontent.com/verbocycle/data/main/decks/kanadsky/english_2.1/eng2.1.json"
     }
   ]
 }
