@@ -43,6 +43,12 @@
       "level": 1, 
       "description": "The Twelve-Factor App",
       "url": "https://raw.githubusercontent.com/verbocycle/data/main/decks/twelve_factor_app/deck.json"
+    },{
+      "id": "programming",
+      "title": "programming: fundamentals",
+      "level": 1, 
+      "description": "fundamentals of programming",
+      "url": "https://raw.githubusercontent.com/verbocycle/data/main/decks/programming/deck.json"
     }
   ]
 }
