@@ -1,0 +1,13 @@
+{
+  "id": "programming",
+  "title": "programming",
+  "aspects": [
+    {
+      "id": "twelve_factor_app",
+      "version": 1,
+      "title": "The Twelve-Factor App",
+      "description": "In the modern era, software is commonly delivered as a service: called web apps, or software-as-a-service. The twelve-factor app is a methodology for building software-as-a-service apps",
+      "url": "https://raw.githubusercontent.com/verbocycle/data/main/decks/programming/twelve_factor_app/twelve_factor_app.json"
+    }
+  ]
+}

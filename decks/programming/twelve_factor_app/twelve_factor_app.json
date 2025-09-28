@@ -1,0 +1,1952 @@
+[
+  {
+    "id": "20001",
+    "description": "I. Codebase",
+    "picture": [
+      "20001.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "20001-ru.mp3"
+          ],
+          "text": [
+            "I. Одна кодовая база, отслеживаемая в системе контроля версий, множество развертываний."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "20001-1-en.mp3",
+            "20001-2-en.mp3"
+          ],
+          "text": [
+            "I. One codebase tracked in revision control, many deploys."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "20002",
+    "description": "I. Codebase",
+    "picture": [
+      "20002.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "20002-ru.mp3"
+          ],
+          "text": [
+            "Каждое приложение имеет одну кодовую базу."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "20002-1-en.mp3",
+            "20002-2-en.mp3"
+          ],
+          "text": [
+            "Each application has one codebase."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "20003",
+    "description": "I. Codebase",
+    "picture": [
+      "20003.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "20003-ru.mp3"
+          ],
+          "text": [
+            "Обычно это единый репозиторий Git."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "20003-1-en.mp3",
+            "20003-2-en.mp3"
+          ],
+          "text": [
+            "This is usually a single Git repository."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "20004",
+    "description": "I. Codebase",
+    "picture": [
+      "20004.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "20004-ru.mp3"
+          ],
+          "text": [
+            "Из этой одной кодовой базы вы можете создать множество различных развертываний."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "20004-1-en.mp3",
+            "20004-2-en.mp3"
+          ],
+          "text": [
+            "From this one codebase, you can create many different deployments."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "20005",
+    "description": "I. Codebase",
+    "picture": [
+      "20005.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "20005-ru.mp3"
+          ],
+          "text": [
+            "Например, одинаковый код работает в разработке, промежуточной среде и продакшне."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "20005-1-en.mp3",
+            "20005-2-en.mp3"
+          ],
+          "text": [
+            "For example, the same code runs in development, staging, and production."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "20006",
+    "description": "II. Dependencies",
+    "picture": [
+      "20006.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "20006-ru.mp3"
+          ],
+          "text": [
+            "II. Явно объявляйте и изолируйте зависимости."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "20006-1-en.mp3",
+            "20006-2-en.mp3"
+          ],
+          "text": [
+            "II. Explicitly declare and isolate dependencies."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "20007",
+    "description": "II. Dependencies",
+    "picture": [
+      "20007.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "20007-ru.mp3"
+          ],
+          "text": [
+            "Никогда не предполагайте, что требуемые библиотеки уже есть в системе."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "20007-1-en.mp3",
+            "20007-2-en.mp3"
+          ],
+          "text": [
+            "Never assume that required libraries are already on the system."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "20008",
+    "description": "II. Dependencies",
+    "picture": [
+      "20008.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "20008-ru.mp3"
+          ],
+          "text": [
+            "Ваше приложение должно объявлять все свои зависимости."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "20008-1-en.mp3",
+            "20008-2-en.mp3"
+          ],
+          "text": [
+            "Your app must declare all of its dependencies."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "20009",
+    "description": "II. Dependencies",
+    "picture": [
+      "20009.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "20009-ru.mp3"
+          ],
+          "text": [
+            "Используйте файл-манифест, такой как go.mod или package.json."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "20009-1-en.mp3",
+            "20009-2-en.mp3"
+          ],
+          "text": [
+            "Use a manifest file like go.mod or package.json."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "20010",
+    "description": "II. Dependencies",
+    "picture": [
+      "20010.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "20010-ru.mp3"
+          ],
+          "text": [
+            "Это делает настройку проекта надежной для всех."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "20010-1-en.mp3",
+            "20010-2-en.mp3"
+          ],
+          "text": [
+            "This makes project setup reliable for everyone."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "20011",
+    "description": "III. Config",
+    "picture": [
+      "20011.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "20011-ru.mp3"
+          ],
+          "text": [
+            "III. Храните конфигурацию в окружении."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "20011-1-en.mp3",
+            "20011-2-en.mp3"
+          ],
+          "text": [
+            "III. Store config in the environment."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "20012",
+    "description": "III. Config",
+    "picture": [
+      "20012.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "20012-ru.mp3"
+          ],
+          "text": [
+            "Конфигурация — это всё, что меняется между развертываниями, как пароли или API-ключи."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "20012-1-en.mp3",
+            "20012-2-en.mp3"
+          ],
+          "text": [
+            "Config is anything that changes between deployments, like passwords or API keys."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "20013",
+    "description": "III. Config",
+    "picture": [
+      "20013.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "20013-ru.mp3"
+          ],
+          "text": [
+            "Никогда не храните эту информацию прямо в вашем коде."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "20013-1-en.mp3",
+            "20013-2-en.mp3"
+          ],
+          "text": [
+            "Never store this information directly in your code."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "20014",
+    "description": "III. Config",
+    "picture": [
+      "20014.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "20014-ru.mp3"
+          ],
+          "text": [
+            "Вместо этого, храните всю конфигурацию в переменных окружения."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "20014-1-en.mp3",
+            "20014-2-en.mp3"
+          ],
+          "text": [
+            "Instead, store all config in environment variables."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "20015",
+    "description": "III. Config",
+    "picture": [
+      "20015.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "20015-ru.mp3"
+          ],
+          "text": [
+            "Это позволяет вам легко развертывать одинаковое приложение в разных окружениях."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "20015-1-en.mp3",
+            "20015-2-en.mp3"
+          ],
+          "text": [
+            "This lets you deploy the same app to different environments easily."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "20016",
+    "description": "IV. Backing Services",
+    "picture": [
+      "20016.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "20016-ru.mp3"
+          ],
+          "text": [
+            "IV. Рассматривайте сторонние службы как подключаемые ресурсы."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "20016-1-en.mp3",
+            "20016-2-en.mp3"
+          ],
+          "text": [
+            "IV. Treat backing services as attached resources."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "20017",
+    "description": "IV. Backing Services",
+    "picture": [
+      "20017.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "20017-ru.mp3"
+          ],
+          "text": [
+            "Сторонняя служба — это любая служба, которую ваше приложение использует по сети."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "20017-1-en.mp3",
+            "20017-2-en.mp3"
+          ],
+          "text": [
+            "A backing service is any service your app uses over the network."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "20018",
+    "description": "IV. Backing Services",
+    "picture": [
+      "20018.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "20018-ru.mp3"
+          ],
+          "text": [
+            "Примеры включают базу данных, кэш или очередь сообщений."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "20018-1-en.mp3",
+            "20018-2-en.mp3"
+          ],
+          "text": [
+            "Examples include a database, a cache, or a message queue."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "20019",
+    "description": "IV. Backing Services",
+    "picture": [
+      "20019.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "20019-ru.mp3"
+          ],
+          "text": [
+            "Ваше приложение должно рассматривать эти службы как подключаемые ресурсы."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "20019-1-en.mp3",
+            "20019-2-en.mp3"
+          ],
+          "text": [
+            "Your app should treat these services as attached resources."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "20020",
+    "description": "IV. Backing Services",
+    "picture": [
+      "20020.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "20020-ru.mp3"
+          ],
+          "text": [
+            "Вы можете заменить локальную базу данных на облачную, просто изменив URL в конфигурации."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "20020-1-en.mp3",
+            "20020-2-en.mp3"
+          ],
+          "text": [
+            "You can swap a local database for a cloud one just by changing a URL in the config."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "20021",
+    "description": "IV. Backing Services",
+    "picture": [
+      "20021.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "20021-ru.mp3"
+          ],
+          "text": [
+            "Никаких изменений в коде не требуется."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "20021-1-en.mp3",
+            "20021-2-en.mp3"
+          ],
+          "text": [
+            "No code changes should be needed."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "20022",
+    "description": "V. Build, Release, Run",
+    "picture": [
+      "20022.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "20022-ru.mp3"
+          ],
+          "text": [
+            "V. Строго разделяйте стадии сборки, релиза и выполнения."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "20022-1-en.mp3",
+            "20022-2-en.mp3"
+          ],
+          "text": [
+            "V. Strictly separate build, release, and run stages."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "20023",
+    "description": "V. Build, Release, Run",
+    "picture": [
+      "20023.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "20023-ru.mp3"
+          ],
+          "text": [
+            "Сборка: Преобразует ваш код в артефакт, такой как Docker-образ."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "20023-1-en.mp3",
+            "20023-2-en.mp3"
+          ],
+          "text": [
+            "Build: Converts your code into an artifact, like a Docker image."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "20024",
+    "description": "V. Build, Release, Run",
+    "picture": [
+      "20024.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "20024-ru.mp3"
+          ],
+          "text": [
+            "Релиз: Совмещает артефакт с конфигурацией окружения."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "20024-1-en.mp3",
+            "20024-2-en.mp3"
+          ],
+          "text": [
+            "Release: Combines the artifact with the environment's config."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "20025",
+    "description": "V. Build, Release, Run",
+    "picture": [
+      "20025.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "20025-ru.mp3"
+          ],
+          "text": [
+            "Выполнение: Запускает релиз в окружении."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "20025-1-en.mp3",
+            "20025-2-en.mp3"
+          ],
+          "text": [
+            "Run: Executes the release in the environment."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "20026",
+    "description": "V. Build, Release, Run",
+    "picture": [
+      "20026.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "20026-ru.mp3"
+          ],
+          "text": [
+            "Это строгое разделение делает ваш процесс развертывания надежным и последовательным."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "20026-1-en.mp3",
+            "20026-2-en.mp3"
+          ],
+          "text": [
+            "This strict separation makes your deployment process reliable and consistent."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "20027",
+    "description": "VI. Processes",
+    "picture": [
+      "20027.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "20027-ru.mp3"
+          ],
+          "text": [
+            "VI. Выполняйте приложение как один или несколько процессов без состояния."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "20027-1-en.mp3",
+            "20027-2-en.mp3"
+          ],
+          "text": [
+            "VI. Execute the app as one or more stateless processes."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "20028",
+    "description": "VI. Processes",
+    "picture": [
+      "20028.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "20028-ru.mp3"
+          ],
+          "text": [
+            "Ваше приложение должно работать как один или несколько процессов без состояния."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "20028-1-en.mp3",
+            "20028-2-en.mp3"
+          ],
+          "text": [
+            "Your application should run as one or more stateless processes."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "20029",
+    "description": "VI. Processes",
+    "picture": [
+      "20029.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "20029-ru.mp3"
+          ],
+          "text": [
+            "Они ничего не разделяют (не имеют общего состояния)."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "20029-1-en.mp3",
+            "20029-2-en.mp3"
+          ],
+          "text": [
+            "They share nothing."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "20030",
+    "description": "VI. Processes",
+    "picture": [
+      "20030.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "20030-ru.mp3"
+          ],
+          "text": [
+            "Любые данные, которые нужно сохранить, хранятся в сторонней службе, например, в базе данных."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "20030-1-en.mp3",
+            "20030-2-en.mp3"
+          ],
+          "text": [
+            "Any data that needs to be saved is stored in a backing service, like a database."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "20031",
+    "description": "VI. Processes",
+    "picture": [
+      "20031.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "20031-ru.mp3"
+          ],
+          "text": [
+            "Никогда не храните важные данные в памяти или на локальном диске."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "20031-1-en.mp3",
+            "20031-2-en.mp3"
+          ],
+          "text": [
+            "Never store important data in memory or on the local disk."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "20032",
+    "description": "VI. Processes",
+    "picture": [
+      "20032.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "20032-ru.mp3"
+          ],
+          "text": [
+            "Эти данные будут потеряны, когда процесс перезапустится."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "20032-1-en.mp3",
+            "20032-2-en.mp3"
+          ],
+          "text": [
+            "This data will be lost when the process restarts."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "20033",
+    "description": "VII. Port Binding",
+    "picture": [
+      "20033.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "20033-ru.mp3"
+          ],
+          "text": [
+            "VII. Экспортируйте сервисы через привязку портов."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "20033-1-en.mp3",
+            "20033-2-en.mp3"
+          ],
+          "text": [
+            "VII. Export services via port binding."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "20034",
+    "description": "VII. Port Binding",
+    "picture": [
+      "20034.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "20034-ru.mp3"
+          ],
+          "text": [
+            "12-факторное приложение должно быть самодостаточным."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "20034-1-en.mp3",
+            "20034-2-en.mp3"
+          ],
+          "text": [
+            "A 12-factor app should be self-contained."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "20035",
+    "description": "VII. Port Binding",
+    "picture": [
+      "20035.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "20035-ru.mp3"
+          ],
+          "text": [
+            "Ему не нужен внешний веб-сервер, такой как Nginx, для запуска."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "20035-1-en.mp3",
+            "20035-2-en.mp3"
+          ],
+          "text": [
+            "It doesn't need an external webserver like Nginx to run."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "20036",
+    "description": "VII. Port Binding",
+    "picture": [
+      "20036.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "20036-ru.mp3"
+          ],
+          "text": [
+            "Приложение экспортирует свой сервис путем прослушивания порта."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "20036-1-en.mp3",
+            "20036-2-en.mp3"
+          ],
+          "text": [
+            "The application exports its service by listening on a port."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "20037",
+    "description": "VII. Port Binding",
+    "picture": [
+      "20037.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "20037-ru.mp3"
+          ],
+          "text": [
+            "Номер порта предоставляется переменной окружения, такой как $PORT."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "20037-1-en.mp3",
+            "20037-2-en.mp3"
+          ],
+          "text": [
+            "The port number is provided by an environment variable, like $PORT."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "20038",
+    "description": "VIII. Concurrency",
+    "picture": [
+      "20038.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "20038-ru.mp3"
+          ],
+          "text": [
+            "VIII. Масштабируйтесь через модель процессов."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "20038-1-en.mp3",
+            "20038-2-en.mp3"
+          ],
+          "text": [
+            "VIII. Scale out via the process model."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "20039",
+    "description": "VIII. Concurrency",
+    "picture": [
+      "20039.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "20039-ru.mp3"
+          ],
+          "text": [
+            "Масштабируйтесь, добавляя больше процессов."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "20039-1-en.mp3",
+            "20039-2-en.mp3"
+          ],
+          "text": [
+            "Scale out by adding more processes."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "20040",
+    "description": "VIII. Concurrency",
+    "picture": [
+      "20040.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "20040-ru.mp3"
+          ],
+          "text": [
+            "Это называется горизонтальным масштабированием."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "20040-1-en.mp3",
+            "20040-2-en.mp3"
+          ],
+          "text": [
+            "This is called horizontal scaling."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "20041",
+    "description": "VIII. Concurrency",
+    "picture": [
+      "20041.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "20041-ru.mp3"
+          ],
+          "text": [
+            "Не делайте один процесс больше (вертикальное масштабирование)."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "20041-1-en.mp3",
+            "20041-2-en.mp3"
+          ],
+          "text": [
+            "Do not make one process bigger (vertical scaling)."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "20042",
+    "description": "VIII. Concurrency",
+    "picture": [
+      "20042.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "20042-ru.mp3"
+          ],
+          "text": [
+            "Чтобы обработать больше трафика, просто запустите больше копий вашего приложения."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "20042-1-en.mp3",
+            "20042-2-en.mp3"
+          ],
+          "text": [
+            "To handle more traffic, just run more copies of your app."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "20043",
+    "description": "VIII. Concurrency",
+    "picture": [
+      "20043.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "20043-ru.mp3"
+          ],
+          "text": [
+            "Эта модель проста и надежна для облака."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "20043-1-en.mp3",
+            "20043-2-en.mp3"
+          ],
+          "text": [
+            "This model is simple and reliable for the cloud."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "20044",
+    "description": "IX. Disposability",
+    "picture": [
+      "20044.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "20044-ru.mp3"
+          ],
+          "text": [
+            "IX. Максимизируйте надёжность с помощью быстрого запуска и изящного завершения."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "20044-1-en.mp3",
+            "20044-2-en.mp3"
+          ],
+          "text": [
+            "IX. Maximize robustness with fast startup and graceful shutdown."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "20045",
+    "description": "IX. Disposability",
+    "picture": [
+      "20045.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "20045-ru.mp3"
+          ],
+          "text": [
+            "Процессы вашего приложения должны быть утилизируемыми (одноразовыми)."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "20045-1-en.mp3",
+            "20045-2-en.mp3"
+          ],
+          "text": [
+            "Your app's processes must be disposable."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "20046",
+    "description": "IX. Disposability",
+    "picture": [
+      "20046.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "20046-ru.mp3"
+          ],
+          "text": [
+            "Это означает, что они могут быть запущены или остановлены в любое время."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "20046-1-en.mp3",
+            "20046-2-en.mp3"
+          ],
+          "text": [
+            "This means they can be started or stopped at any time."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "20047",
+    "description": "IX. Disposability",
+    "picture": [
+      "20047.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "20047-ru.mp3"
+          ],
+          "text": [
+            "Процессы должны запускаться быстро."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "20047-1-en.mp3",
+            "20047-2-en.mp3"
+          ],
+          "text": [
+            "Processes should start up fast."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "20048",
+    "description": "IX. Disposability",
+    "picture": [
+      "20048.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "20048-ru.mp3"
+          ],
+          "text": [
+            "Они также должны завершаться изящно."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "20048-1-en.mp3",
+            "20048-2-en.mp3"
+          ],
+          "text": [
+            "They must also shut down gracefully."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "20049",
+    "description": "IX. Disposability",
+    "picture": [
+      "20049.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "20049-ru.mp3"
+          ],
+          "text": [
+            "Это означает, что они завершают свою текущую работу перед остановкой."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "20049-1-en.mp3",
+            "20049-2-en.mp3"
+          ],
+          "text": [
+            "This means they finish their current work before stopping."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "20050",
+    "description": "IX. Disposability",
+    "picture": [
+      "20050.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "20050-ru.mp3"
+          ],
+          "text": [
+            "Это делает всю систему более надёжной."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "20050-1-en.mp3",
+            "20050-2-en.mp3"
+          ],
+          "text": [
+            "This makes the whole system more robust."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "20051",
+    "description": "X. Dev/Prod Parity",
+    "picture": [
+      "20051.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "20051-ru.mp3"
+          ],
+          "text": [
+            "X. Поддерживайте среды разработки, тестирования и продакшена максимально похожими."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "20051-1-en.mp3",
+            "20051-2-en.mp3"
+          ],
+          "text": [
+            "X. Keep development, staging, and production as similar as possible."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "20052",
+    "description": "X. Dev/Prod Parity",
+    "picture": [
+      "20052.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "20052-ru.mp3"
+          ],
+          "text": [
+            "Поддерживайте ваши среды разработки и продакшена очень похожими."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "20052-1-en.mp3",
+            "20052-2-en.mp3"
+          ],
+          "text": [
+            "Keep your development and production environments very similar."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "20053",
+    "description": "X. Dev/Prod Parity",
+    "picture": [
+      "20053.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "20053-ru.mp3"
+          ],
+          "text": [
+            "Используйте одинаковый тип базы данных и кэша везде."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "20053-1-en.mp3",
+            "20053-2-en.mp3"
+          ],
+          "text": [
+            "Use the same type of database and cache everywhere."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "20054",
+    "description": "X. Dev/Prod Parity",
+    "picture": [
+      "20054.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "20054-ru.mp3"
+          ],
+          "text": [
+            "Это помогает вам находить баги гораздо раньше."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "20054-1-en.mp3",
+            "20054-2-en.mp3"
+          ],
+          "text": [
+            "This helps you find bugs much earlier."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "20055",
+    "description": "X. Dev/Prod Parity",
+    "picture": [
+      "20055.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "20055-ru.mp3"
+          ],
+          "text": [
+            "Это также гарантирует, что то, что работает в разработке, будет также работать в продакшене."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "20055-1-en.mp3",
+            "20055-2-en.mp3"
+          ],
+          "text": [
+            "It also makes sure that what works in development will also work in production."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "20056",
+    "description": "XI. Logs",
+    "picture": [
+      "20056.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "20056-ru.mp3"
+          ],
+          "text": [
+            "XI. Рассматривайте логи как потоки событий."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "20056-1-en.mp3",
+            "20056-2-en.mp3"
+          ],
+          "text": [
+            "XI. Treat logs as event streams."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "20057",
+    "description": "XI. Logs",
+    "picture": [
+      "20057.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "20057-ru.mp3"
+          ],
+          "text": [
+            "Ваше приложение не должно управлять файлами логов."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "20057-1-en.mp3",
+            "20057-2-en.mp3"
+          ],
+          "text": [
+            "Your app should not manage log files."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "20058",
+    "description": "XI. Logs",
+    "picture": [
+      "20058.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "20058-ru.mp3"
+          ],
+          "text": [
+            "Вместо этого, оно должно писать все логи в stdout как поток событий."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "20058-1-en.mp3",
+            "20058-2-en.mp3"
+          ],
+          "text": [
+            "Instead, it should write all logs to stdout as an event stream."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "20059",
+    "description": "XI. Logs",
+    "picture": [
+      "20059.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "20059-ru.mp3"
+          ],
+          "text": [
+            "Среда выполнения (такая как Kubernetes) перехватит этот поток."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "20059-1-en.mp3",
+            "20059-2-en.mp3"
+          ],
+          "text": [
+            "The execution environment (like Kubernetes) will capture this stream."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "20060",
+    "description": "XI. Logs",
+    "picture": [
+      "20060.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "20060-ru.mp3"
+          ],
+          "text": [
+            "Затем она ответственна за отправку логов в конечное место назначения."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "20060-1-en.mp3",
+            "20060-2-en.mp3"
+          ],
+          "text": [
+            "It is then responsible for sending the logs to a final destination."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "20061",
+    "description": "XII. Admin Processes",
+    "picture": [
+      "20061.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "20061-ru.mp3"
+          ],
+          "text": [
+            "XII. Выполняйте административные задачи как разовые процессы."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "20061-1-en.mp3",
+            "20061-2-en.mp3"
+          ],
+          "text": [
+            "XII. Run admin tasks as one-off processes."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "20062",
+    "description": "XII. Admin Processes",
+    "picture": [
+      "20062.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "20062-ru.mp3"
+          ],
+          "text": [
+            "Примеры включают миграции базы данных или пользовательские скрипты."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "20062-1-en.mp3",
+            "20062-2-en.mp3"
+          ],
+          "text": [
+            "Examples include database migrations or custom scripts."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "20063",
+    "description": "XII. Admin Processes",
+    "picture": [
+      "20063.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "20063-ru.mp3"
+          ],
+          "text": [
+            "Эти задачи должны выполняться в том же окружении, что и ваше основное приложение."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "20063-1-en.mp3",
+            "20063-2-en.mp3"
+          ],
+          "text": [
+            "These tasks should run in the same environment as your main application."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "20064",
+    "description": "XII. Admin Processes",
+    "picture": [
+      "20064.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "20064-ru.mp3"
+          ],
+          "text": [
+            "Они используют тот же код и конфигурацию."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "20064-1-en.mp3",
+            "20064-2-en.mp3"
+          ],
+          "text": [
+            "They use the same code and config."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "20065",
+    "description": "XII. Admin Processes",
+    "picture": [
+      "20065.jpg"
+    ],
+    "lang": [
+      {
+        "ru": {
+          "sound": [
+            "20065-ru.mp3"
+          ],
+          "text": [
+            "Это сохраняет ваши административные задачи последовательными и надежными."
+          ]
+        }
+      },
+      {
+        "en": {
+          "sound": [
+            "20065-1-en.mp3",
+            "20065-2-en.mp3"
+          ],
+          "text": [
+            "This keeps your admin tasks consistent and reliable."
+          ]
+        }
+      }
+    ]
+  }
+]
